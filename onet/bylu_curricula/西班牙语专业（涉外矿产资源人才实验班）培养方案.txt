@@ -1,0 +1,417 @@
+北京语言大学 2024 版本科人才培养方案（上册） | 西班牙语专业（涉外矿产资源人才实验班）
+西班牙语专业（涉外矿产资源人才实验班）培养方案
+（2024版）
+一、培养目标
+本专业以服务国家战略和经济社会发展需求为导向，坚持立德树人，培养能适应我国社会主义
+现代化发展需要，德、智、体、美、劳全面发展，具有较高的社会责任感和较强的创新意识，具备
+西班牙语听、说、读、写、译等方面语言能力和跨文化沟通协调能力，系统掌握采矿工程专业知识，
+具有宽广国际视野和深厚家国情怀的国际化复合型人才。学生毕业后可服务于采矿工程及相关领
+域，能从事与西班牙语国家和地区相关的采矿工程设计、运行施工、生产管理、科技开发、应用研
+究和国际合作等方面的工作。
+二、学制、修业年限与学位
+（一）学制
+标准学制为四年，实行弹性学习年限，不低于三年不高于六年（应征入伍保留学籍者除外）。
+（二）学位
+授予联合学士学位应符合联合培养单位各自的学位授予标准，学位证书由本科生招生入学时学
+籍所在的学士学位授予单位颁发，联合培养单位在证书上予以注明，不再单独发放学位证书。
+三、联合培养合模式
+（一）本项目作为一个单独的本科专业，通过高考招生并予以说明
+由北京语言大学招收“西班牙语+采矿工程”学生，招生规模为每届15人；由北京科技大学招
+收“采矿工程+西班牙语”学生，招生规模为每届15人。
+（二）实行“2+2”双校区+国际交流培养模式
+项目学生分别在录取学校注册学籍。所有学生第1—4学期在北京语言大学住宿就读，第5—8
+学期在北京科技大学住宿就读，其中第6学期结束后暑期在西班牙语国家进行海外生产实习。
+四、课程设置
+两校共同拟定统一的本科人才培养方案，遵照培养方案开展人才培养工作。
+北京语言大学 2024 版本科人才培养方案
+课程、考核、实习实践及学分结构
+课程 课程 学时分配 课外 开课 学分
+课程名称 学分 学时
+类别 性质 课内 上机 实验 上机 学期 要求
+思想道德与法治
+3 48 48 一二
+MoralityandLaw
+国家安全教育
+1 16 16 二
+NationalSecurityEducation
+习近平新时代中国特色社会主义思想
+概论
+AnoutlineofXiJinpingThoughton 2 32 32 一二
+SocialismwithChineseCharacteristics
+foraNewEra
+军事理论
+2 36 36 一
+MilitaryTheory
+大学生心理健康
+1 16 16 一
+MentalHealthofCollegeStudents
+中国近现代史纲要
+3 48 48 一二
+通识 ChineseModernHistorySummary
+理论 课程 毛泽东思想和中国特色社会主义理论
+体系概论 63
+课程 （必 2 32 32 三四
+TheIntroductionofMaoZedong
+修） Thoughts
+马克思主义基本原理
+3 48 48 三四
+PrinciplesofMarxism
+思想政治理论课社会实践
+一二
+2 32 32
+SocialPracticeofIdeologicaland 三四
+PoliticalTheoryCourse
+形势与政策（1—8）
+2 64 64 一~八
+SituationandPolicy(1-8)
+职业生涯规划
+1 16 16 一
+CareerPlanning
+体育（1—4）
+一二
+4 128 128
+三四
+PhysicalEducation(1-4)
+大学计算机基础B
+2 32 16 16 一
+CollegeComputerFundamentalsB
+北京语言大学 2024 版本科人才培养方案（上册） | 西班牙语专业（涉外矿产资源人才实验班）
+微积分A（1）
+6 96 96 一
+CalculusAI
+微积分A（2）
+5 80 80 二
+CalculusAII
+线性代数
+3 48 48 一
+LinearAlgebra
+概率论与数理统计
+3 48 48 三
+Probability&MathematicalStatistics
+综合英语（1—4）
+一二
+8 128 128
+三四
+ComprehensiveEnglish(1-4)
+工科物理B
+4 64 64 二
+EngineeringPhysicsB
+材料力学
+4 64 58 6 三
+MaterialsMechanics
+经济与管理
+2 32 32 四
+EconomicsandManagement
+工程制图
+3 48 48 三
+EngineeringDrawing
+工程测量与3S技术
+2 32 16 16 四
+EngineeringSurveyand3STechnology
+采矿
+地质学基础（英文）
+工程 1 16 16 四
+专业 FundamentalsofGeology(English)
+学科 流体力学 13
+2 32 28 4 四
+平台
+FluidMechanics
+（必
+选矿概论
+修课）
+1 16 16 四
+IntroductiontoMineralProcessing
+矿山地质学
+2 32 24 8 五
+MiningGeology
+矿业软件设计基础 2 32 20 12 六
+北京语言大学 2024 版本科人才培养方案
+FundamentalofMiningDesignusing
+Software
+岩石力学与工程（英文）
+3 48 36 6 6 五
+RockMechanicsandEngineering
+爆破工程
+2 32 28 2 2 五
+BlastingEngineering
+采矿 矿床开采工程（露天开采）
+工程 2 32 32 五
+MiningEngineering(SurfaceMining)
+专业
+核心 矿床开采工程（地下开采）
+（必 3 48 42 2 4 五
+MiningEngineering(Underground
+修课）
+Mining)
+通风防尘与空气调节
+2 32 26 6 六
+MineVentilationandAirConditioning
+采矿专业英语
+2 32 32 六
+EnglishforMiningEngineering
+综合西班牙语（1—4）
+一二
+40 640 640
+三四
+ComprehensiveSpanish(1-4)
+西班
+牙语 拉美政治经济发展
+专业 2 32 32 七 44
+PoliticalandEconomicdevelopmentsin
+必修
+LatinAmerica
+课
+矿业西班牙语
+2 32 32 七
+SpanishfortheMiningIndustry
+西班牙语视听说
+2 32 32 五
+SpanishAudiovisual
+拉丁美洲国际关系
+2 32 32 六
+InternationalRelationsinLatin
+专业 American
+六
+选修 专门用途西班牙语翻译
+课 2 32 32
+TranslationofSpanishforSpecific
+Purposes
+跨文化交际
+2 32 32 六
+Cross-culturalCommunication
+西班牙与拉丁美洲思想史 2 32 32 七
+北京语言大学 2024 版本科人才培养方案（上册） | 西班牙语专业（涉外矿产资源人才实验班）
+HistoryofIdeas:SpainandLatin
+America
+西班牙语写作
+2 32 32 七
+SpanishWriting
+岩土工程特殊施工技术
+1 16 16 一
+SpecialConstructionTechnologyof
+GeotechnicalEngineering
+从技术走向科学的采矿工程专业
+1 16 16 一
+MiningEngineeringDiscipline:from
+TechnologytoScience
+金属矿产资源与开发技术
+2 32 28 4 一
+ResourcesandDevelopment
+TechnologyofMetalMinerals
+采矿工程新技术及发展方向
+1 16 16 四
+NewTechnologyandDevelopment
+DirectionofMiningEngineering
+五
+矿产资源法基础
+2 32 32
+TheBasisofMineralResourcesLaw
+特殊采矿技术
+2 32 32 五
+SpecialMiningTechnology
+数字矿山技术
+2 32 24 8 五
+DigitalMiningTechnology
+边坡工程
+2 32 28 4 五
+SlopeEngineering
+矿山运输与提升
+3 48 28 4 16 五
+MineTransportationandLifting
+弹性力学基础与数值模拟
+2 32 32 五
+FoundationofElasticMechanicsand
+NumericalSimulation
+采矿过程颗粒流模拟
+2 32 16 16 五
+ParticleFlowSimulationofMining
+Process
+地下工程施工技术
+2 32 32 五
+UndergroundEngineeringand
+ConstructionTechnology
+矿山机械与智能装备 2 32 32 六
+北京语言大学 2024 版本科人才培养方案
+MiningMachineryandIntelligent
+Equipment
+矿山智能监测技术与应用
+2 32 32 六
+IntelligentMeasurementand
+ApplicationinMine
+矿山物联网技术
+2 32 20 12 六
+InternetofThingsTechnologyinMine
+现代充填技术
+2 32 28 2 2 六
+ModernBackandFillTechnology
+安全、环境与健康风险专题
+2 32 32 六
+RiskStudyonSafety,Environmentand
+Health
+矿产经济学
+2 32 28 4 六
+MineralEconomics
+六
+资源、环境与可持续发展
+2 32 32
+Resources,Environmentand
+SustainableDevelopment
+矿业系统工程基础
+2 32 28 4 六
+FundamentalsofMineSystems
+Engineering
+矿山固体废物资源化
+2 32 32 七
+MineSolidWasteUtilization
+矿山安全工程
+2 32 32 七
+MineSafetyEngineering
+散体动力学与放矿
+2 32 24 4 4 七
+BulkDynamicsandOreDrawing
+美育（至少1门，限选西班牙语国家
+文学史，HistoryofLiteraturein 2 32 五
+素质
+Spanish-SpeakingCountries）
+人文素养（至少1门，限选西班牙语
+拓展
+国家概况，SurveyofSpanish-Speaking 2 32 五 6
+（选
+Countries）
+修课）
+科学素养（至少1门，限选现代矿山
+智能化管理，Modernmineintelligent 2 32 七
+management）
+实践 专业 露天采矿设计
+1.5 1.5周 七 28
+课程 实习
+SurfaceMiningDesign
+北京语言大学 2024 版本科人才培养方案（上册） | 西班牙语专业（涉外矿产资源人才实验班）
+地下采矿设计
+1.5 1.5周 七
+UndergroundMiningDesign
+毕业设计（论文）
+15 15周 八
+Bachelor'sProject(Thesis)
+毕业实习（西语）
+1 1周 八
+GraduationPractice(Spanish)
+机械设计基础课程设计
+2 32 二短
+CourseExerciseinBasisofMechanical
+Design
+认识实习
+3 3周 二短
+PracticeofCognition
+生产实习（西语共建）
+4 4周 三短
+PracticeofProduction
+专业综合实验
+1 16 七
+ProfessionalComprehensive
+Experiment
+实验 3
+工科物理实验A
+2 32 三
+EngineeringPhysicsExperimentsA
+社会实践
+3 3周 分散 3
+SocialPractice
+创新
+创业 创新创业活动
+2 2周 分散 2
+EntrepreneurshipandInnovation
+Practice
+国防 军事技能
+2 2周 三 2
+公益
+MilitaryTraining
+劳动教育
+劳育 1 32 8 24 一二 1
+LaborEducation
+通识课程学分 63
+采矿工程专业学科平台课程学分 13
+毕业生应取
+189 采矿工程专业核心课程学分 14
+得总学分
+西班牙语专业必修课学分 44
+专业选修课最低修读学分 10
+北京语言大学 2024 版本科人才培养方案
+素质拓展最低修读学分 6
+实践课程学分 39
+专业核心课程
+课程类型 课程名称 学分 学时 开设学期 主要授课教师（1—2人）
+专业必修课 综合西班牙语（1—4） 40 640 一二三四 苏婧、郑雯、刘柳、周钦
+专业必修课 拉美政治经济发展 2 32 七 郑青青、苏婧
+专业必修课 采矿西班牙语 2 32 七 焦剑、郑青青
+专业必修课 工程制图 3 48 三 柳小波、曲福明
+专业必修课 工程测量与3S技术 2 32 四 晏建斌、周喻
+专业必修课 地质学基础（英文） 1 16 四 钟日晨、肖玲玲
+专业必修课 流体力学 2 32 四 赵怡晴、软竹恩
+专业必修课 选矿概论 1 16 四 王雷鸣、杨晓炳
+专业必修课 矿山地质学 2 32 五 李克庆、梁培
+专业必修课 地下工程施工技术 2 32 五 付建新、汪杰
+专业必修课 矿业软件设计基础 2 32 六 王贻明、曹帅
+专业必修课 岩石力学与工程（英文） 3 48 五 金爱兵、孙浩
+专业必修课 爆破工程 2 32 五 吴春平、王勇
+专业必修课 矿床开采工程（露天开采） 2 32 五 曹辉、朱斯陶
+专业必修课 矿床开采工程（地下开采） 3 48 五 吴爱祥、宋卫东
+专业必修课 通风防尘与空气调节 2 32 六 韩斌、张延凯
+专业必修课 采矿专业英语 2 32 六 李佳洁、谭玉叶
+专业必修课 矿业系统工程基础 2 32 六 李国清、侯杰
+五、教育教学管理
+（一）学分互认机制
+两校学生采用同一套培养方案，专业核心课程由双方互派教师授课。通识课程、素质拓展课程、
+实践课程中部分课程与环节，两校形成互认机制。
+（二）学籍和费用缴纳
+联合培养期间，学生学籍与住宿均保留在录取学校。学生到合作方学校上课期间，在生活安排、
+校园一卡通办理、图书资料借阅等日常学习生活方面，享受与合作方学校学生相同的待遇；住宿费
+按实际住宿学校标准并由住宿学校收取，学费按录取学校专业标准执行，由录取学校收取。
+北京语言大学 2024 版本科人才培养方案（上册） | 西班牙语专业（涉外矿产资源人才实验班）
+（三）学生评优评奖及推免研究生等机制
+联合培养期间，学生可以参与合作方学校的各项科研、创新创业、文体活动等。联合学校须将
+对方学生思想品德、学业成绩及参与活动的各方面表现做好记录，转交学籍所在学校，由学生学籍
+所在学校对学生进行表彰和奖励。
+研究生推免由学生学籍所在学校各自进行评选，名额可适当向该项目学生倾斜。
+（四）淘汰机制
+每学期结束，由学生学籍所在学校对项目学生进行考核，有以下情形之一的，取消联合培养资
+格，空缺名额不再增补：
+1. 达到相应学业警示条件的；
+2. 因故休学或降级的；
+3. 违反两校规章制度受到校级及以上纪律处分的；
+4. 其他应当退出的情形。
+对于确因上述原因取消联合培养资格的学生，相应调整到学籍所在学校相应专业普通班进行学
+习。
+六、保障措施
+（一）组织保障
+两校分别成立联合学士学位培养项目领导小组，对项目在本校的实施进行指导和监督，并保持
+密切沟通、互相协作支持。
+（二）经费保障
+两校对项目都给予稳定持续的政策支持，保障项目师资队伍建设、专业建设、课程建设、实践
+教学、创新创业教育等方面的经费投入，推进教育教学改革的不断深入。
+一年级 二年级 三年级 四年级
+1-2学期 3-4学期 5-6学期 7-8学期
+阿 思想道德与法治、中国近现代史纲要 马克思主义基本原理
+习近平新时代中国特色社会主义思想概论 毛泽东思想和中国特色社会主义理论体
+思想政治理论课社会实践、形势与政策
+拉 公共必修课 国家安全教育、大学生心理健康 系概论 形势与政策 形势与政策
+职业生涯规划、军事理论 思想政治理论课社会实践 劳动教育
+大学计算机A、劳动教育 形势与政策
+伯
+体育、中文读写 劳动教育、体育
+语
+综合英语（一、二） 综合英语（三、四）
+外语必修课 —— ——
+专 英语视听说（一、二） 英语视听说（三、四）
+业
+课 基础阿语（1-4）、 阿语阅读（1-2） 阿拉伯经典文学作品选读（1-2） 阿语政治外交与中阿关系
+专业必修课 阿语视听（1-4）、阿拉伯语口语（1-4） 阿拉伯语写作（1-2） 中阿文化交流
+阿拉伯国情（1-2） 基础阿语翻译（1-2） 高级阿语翻译
+程
+修
+读 专业选修课 专业限选课应修7学分
+专业选修课应修9学分
+指
+南 通识教育课
+七大类别【2—7学期。应修学分：12（含美育≥2，四史≥1）】
+实践 军事技能、 社会实践、 专业及毕业实习、 毕业论文

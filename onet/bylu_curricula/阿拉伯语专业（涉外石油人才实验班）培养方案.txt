@@ -1,0 +1,432 @@
+北京语言大学 2024 版本科人才培养方案（上册） | 阿拉伯语专业（涉外石油人才实验班）
+阿拉伯语专业（涉外石油人才实验班）培养方案
+（2024版）
+一、培养目标
+本专业以服务国家战略和经济社会发展需求为导向，坚持立德树人，培养能适应我国社会主义
+现代化发展需要，德、智、体、美、劳全面发展，具有较高的社会责任感和较强的创新意识，系统
+掌握工学基础知识和石油工程专业知识，具备阿拉伯语听、说、读、写、译等方面语言能力和跨文
+化沟通协调能力，具有宽广国际视野和深厚家国情怀的国际化复合型人才，毕业后服务于石油与天
+然气工程及相关领域，能从事与阿拉伯语国家和地区相关的石油工程领域工程设计、运行施工、生
+产管理、科技开发、应用研究和国际合作等方面的工作。
+二、学制、修业年限与学位
+（一）学制
+标准学制为四年，实行弹性学习年限，不低于三年不高于六年（应征入伍保留学籍者除外）。
+（二）学位
+授予联合学士学位应符合联合培养单位各自的学位授予标准，学位证书由本科生招生入学时学
+籍所在的学士学位授予单位颁发，联合培养单位在证书上予以注明，不再单独发放学位证书。
+三、联合培养合作模式
+（一）本项目作为一个单独的本科专业，通过高考招生并予以说明
+由北京语言大学招收“阿拉伯语+石油工程”学生，招生规模为每届15人；由中国石油大学（北
+京）招收“石油工程+阿拉伯语”学生，招生规模为每届15人。
+（二）实行“1+1.5+0.5+1”双校区+国际交流培养模式
+项目学生分别在录取学校注册学籍。所有学生第1—2学期在中国石油大学（北京）住宿就读，
+第3—5学期在北京语言大学住宿就读，第6学期在阿联酋学习，第7—8学期在中国石油大学（北
+京）住宿学习。
+四、课程设置
+两校共同拟定统一的本科人才培养方案，遵照培养方案开展人才培养工作。
+北京语言大学 2024 版本科人才培养方案
+课程、考核、实习实践及学分结构
+课程 课程 学 学时分配 课外 开课 学分
+课程名称 学分
+类别 性质 时 课内 上机 实验 上机 学期 要求
+思想道德与法治
+2 32 32 一
+Ideology,MoralityandRuleofLaw
+思想道德与法治社会实践
+1 16 16 一
+SocialPracticeforIdeology,
+MoralityandRuleofLaw
+高等数学A（Ⅰ）
+6 96 96 一
+AdvancedMathematicsA(I)
+大学体育（I）
+1 32 32 一
+PhysicalEducation(I)
+入学教育与安全教育
+0 16 1周 一
+FreshmanEntrance&Safety
+Education
+大学生国家安全教育
+1 29 29 一二
+NationalSecurityEducationfor
+Undergraduates
+通
+通
+识 大学生心理素质调适
+识
+教 0 32 32 一 61.5
+必 CollegeStudentsPsychological
+育
+修 QualityAdjustment
+课
+军事技能
+1 32 2周 一
+MilitarySkills
+军事理论
+1 36 36 一
+MilitaryDoctrine
+形势与政策教育（Ⅰ）
+0.5 8 8 一
+SituationandPolicy(I)
+大学生就业指导
+（职业生涯规划部分）
+0.5 12 12 一
+CollegeStudents'CareerEducation
+(CareerPlanning)
+劳动通论
+0 26 26 一二
+GeneralTheoryofLabor
+中国近现代史纲要
+2 32 32 二
+OutlineofModernChineseHistory
+北京语言大学 2024 版本科人才培养方案（上册） | 阿拉伯语专业（涉外石油人才实验班）
+中国近现代史纲要社会实践
+1 16 16 二
+SocialPracticeofOutlineofModern
+ChineseHistory
+高等数学A（Ⅱ）
+6 96 96 二
+AdvancedMathematicsA(II)
+大学物理B（Ⅰ）
+4 64 64 二
+CollegePhysicsB(I)
+工程化学
+2.5 40 32 8 二
+EngineeringChemistry
+大学体育（Ⅱ）
+1 32 32 二
+PhysicalEducation(II)
+Python数据分析
+2 48 36 12 二
+DataAnalysiswithPython
+形势与政策教育（Ⅱ）
+0.5 8 8 二
+SituationandPolicy(II)
+大学生社会调查与实践
+0 16 4 12 二
+SocialInvestigationandPracticeof
+CollegeStudents
+线性代数
+3 48 48 三
+LinearAlgebra
+体育（3）
+1 32 32 三
+PhysicalEducation(3)
+毛泽东思想和中国特色社会主义
+理论体系概论
+2 32 32 三四
+TheIntroductionofMaoZedong
+Thoughts
+马克思主义基本原理
+3 48 48 三四
+PrinciplesofMarxism
+习近平新时代中国特色社会主义
+思想概论
+AnoutlineofXiJinpingThoughton 2 32 32 三四
+SocialismwithChinese
+CharacteristicsforaNewEra
+思想政治理论课社会实践
+2 32 32 三四
+SocialPracticeofIdeologicaland
+PoliticalTheoryCourse
+北京语言大学 2024 版本科人才培养方案
+综合英语（1—2）
+4 64 64 三四
+ComprehensiveEnglish(1-2)
+英语视听说（1—2）
+4 64 64 三四
+EnglishListeningandSpeaking
+(1-2)
+概率统计基础
+3 48 48 四
+FoundationofProbabilityand
+Statistics
+体育（4）
+1 32 32 四
+PhysicalEducation(4)
+就业指导
+0.5 12 12 七
+CareerEducation
+形势与政策教育（III）
+三至
+1 48 48
+八
+SituationandPolicy(III)
+创新创业类课程 2 二 2
+中共中央延安十三年史
+0 15 15 一二
+CentralCommitteeofthe
+0（至少
+理论 CommunistPartyofChinainYan'an
+修读一
+选修
+改革开放史 门）
+0 22 22 一二
+TheHistoryofChina'sReformand
+OpeningUp
+通识 可修读校内通识教育选修课和校际通识教育选修课，其中至少修读2学分
+选修 的美育课程
+普通地质学
+专业 3 48 38 10 一
+GeneralGeology
+大类
+平台
+石油工程导论——名家讲坛
+课 1 16 16 一
+PetroleumEngineeringInstitute
+专
+工程力学
+业 石 3 48 48 二
+教 EngineeringMechanics
+油
+育
+工
+油层物理
+课
+程 3 48 38 10 二
+专 Petro-Physics 26.5
+业
+流体力学
+必
+4 64 54 10 三
+修
+FluidMechanics
+课
+渗流力学 3.5 56 50 6 三
+北京语言大学 2024 版本科人才培养方案（上册） | 阿拉伯语专业（涉外石油人才实验班）
+TheMechanicsofFluidFlowingin
+PorousMedia
+钻井工程
+3.5 56 50 6 10 四
+DrillingEngineering
+油藏工程
+3 48 48 20 四
+ReservoirEngineering
+采油工程
+3.5 56 50 6 20 五
+OilProductionEngineering
+完井工程
+3 48 42 6 10 五
+WellCompletionEngineering
+实用基础阿拉伯语（1—3）
+一二
+24 384
+三
+BasicArabic(1-3)
+阿拉伯语商贸会谈（1—2）
+4 64 四五
+ArabicBusinessNegotiations(1-2)
+阿
+拉
+阿语听力（1—3）
+三四
+伯
+6 96
+ArabicListeningComprehension 五
+语
+(1-3)
+专 48
+业 阿语口语（1—3） 三四
+6 96
+必 五
+ArabicConversation(1-3)
+修
+课 阿拉伯国家社会与文化（1—2）
+4 64 三四
+SocietyandCultureofArab
+Countries(1-2)
+翻译理论与实践（1—2）
+4 64 四五
+TranslationTheoryandPractice
+(1-2)
+阿拉伯语时事研读（1—2）
+4 64 五六
+ArabicCurrentAffairsReading
+(1-2)
+阿拉伯高级视听说（1—2）
+专
+4 64 五六
+AdvancedArabicListeningand
+业
+Speaking(1-2)
+选 10
+修 阿语写作（1—2）
+课 4 64 五六
+ArabicWriting(1-2)
+碳中和工程概论
+1 16 16 二
+IntroductiontoCarbonNeutral
+Engineering
+北京语言大学 2024 版本科人才培养方案
+石油工程大数据
+2 32 32 七
+PetroleumEngineeringDataMining
+油气田开发地质学
+3 48 48 七
+DevelopmentGeologyofOiland
+GasField
+钻井液工艺原理
+2 32 32 七
+DrillingFluidTechnologyPrinciple
+油田化学工程
+2.5 40 36 4 七
+OilfieldChemistry
+现代试井分析
+2 32 32 七
+ModernWellTesting
+油气钻采管柱设计
+2 32 32 七
+DrillingandProductionTubular
+Design
+综合录井技术
+2 32 32 七
+ComprehensiveLogging
+Technology
+能源互联网与智慧能源
+2 32 32 七
+EnergyInternetandSmartEnergy
+天然气水合物
+2 32 32 七
+NaturalGasHydratesTreatment
+非常规油气与可再生资源
+3 48 40 8 七
+InnovationTheoryandPracticeof
+CollegeStudents
+地热开发利用
+2 32 32 七
+GeothermalDevelopmentandtand
+Utilization
+石油工程专业英语
+3 48 48 八
+EnglishforPetroleumEngineering
+提高采收率基础
+2 32 32 八
+FundamentalsofEnhancedOil
+Recovery
+油田开发方案设计
+2 32 32 八
+DesignofOilFieldDevelopment
+Plans
+复杂结构井开发与开采 2 32 32 八
+北京语言大学 2024 版本科人才培养方案（上册） | 阿拉伯语专业（涉外石油人才实验班）
+DevelopmentandExploitationof
+ComplexStructureWell
+人工智能与安全预警
+1 16 16 八
+ArtificialIntelligenceandSecurity
+Alerts
+人工智能与石油工程
+2 32 32 八
+ArtificialIntelligenceandPetroleum
+Engineering
+地质实习
+2 2周 一S
+GeologicalFieldWork
+石油工程认知仿真实习
+2 2周 二S
+PetroleumEngineeringPreliminary
+Practice
+生产实习
+6 8周 六
+专
+ProductionPractice
+业
+实 石油工程综合设计
+践 6 6周 七
+PetroleumEngineeringIntegrated
+Design
+毕业设计
+8 八
+周
+GraduationDesign
+阿拉伯语学术实践
+（学位论文或调研报告）
+4 4周 八
+ArabicAcademicPractice
+素质拓展
+一至
+第二课堂 0 0
+八
+DiathesisDeveloping
+通识教育课 64.5
+毕业生应修总
+183 专业教育课 116.5
+学分
+第二课堂 0
+专业核心课程
+课程类型 课程名称 学分 学时 开设学期 主要授课教师（1—2人）
+实用基础阿拉伯语
+专业必修课 24 384 一二三 周华、陆映波、蒋维
+（1—3）
+阿拉伯语商贸会谈
+专业必修课 4 64 四五 史廪霏、周行
+（1—2）
+专业必修课 阿语听力（1—3） 6 96 三四五 王光远、庞博
+专业必修课 阿语口语（1—3） 6 96 三四五 涂龙德、白野
+阿拉伯国家社会与文化
+专业必修课 4 64 三四 罗林、曹磊
+（1—2）
+北京语言大学 2024 版本科人才培养方案
+专业必修课 翻译理论与实践（1—2） 4 64 四五 刘风华、陈静
+专业必修课 工程力学 3 48 二 张广清、李世远
+专业必修课 油层物理 3 48 二 杨胜来、于海洋
+专业必修课 流体力学 4 64 三 汪志明、曾泉树
+专业必修课 渗流力学 3.5 56 三 王敬、黄世军
+专业必修课 钻井工程 3.5 56 四 金衍、卢运虎
+专业必修课 油藏工程 3 48 四 李俊键、李杰
+专业必修课 采油工程 3.5 56 五 马新仿、王飞
+专业必修课 完井工程 3 48 五 黄中伟、宋先知
+五、教育教学管理
+（一）学分互认机制
+两校学生采用同一套培养方案，专业核心课程由双方互派教师授课。通识必修课、通识选修课、
+职业能力必修课中部分课程与环节，两校形成互认机制。
+（二）学籍和费用缴纳
+联合培养期间，学生学籍均保留在录取学校。学生到合作方学校就读期间，在食宿安排、校园
+一卡通办理、图书资料借阅等日常学习生活方面，享受与合作方学校学生相同的待遇；住宿费按合
+作方学校标准并按实际就读学期缴纳，学费以两个学位涉及专业中学费标准较高的执行，由当学期
+就读学校收取。
+（三）学生评优评奖及推免研究生等机制
+联合培养期间，学生可以参与合作方学校的各项科研、创新创业、文体活动等。合作学校须将
+对方学生思想品德、学业成绩及参与活动的各方面表现做好记录，转交对方学校，并对学生做出表
+彰和奖励。
+研究生推免由学生学籍所在学校各自进行评选，名额可适当向该项目学生倾斜。
+（四）淘汰机制
+每学期结束，由学生学籍所在学校对项目学生进行考核，有以下情形之一的，取消联合培养资
+格，空缺名额不再增补：
+1.达到相应学业警示条件的；
+2.因故休学或降级的；
+3.违反学校规章制度受到校级以上纪律处分的；
+北京语言大学 2024 版本科人才培养方案（上册） | 阿拉伯语专业（涉外石油人才实验班）
+4.其他应当退出的情形。
+对于确因上述原因取消联合培养资格的学生，相应调整到学籍所在学校相应专业普通班进行学
+习。
+六、保障措施
+（一）组织保障
+两校分别成立联合学士学位培养项目领导小组，对项目在本校的实施进行指导和监督，并保持
+密切沟通、互相协作支持。
+（二）经费保障
+两校对项目都给予稳定持续的政策支持，保障项目师资队伍建设、专业建设、课程建设、实践
+教学、创新创业教育等方面的经费投入，推进教育教学改革的不断深入。
+一年级 二年级 三年级 四年级
+1-2学期 3-4学期 5-6学期 7-8学期
+思想道德与法治、中国近现代史纲要 马克思主义基本原理
+习近平新时代中国特色社会主义思想概论 毛泽东思想和中国特色社会主义理论体
+日 公共必修课 思想政治理论课社会实践、形势与政策 系概论 形势与政策 形势与政策
+国家安全教育、大学生心理健康 思想政治理论课社会实践 劳动教育
+职业生涯规划、军事理论、大学计算机A 形势与政策
+语
+劳动教育、体育 劳动教育、体育
+专
+业 外语必修课 综 英 合 语 英 视 语 听 （ 说 一 （ 、 一 二 、 ） 二 、 ） 英 综 语 合 视 英 听 语 说 （ （ 三 三 、 、 四 四 ） ） —— ——
+课
+日语精读（1-4）、日语听说、日语听力（1-2）、日语会话与写作（1-2）
+程 日语高级会话、日语视听、日本概况、跨文化交际、日语阅读与写作
+专业必修课
+日语专题阅读与写作、日语笔译（1-2）、日语口译（1-2）
+修 日语演讲与辩论、日语概论、日本文学史、学术写作与研究方法
+读
+指 专业选修课 应修学分:12
+南
+通识教育课
+七大类别【2—7学期。应修学分：12（含美育≥2，四史≥1）】
+实践 军事技能、 社会实践、 专业及毕业实习、 毕业论文

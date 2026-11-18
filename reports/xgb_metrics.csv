@@ -1,0 +1,4 @@
+task,n_splits,cv_r2_mean,cv_r2_std,cv_mae_mean,cv_mae_std,n_train,n_test,n_test_jobs,holdout_r2,holdout_mae,cv_auc_mean,cv_auc_std,cv_acc_mean,cv_acc_std,holdout_auc,holdout_acc,n_jobs,loocv_r2,loocv_mae
+salary,5.0,-1.56,1.8081,25112.3645,3927.0761,1012.0,264.0,6.0,0.0719,18040.5,,,,,,,,,
+high_salary,5.0,,,,,1012.0,264.0,6.0,,,0.6334,0.1213,0.4791,0.1745,0.8753,0.7008,,,
+salary_job,,,,,,,,,,,,,,,,,29.0,0.0311,19523.4

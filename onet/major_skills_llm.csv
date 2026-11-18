@@ -1,0 +1,433 @@
+major,skill,weight,evidence
+人力资源管理专业（大数据应用）培养方案,Data Analysis,0.9,商务数据分析核心课程
+人力资源管理专业（大数据应用）培养方案,Management of Personnel Resources,0.9,人力资源管理核心课程
+人力资源管理专业（大数据应用）培养方案,Statistics,0.85,统计学、概率论与数理统计课程
+人力资源管理专业（大数据应用）培养方案,Data Visualization,0.8,数据可视化核心课程
+人力资源管理专业（大数据应用）培养方案,Complex Problem Solving,0.8,分析解决组织管理问题
+人力资源管理专业（大数据应用）培养方案,Critical Thinking,0.75,培养批判性思维与创新
+人力资源管理专业（大数据应用）培养方案,Coordination,0.75,组织沟通与协调能力
+人力资源管理专业（大数据应用）培养方案,Mathematics,0.7,微积分、线性代数、概率论课程
+人力资源管理专业（大数据应用）培养方案,Judgment and Decision Making,0.7,发现管理问题并判断决策
+人力资源管理专业（大数据应用）培养方案,Systems Analysis,0.7,系统分析组织管理问题
+人工智能,Programming,0.95,程序设计基础、数据结构等核心课
+人工智能,Machine Learning,0.95,机器学习、深度学习核心课
+人工智能,Mathematics,0.9,离散数学等数理基础课程
+人工智能,Complex Problem Solving,0.85,解决人工智能典型应用问题
+人工智能,Data Analysis,0.8,自然语言处理、计算机视觉实践
+人工智能,Active Learning,0.8,要求终身学习拓展能力
+人工智能,Technology Design,0.8,研发人工智能算法与软件
+人工智能,Critical Thinking,0.75,培养科学精神与创新能力
+人工智能,Systems Analysis,0.75,系统思维能力培养目标
+人工智能,Learning Strategies,0.7,紧跟学科专业发展
+会计学,Mathematics,0.9,微积分、线性代数、概率论与数理统计
+会计学,Statistics,0.85,概率论与数理统计、统计学核心课
+会计学,Critical Thinking,0.8,财务分析、审计学培养分析判断
+会计学,Judgment and Decision Making,0.8,财务管理学、财务分析支持决策
+会计学,Complex Problem Solving,0.75,高级财务会计、成本管理会计综合应用
+会计学,Data Analysis,0.75,财务分析、统计学定量分析方法
+会计学,Reading Comprehension,0.7,双语教学阅读国际会计惯例文献
+会计学,Writing,0.7,财务分析报告、毕业论文撰写
+会计学,Speaking,0.65,双语教学与业务沟通表达
+会计学,Active Learning,0.65,了解学科前沿与发展动态
+俄语专业（涉外油气勘查人才实验班）培养方案,Reading Comprehension,0.9,俄语阅读、俄语国家概况课程
+俄语专业（涉外油气勘查人才实验班）培养方案,Speaking,0.9,俄语视听说、实践口译训练
+俄语专业（涉外油气勘查人才实验班）培养方案,Active Listening,0.85,俄语视听说、实践口译课程
+俄语专业（涉外油气勘查人才实验班）培养方案,Science,0.85,普通地质学、矿物岩石学等
+俄语专业（涉外油气勘查人才实验班）培养方案,Writing,0.8,俄汉应用翻译、经贸俄语课程
+俄语专业（涉外油气勘查人才实验班）培养方案,Complex Problem Solving,0.8,资源勘查工程设计运行施工
+俄语专业（涉外油气勘查人才实验班）培养方案,Critical Thinking,0.75,构造地质学、油气勘探综合分析
+俄语专业（涉外油气勘查人才实验班）培养方案,Coordination,0.75,培养目标含跨文化沟通协调能力
+俄语专业（涉外油气勘查人才实验班）培养方案,Judgment and Decision Making,0.75,油气地质与勘探综合判断
+俄语专业（涉外油气勘查人才实验班）培养方案,Active Learning,0.7,双语跨学科复合培养要求
+印度尼西亚语专业（印英复语）培养方案,Reading Comprehension,0.9,印尼语泛读、高级阅读、报刊阅读课程
+印度尼西亚语专业（印英复语）培养方案,Speaking,0.9,印尼语会话、语音与朗读、同声传译
+印度尼西亚语专业（印英复语）培养方案,Active Listening,0.85,印尼语视听说、高级视听说课程
+印度尼西亚语专业（印英复语）培养方案,Writing,0.85,印尼语写作、思辨英语写作课程
+印度尼西亚语专业（印英复语）培养方案,Active Learning,0.75,培养目标强调主动学习与创新精神
+印度尼西亚语专业（印英复语）培养方案,Critical Thinking,0.7,思辨英语写作、文化研究课程
+印度尼西亚语专业（印英复语）培养方案,Learning Strategies,0.7,复语学习需掌握语言学习策略
+印度尼西亚语专业（印英复语）培养方案,Social Perceptiveness,0.7,跨文化交际与印尼文化研究课程
+印度尼西亚语专业（印英复语）培养方案,Complex Problem Solving,0.65,汉印翻译与同声传译解决复杂转换
+印度尼西亚语专业（印英复语）培养方案,Persuasion,0.6,商务印尼语与翻译实践培养表达说服
+古典文献学,Reading Comprehension,0.95,文献典籍阅读能力为核心培养要求
+古典文献学,Writing,0.9,熟练运用母语进行书面表达
+古典文献学,Critical Thinking,0.85,校勘学、版本目录学需辨析考据
+古典文献学,Speaking,0.8,培养口语表达能力
+古典文献学,Active Learning,0.8,培养自主学习与独立研究意识
+古典文献学,Learning Strategies,0.75,掌握文献整理与研究方法
+古典文献学,Judgment and Decision Making,0.7,校勘辨伪需判断决策
+古典文献学,Complex Problem Solving,0.7,古典文献整理研究解决复杂问题
+古典文献学,Coordination,0.5,培养人际沟通交往能力
+古典文献学,Social Perceptiveness,0.45,培养人际沟通交往能力
+听力与言语康复学,Active Listening,0.9,临床见习实习，评估患者沟通
+听力与言语康复学,Service Orientation,0.9,热爱康复服务，服务全生命周期
+听力与言语康复学,Speaking,0.85,语言治疗与康复服务需口头表达
+听力与言语康复学,Critical Thinking,0.85,培养批判性思维与循证康复
+听力与言语康复学,Social Perceptiveness,0.85,尊重关爱病患与特殊人士
+听力与言语康复学,Complex Problem Solving,0.85,评估并制订康复治疗措施
+听力与言语康复学,Reading Comprehension,0.8,掌握听力学与语言科学理论
+听力与言语康复学,Active Learning,0.8,树立终身学习观念
+听力与言语康复学,Judgment and Decision Making,0.8,正确评估障碍性质与程度
+听力与言语康复学,Science,0.8,医学、心理学、脑神经科学知识
+商务英语,Writing,0.95,商务英语写作、学术英语写作课程
+商务英语,Reading Comprehension,0.9,西方经典著作选读、学术英语写作
+商务英语,Speaking,0.9,英语视听说、跨文化交际课程
+商务英语,Critical Thinking,0.85,培养目标强调思辨能力
+商务英语,Active Learning,0.8,毕业要求强调较强自学能力
+商务英语,Complex Problem Solving,0.8,跨学科知识结构与商务实践
+商务英语,Active Listening,0.75,英语视听说训练与商务沟通
+商务英语,Social Perceptiveness,0.75,跨文化沟通与商务伦理素养
+商务英语,Persuasion,0.75,国际商务与跨文化沟通能力
+商务英语,Judgment and Decision Making,0.75,商务伦理意识与商务决策
+国际事务与国际关系,Critical Thinking,0.95,培养政策分析能力与创新思维
+国际事务与国际关系,Reading Comprehension,0.9,专业英语及国际关系文献阅读
+国际事务与国际关系,Writing,0.85,毕业论文与调研报告撰写
+国际事务与国际关系,Speaking,0.85,谈判模拟、模联与口头表达
+国际事务与国际关系,Negotiation,0.85,谈判模拟与外交实务训练
+国际事务与国际关系,Complex Problem Solving,0.85,分析解决全球事务复杂问题
+国际事务与国际关系,Active Learning,0.8,具备进一步获取专业知识能力
+国际事务与国际关系,Social Perceptiveness,0.8,跨文化交际与全球视野
+国际事务与国际关系,Persuasion,0.8,外交学与公共外交能力
+国际事务与国际关系,Judgment and Decision Making,0.8,政策敏感性与政策分析能力
+国际政治,Critical Thinking,0.9,政策分析与国际问题研判
+国际政治,Reading Comprehension,0.85,专业英语与文献阅读要求
+国际政治,Complex Problem Solving,0.85,运用专业知识分析解决问题
+国际政治,Writing,0.8,毕业论文与调研报告撰写
+国际政治,Speaking,0.8,谈判模拟与模联口头表达
+国际政治,Negotiation,0.8,谈判模拟与外交实务训练
+国际政治,Judgment and Decision Making,0.8,政策分析与外交决策能力
+国际政治,Systems Analysis,0.8,国际关系理论与体系分析
+国际政治,Active Learning,0.75,把握相关领域最新发展
+国际政治,Social Perceptiveness,0.75,跨文化交际与社会适应能力
+国际组织与全球治理,Speaking,0.9,外交外事与国际公务口头表达
+国际组织与全球治理,Critical Thinking,0.9,国际关系理论与政策分析
+国际组织与全球治理,Social Perceptiveness,0.9,跨文化交际与全球视野
+国际组织与全球治理,Persuasion,0.9,外交谈判与公共外交
+国际组织与全球治理,Negotiation,0.9,国际谈判能力培养
+国际组织与全球治理,Complex Problem Solving,0.9,创新解决全球治理问题
+国际组织与全球治理,Active Listening,0.8,跨文化沟通与谈判倾听
+国际组织与全球治理,Reading Comprehension,0.8,专业英语八级与文献阅读
+国际组织与全球治理,Writing,0.8,调研报告与学术论文写作
+国际组织与全球治理,Active Learning,0.8,全球治理新议题自主学习
+国际经济与贸易,Mathematics,0.9,微积分、线性代数、概率论课程
+国际经济与贸易,Statistics,0.9,统计学、计量经济学核心课
+国际经济与贸易,Data Analysis,0.8,掌握数据分析方法与定量评价
+国际经济与贸易,Critical Thinking,0.8,运用定性定量方法评价贸易政策
+国际经济与贸易,Reading Comprehension,0.8,熟练运用英语获取专业信息
+国际经济与贸易,Writing,0.8,英语读写译及书面业务交流
+国际经济与贸易,Speaking,0.8,英语视听说与口头业务交流
+国际经济与贸易,Negotiation,0.8,国际商务谈判核心课程
+国际经济与贸易,Judgment and Decision Making,0.7,把握经贸运行机制与发展规律
+国际经济与贸易,Active Listening,0.7,英语听说能力与业务沟通
+德语专业（涉外林业工程人才实验班）培养方案,Speaking,0.9,德语口语、高级视听说课程
+德语专业（涉外林业工程人才实验班）培养方案,Active Listening,0.85,德语听力课程训练
+德语专业（涉外林业工程人才实验班）培养方案,Reading Comprehension,0.85,德语阅读课程训练
+德语专业（涉外林业工程人才实验班）培养方案,Complex Problem Solving,0.85,工程设计、应用研究目标
+德语专业（涉外林业工程人才实验班）培养方案,Science,0.85,材料化学、大学物理、木材学
+德语专业（涉外林业工程人才实验班）培养方案,Writing,0.8,德语写作课程
+德语专业（涉外林业工程人才实验班）培养方案,Active Learning,0.8,德语与工程双学科学习
+德语专业（涉外林业工程人才实验班）培养方案,Social Perceptiveness,0.8,跨文化交流课程
+德语专业（涉外林业工程人才实验班）培养方案,Coordination,0.8,跨文化沟通协调能力目标
+德语专业（涉外林业工程人才实验班）培养方案,Operations Analysis,0.8,木材干燥、人造板工艺课程
+心理学,Critical Thinking,0.9,发现问题提出假设并验证
+心理学,Statistics,0.9,心理统计学、心理测量学课程
+心理学,Writing,0.85,流畅书面表达及毕业论文写作
+心理学,Social Perceptiveness,0.85,社会心理学、咨询心理学
+心理学,Complex Problem Solving,0.85,用心理学视角分析解决问题
+心理学,Data Analysis,0.85,实证研究方法与统计分析
+心理学,Reading Comprehension,0.8,阅读专业外文资料与文献
+心理学,Speaking,0.8,良好口头表达与沟通交流能力
+心理学,Science,0.8,生物心理学、人体解剖生理学
+心理学,Active Learning,0.8,掌握心理学理论与研究方法
+意大利语,Speaking,0.95,口语与高级视听讨论课程
+意大利语,Reading Comprehension,0.9,高级阅读与跨文化研究课程
+意大利语,Writing,0.9,基础写作与应用文写作课程
+意大利语,Active Listening,0.85,视听说课程训练听力理解
+意大利语,Critical Thinking,0.8,培养方案要求思辨能力
+意大利语,Active Learning,0.8,培养方案要求自主学习能力
+意大利语,Learning Strategies,0.75,论文写作与研究方法课程
+意大利语,Social Perceptiveness,0.7,跨文化能力与国情研究
+意大利语,Complex Problem Solving,0.7,笔译口译实践解决复杂问题
+播音与主持艺术（中英双语）,Speaking,0.98,播音主持业务与英语演讲课程
+播音与主持艺术（中英双语）,Reading Comprehension,0.85,综合英语与英语文学选读
+播音与主持艺术（中英双语）,Writing,0.85,英语写作与新闻采访写作
+播音与主持艺术（中英双语）,Active Listening,0.8,访谈与主持实践训练
+播音与主持艺术（中英双语）,Critical Thinking,0.8,新闻评论与英语辩论课程
+播音与主持艺术（中英双语）,Social Perceptiveness,0.8,跨文化沟通与访谈能力培养
+播音与主持艺术（中英双语）,Persuasion,0.8,英语辩论与主持评论实践
+播音与主持艺术（中英双语）,Active Learning,0.75,跨文化研究与节目策划实践
+播音与主持艺术（中英双语）,Coordination,0.75,节目策划与主持团队协作
+播音与主持艺术（中英双语）,Complex Problem Solving,0.7,融媒体节目策划与创意
+数字媒体技术,Programming,0.95,软件基础与程序实现能力
+数字媒体技术,Mathematics,0.85,扎实数理基础与算法原理
+数字媒体技术,Technology Design,0.85,游戏与虚拟现实开发设计
+数字媒体技术,Machine Learning,0.85,机器学习为核心必修课程
+数字媒体技术,Complex Problem Solving,0.8,开发实用化数字媒体应用
+数字媒体技术,Systems Analysis,0.75,分析语音图像视频主要算法
+数字媒体技术,Critical Thinking,0.7,科学思维与算法分析训练
+数字媒体技术,Active Learning,0.7,多学科交叉知识自主学习
+数字媒体技术,Data Analysis,0.7,智能信息处理与算法应用
+数字媒体技术,Judgment and Decision Making,0.65,算法实现与应用方案决策
+数据科学与大数据技术,Programming,0.95,程序设计基础、数据结构等核心课
+数据科学与大数据技术,Data Analysis,0.95,大数据分析与挖掘核心课
+数据科学与大数据技术,Mathematics,0.9,高等数学、线性代数、离散数学
+数据科学与大数据技术,Statistics,0.9,统计学为专业核心课
+数据科学与大数据技术,Databases,0.9,数据库原理与应用核心课
+数据科学与大数据技术,Machine Learning,0.9,机器学习为专业核心课
+数据科学与大数据技术,Data Visualization,0.85,数据可视化核心课
+数据科学与大数据技术,Complex Problem Solving,0.85,培养目标强调解决实际问题
+数据科学与大数据技术,Critical Thinking,0.8,培养数据思维与工程问题分析
+数据科学与大数据技术,Systems Analysis,0.8,大数据应用系统设计与分析
+新闻学（国际出版）,Writing,0.9,出版编辑、选题策划与内容生产
+新闻学（国际出版）,Critical Thinking,0.85,独立思考与批判分析能力培养
+新闻学（国际出版）,Speaking,0.8,跨文化传播与多层次传播实践
+新闻学（国际出版）,Reading Comprehension,0.8,传播学经典导读与文献研读
+新闻学（国际出版）,Active Learning,0.8,自主学习与前沿问题探究
+新闻学（国际出版）,Complex Problem Solving,0.8,解决国际出版实际问题的能力
+新闻学（国际出版）,Judgment and Decision Making,0.8,出版选题策划与判断决策
+新闻学（国际出版）,Social Perceptiveness,0.75,跨文化交流与社会洞察素养
+新闻学（国际出版）,Coordination,0.75,团队协作精神与沟通合作能力
+新闻学（国际出版）,Learning Strategies,0.7,自主学习和研究创新能力锻造
+新闻学（国际新闻）,Writing,0.95,新闻采访与写作、非虚构写作课程
+新闻学（国际新闻）,Critical Thinking,0.9,媒介批评、批判理论导引课程
+新闻学（国际新闻）,Speaking,0.85,新闻采访与写作、国际传播实践
+新闻学（国际新闻）,Reading Comprehension,0.8,新闻学理论、传播学理论研读
+新闻学（国际新闻）,Social Perceptiveness,0.8,社会研究方法、跨文化传播素养
+新闻学（国际新闻）,Complex Problem Solving,0.8,应对全球传播现象与问题解决
+新闻学（国际新闻）,Active Listening,0.75,新闻采访与写作采访训练
+新闻学（国际新闻）,Active Learning,0.75,培养自主学习与研究创新能力
+新闻学（国际新闻）,Persuasion,0.75,国际传播、善讲中国故事
+日语,Reading Comprehension,0.95,日语精读、专题阅读课程
+日语,Writing,0.9,日语会话与写作、学术写作
+日语,Speaking,0.9,日语会话、演讲与辩论课程
+日语,Active Listening,0.85,日语听力、日语视听课程
+日语,Critical Thinking,0.8,培养创新思辨与独立思考能力
+日语,Complex Problem Solving,0.8,培养解决复杂问题综合能力
+日语,Active Learning,0.75,语言实践活动与自主学习
+日语,Social Perceptiveness,0.75,跨文化交际课程与能力
+日语,Learning Strategies,0.7,学术写作与研究方法课程
+日语,Coordination,0.7,培养协作精神与团队合作
+日语专业（日英复语）培养方案,Reading Comprehension,0.95,日语精读、日语阅读与写作课程
+日语专业（日英复语）培养方案,Active Listening,0.9,日语听力、日语听说课程
+日语专业（日英复语）培养方案,Writing,0.9,日语会话与写作、学术写作课程
+日语专业（日英复语）培养方案,Speaking,0.9,日语会话、日语演讲与辩论课程
+日语专业（日英复语）培养方案,Critical Thinking,0.85,思辨英语写作、创新思辨能力培养
+日语专业（日英复语）培养方案,Active Learning,0.8,培养独立思考与研究能力
+日语专业（日英复语）培养方案,Social Perceptiveness,0.8,跨文化交际、日本概况课程
+日语专业（日英复语）培养方案,Complex Problem Solving,0.8,培养解决复杂问题综合能力
+日语专业（日英复语）培养方案,Learning Strategies,0.75,学术写作与研究方法课程
+日语专业（日英复语）培养方案,Persuasion,0.7,日语演讲与辩论课程
+朝鲜语专业（韩国语）培养方案,Reading Comprehension,0.9,综合韩语、韩国文学阅读课程
+朝鲜语专业（韩国语）培养方案,Speaking,0.9,韩语会话、专题辩论与演讲
+朝鲜语专业（韩国语）培养方案,Active Listening,0.85,韩语听力、视听说课程
+朝鲜语专业（韩国语）培养方案,Writing,0.85,高级写作、毕业论文写作
+朝鲜语专业（韩国语）培养方案,Critical Thinking,0.75,思辨能力培养目标
+朝鲜语专业（韩国语）培养方案,Active Learning,0.7,自主学习能力培养要求
+朝鲜语专业（韩国语）培养方案,Social Perceptiveness,0.7,韩国社会与文化、跨文化能力
+朝鲜语专业（韩国语）培养方案,Learning Strategies,0.65,语言学习方法与策略训练
+朝鲜语专业（韩国语）培养方案,Persuasion,0.65,专题辩论与演讲课程
+朝鲜语专业（韩国语）培养方案,Complex Problem Solving,0.6,翻译与跨文化交际实践
+汉语国际教育,Speaking,0.95,培养目标要求良好的口头表达能力
+汉语国际教育,Instructing,0.95,核心课程为汉语第二语言教学法
+汉语国际教育,Writing,0.9,培养规格要求良好的汉语写作能力
+汉语国际教育,Reading Comprehension,0.85,外语阅读专业资料并交流
+汉语国际教育,Social Perceptiveness,0.85,培养跨文化交际能力
+汉语国际教育,Active Listening,0.8,汉语教学与跨文化交际需倾听
+汉语国际教育,Learning Strategies,0.8,培养独立获取新知识的能力
+汉语国际教育,Active Learning,0.8,培养创新意识与自主学习能力
+汉语国际教育,Critical Thinking,0.75,语言学与教学理论分析需批判思维
+汉语国际教育,Complex Problem Solving,0.75,胜任国际中文教育复杂教学任务
+汉语言文学,Writing,0.95,具备较强的汉语写作能力
+汉语言文学,Reading Comprehension,0.9,系统掌握汉语言文学专业知识
+汉语言文学,Speaking,0.85,具备较强的口头表达能力
+汉语言文学,Critical Thinking,0.8,文学批评史与比较文学原理课程
+汉语言文学,Active Learning,0.75,文献检索与获取知识能力
+汉语言文学,Learning Strategies,0.7,独立处理事务与获取知识
+汉语言文学,Judgment and Decision Making,0.7,具备逻辑思维与独立处理事务能力
+汉语言文学,Time Management,0.6,毕业论文与实践环节时间安排
+法语,Speaking,0.95,法语视听说、法语说写、口译
+法语,Reading Comprehension,0.9,法语泛读、法语文学等课程
+法语,Writing,0.9,法语高级写作、毕业论文写作
+法语,Active Listening,0.85,法语视听说、法语口译训练
+法语,Active Learning,0.75,研究方法论与自主学习要求
+法语,Critical Thinking,0.7,培养规格强调批判性思维
+法语,Learning Strategies,0.7,专业导航与研究方法论课程
+法语,Social Perceptiveness,0.7,跨文化理解力与文化包容力
+法语,Complex Problem Solving,0.65,解决文化冲突与跨文化问题
+法语专业（涉外化工人才实验班）培养方案,Speaking,0.9,法语视听说、跨文化沟通培养
+法语专业（涉外化工人才实验班）培养方案,Reading Comprehension,0.85,法语读写、科技法语翻译课程
+法语专业（涉外化工人才实验班）培养方案,Complex Problem Solving,0.85,复杂化工工艺与装置分析设计
+法语专业（涉外化工人才实验班）培养方案,Science,0.85,无机化学、有机化学、物理化学
+法语专业（涉外化工人才实验班）培养方案,Writing,0.8,法语应用文写作、法语读写
+法语专业（涉外化工人才实验班）培养方案,Mathematics,0.8,高等数学、线性代数、概率统计
+法语专业（涉外化工人才实验班）培养方案,Critical Thinking,0.75,化工工艺分析与设计能力培养
+法语专业（涉外化工人才实验班）培养方案,Coordination,0.75,跨文化沟通协调与团队事务处理
+法语专业（涉外化工人才实验班）培养方案,Operations Analysis,0.75,化工原理与单元操作分析
+法语专业（涉外化工人才实验班）培养方案,Active Listening,0.7,法语视听说训练听力理解
+经济学（经济金融统计与分析）,Mathematics,0.95,微积分、线性代数、概率论与数理统计
+经济学（经济金融统计与分析）,Statistics,0.95,统计学、计量经济学、概率论与数理统计
+经济学（经济金融统计与分析）,Data Analysis,0.9,经济金融数据分析、数据挖掘培养目标
+经济学（经济金融统计与分析）,Critical Thinking,0.85,从数据分析得出经济金融科学结论
+经济学（经济金融统计与分析）,Complex Problem Solving,0.8,将经济现象转化为统计问题
+经济学（经济金融统计与分析）,Programming,0.75,培养编程能力和算法思维
+经济学（经济金融统计与分析）,Judgment and Decision Making,0.7,模型估计检验与科学结论判断
+经济学（经济金融统计与分析）,Systems Analysis,0.65,经济金融模型模拟研究
+经济学（经济金融统计与分析）,Systems Evaluation,0.6,模型估计与检验综合应用能力
+经济学（经济金融统计与分析）,Active Learning,0.6,掌握现代经济学基本方法
+绘画,Critical Thinking,0.85,培养艺术思维能力与画论分析
+绘画,Active Learning,0.8,强调自我学习与创新意识
+绘画,Judgment and Decision Making,0.75,独立完成中国画创作
+绘画,Monitoring,0.7,临摹写生中把控笔墨造型
+绘画,Time Management,0.65,毕业创作与论文分阶段完成
+绘画,Speaking,0.6,具备外语表达与艺术交流能力
+绘画,Writing,0.55,完成毕业论文写作与答辩
+绘画,Reading Comprehension,0.55,研读中外美术史与画论
+绘画,Instructing,0.5,面向美术教育与文化传播
+绘画,Social Perceptiveness,0.45,理解中外美术文化语境
+网络与新媒体专业（智能媒体）培养方案,Writing,0.9,新闻采访与写作、非虚构写作课程
+网络与新媒体专业（智能媒体）培养方案,Speaking,0.85,新闻采访与写作、跨文化交流实践
+网络与新媒体专业（智能媒体）培养方案,Critical Thinking,0.85,独立思考和批判分析能力要求
+网络与新媒体专业（智能媒体）培养方案,Complex Problem Solving,0.85,问题解决能力与实际问题应对
+网络与新媒体专业（智能媒体）培养方案,Reading Comprehension,0.8,传播学理论、媒介研究导论阅读
+网络与新媒体专业（智能媒体）培养方案,Active Learning,0.8,自主学习与研究创新能力培养
+网络与新媒体专业（智能媒体）培养方案,Social Perceptiveness,0.8,社会研究方法、社会活动能力
+网络与新媒体专业（智能媒体）培养方案,Judgment and Decision Making,0.8,有创见的分析与判断决策
+网络与新媒体专业（智能媒体）培养方案,Coordination,0.75,团队协作精神和沟通合作能力
+网络与新媒体专业（智能媒体）培养方案,Persuasion,0.75,国际传播与公共关系业务
+翻译专业（本地化）培养方案,Reading Comprehension,0.9,英语读写课程及笔译基础
+翻译专业（本地化）培养方案,Writing,0.9,英语读写与汉英应用翻译
+翻译专业（本地化）培养方案,Programming,0.9,Python初级编程等编程课程
+翻译专业（本地化）培养方案,Speaking,0.8,英语口语课程及讲演辩论实践
+翻译专业（本地化）培养方案,Critical Thinking,0.8,翻译理论与实务及独立思考能力
+翻译专业（本地化）培养方案,Active Learning,0.8,培养目标强调较强学习能力
+翻译专业（本地化）培养方案,Complex Problem Solving,0.8,培养目标要求问题解决能力
+翻译专业（本地化）培养方案,Active Listening,0.7,英语听力课程训练
+翻译专业（本地化）培养方案,Technology Design,0.7,基础软件设计与开发能力
+翻译专业（本地化）培养方案,Judgment and Decision Making,0.7,翻译与本地化项目判断决策
+翻译专业（汉英法）培养方案,Reading Comprehension,0.95,中文读写、英法读写核心课
+翻译专业（汉英法）培养方案,Writing,0.9,读写课程与笔译训练
+翻译专业（汉英法）培养方案,Speaking,0.9,英法听说与口译课程
+翻译专业（汉英法）培养方案,Active Listening,0.85,听说课程与交替传译训练
+翻译专业（汉英法）培养方案,Critical Thinking,0.8,培养逻辑思辨与独立思考
+翻译专业（汉英法）培养方案,Active Learning,0.75,培养较强学习能力
+翻译专业（汉英法）培养方案,Learning Strategies,0.7,三语学习与翻译方法掌握
+翻译专业（汉英法）培养方案,Social Perceptiveness,0.7,跨文化交际素质培养
+翻译专业（汉英法）培养方案,Complex Problem Solving,0.7,翻译实践解决实际问题
+翻译专业（汉英法）培养方案,Judgment and Decision Making,0.7,翻译中判断与决策
+翻译专业（英语）培养方案,Reading Comprehension,0.9,英语读写、高级英语课程
+翻译专业（英语）培养方案,Writing,0.9,英语写作、高级英语写作课程
+翻译专业（英语）培养方案,Speaking,0.9,公众演讲、英语听说课程
+翻译专业（英语）培养方案,Active Listening,0.8,英语视听说、口译课程训练
+翻译专业（英语）培养方案,Critical Thinking,0.8,培养目标强调逻辑思辨能力
+翻译专业（英语）培养方案,Active Learning,0.7,培养规格要求较强学习能力
+翻译专业（英语）培养方案,Social Perceptiveness,0.7,跨文化交际素质培养
+翻译专业（英语）培养方案,Complex Problem Solving,0.7,翻译实践解决实际问题
+翻译专业（英语）培养方案,Judgment and Decision Making,0.7,翻译中需独立判断决策
+英语,Reading Comprehension,0.95,综合英语、西方经典选读、文学原著鉴赏
+英语,Writing,0.9,创意英语写作、思辨英语写作、学术英语写作
+英语,Speaking,0.9,英语演讲、英语辩论、口译课程
+英语,Critical Thinking,0.85,思辨英语写作、文学分析鉴赏
+英语,Active Listening,0.8,英语视听说、口译训练听说能力
+英语,Active Learning,0.75,掌握英语学习基本理论与方法
+英语,Learning Strategies,0.75,掌握英语学习基本理论与方法
+英语,Social Perceptiveness,0.7,跨文化交际与沟通能力培养
+英语,Persuasion,0.7,英语演讲与辩论训练说服表达
+英语专业（英西复语）培养方案,Reading Comprehension,0.95,英语阅读与写作、西方经典选读
+英语专业（英西复语）培养方案,Writing,0.95,思辨英语写作、学术英语写作
+英语专业（英西复语）培养方案,Speaking,0.95,英语演讲与辩论、西语口语
+英语专业（英西复语）培养方案,Active Listening,0.85,西班牙语听说、口译课程
+英语专业（英西复语）培养方案,Critical Thinking,0.85,思辨英语写作、经典著作选读
+英语专业（英西复语）培养方案,Active Learning,0.8,复语学习与自主学习能力培养
+英语专业（英西复语）培养方案,Learning Strategies,0.75,掌握英语学习基本理论与方法
+英语专业（英西复语）培养方案,Social Perceptiveness,0.7,跨文化交际与国情文化理解
+英语专业（英西复语）培养方案,Persuasion,0.7,演讲与辩论、文化国际传播
+英语专业（英西复语）培养方案,Complex Problem Solving,0.65,翻译与跨文化沟通综合运用
+葡萄牙语,Reading Comprehension,0.9,葡语精读、泛读、读写课程
+葡萄牙语,Speaking,0.9,葡语听说、口译理论与实践
+葡萄牙语,Writing,0.85,葡语读写、论文指导与写作
+葡萄牙语,Active Listening,0.8,葡语听说课程训练听力
+葡萄牙语,Critical Thinking,0.7,专题讨论与翻译理论课程
+葡萄牙语,Active Learning,0.7,培养自主学习与学术研究基础
+葡萄牙语,Social Perceptiveness,0.7,跨文化与国情文化课程
+葡萄牙语,Learning Strategies,0.65,掌握学术研究方法
+葡萄牙语,Persuasion,0.6,用葡语讲好中国故事
+葡萄牙语,Complex Problem Solving,0.6,口笔译实践解决跨语问题
+西班牙语,Reading Comprehension,0.95,西班牙语阅读、新闻阅读与分析课程
+西班牙语,Writing,0.9,西班牙语写作、学术写作课程
+西班牙语,Speaking,0.9,西班牙语口语课程训练口头表达
+西班牙语,Active Listening,0.85,视听说课程训练听力理解
+西班牙语,Active Learning,0.8,培养自主学习能力
+西班牙语,Critical Thinking,0.75,新闻阅读分析与文学选读训练思辨
+西班牙语,Learning Strategies,0.75,培养方案要求自主学习能力
+西班牙语,Social Perceptiveness,0.7,跨文化交际与国别区域知识
+西班牙语,Complex Problem Solving,0.65,跨学科复合型人才培养目标
+西班牙语,Persuasion,0.6,笔译与跨文化沟通能力培养
+西班牙语专业（涉外矿产资源人才实验班）培养方案,Speaking,0.9,西班牙语视听说、跨文化沟通
+西班牙语专业（涉外矿产资源人才实验班）培养方案,Reading Comprehension,0.85,综合西班牙语、西班牙语写作
+西班牙语专业（涉外矿产资源人才实验班）培养方案,Complex Problem Solving,0.85,采矿工程设计、施工与管理
+西班牙语专业（涉外矿产资源人才实验班）培养方案,Writing,0.8,西班牙语写作课程
+西班牙语专业（涉外矿产资源人才实验班）培养方案,Critical Thinking,0.8,拉美政治经济、思想史课程
+西班牙语专业（涉外矿产资源人才实验班）培养方案,Judgment and Decision Making,0.8,采矿工程设计、生产管理
+西班牙语专业（涉外矿产资源人才实验班）培养方案,Coordination,0.8,跨文化沟通协调能力培养
+西班牙语专业（涉外矿产资源人才实验班）培养方案,Active Listening,0.75,西班牙语视听说训练
+西班牙语专业（涉外矿产资源人才实验班）培养方案,Systems Analysis,0.75,矿床开采工程、数字矿山
+西班牙语专业（涉外矿产资源人才实验班）培养方案,Operations Analysis,0.75,采矿工程设计、运行施工
+计算机科学与技术,Programming,0.95,程序设计基础、数据结构等核心课
+计算机科学与技术,Complex Problem Solving,0.9,培养目标要求解决复杂实际问题
+计算机科学与技术,Mathematics,0.85,离散数学等数理基础课程
+计算机科学与技术,Databases,0.85,数据库原理与应用核心课
+计算机科学与技术,Critical Thinking,0.8,计算思维与系统理论训练
+计算机科学与技术,Systems Analysis,0.8,操作系统、计算机网络核心课
+计算机科学与技术,Machine Learning,0.8,机器学习核心课及语言智能
+计算机科学与技术,Troubleshooting,0.75,结果分析调试能力要求
+计算机科学与技术,Data Analysis,0.75,文本处理与分析技能培养
+计算机科学与技术,Technology Design,0.75,软件设计开发能力培养
+语言学,Reading Comprehension,0.9,阅读语言学经典著作与外文资料
+语言学,Writing,0.9,学术论文写作与独立撰写研究论文
+语言学,Critical Thinking,0.85,严谨治学与科学探索精神
+语言学,Speaking,0.8,语言学学术论文演讲与视听说训练
+语言学,Active Learning,0.8,独立获取知识与发现问题能力
+语言学,Complex Problem Solving,0.75,跨学科交叉应用与研究能力
+语言学,Data Analysis,0.75,语言学数据与技术、语料整理分析
+语言学,Active Listening,0.7,语言学视听说课程训练
+语言学,Learning Strategies,0.7,掌握语言学调研与实验方法
+金融学,Mathematics,0.9,微积分、线性代数、概率统计课程
+金融学,Statistics,0.9,统计学、计量经济学核心课程
+金融学,Data Analysis,0.8,金融实验课与计量分析训练
+金融学,Critical Thinking,0.8,综合运用金融理论解决问题
+金融学,Judgment and Decision Making,0.8,投资预测与风险管理决策
+金融学,Complex Problem Solving,0.8,创造性解决现实金融问题
+金融学,Systems Analysis,0.7,金融风险管理与银行经营分析
+金融学,Systems Evaluation,0.7,汇市股市期货科学预测分析
+金融学,Reading Comprehension,0.7,英语精读与经典阅读课程
+金融学,Speaking,0.7,熟练运用英语进行业务交流
+阿拉伯语,Reading Comprehension,0.95,阿语阅读、经典文学作品选读
+阿拉伯语,Speaking,0.95,阿语口语课程贯穿四学期
+阿拉伯语,Active Listening,0.9,阿语视听课程贯穿四学期
+阿拉伯语,Writing,0.9,阿拉伯语写作课程
+阿拉伯语,Active Learning,0.75,基础阿语大量实践学时
+阿拉伯语,Critical Thinking,0.7,政治外交与中阿关系研读
+阿拉伯语,Learning Strategies,0.7,语音与导论课程打基础
+阿拉伯语,Social Perceptiveness,0.7,阿拉伯国情与文化交流课程
+阿拉伯语,Complex Problem Solving,0.65,高级翻译综合语言运用
+阿拉伯语,Persuasion,0.6,翻译与外交课程训练表达
+阿拉伯语专业（涉外石油人才实验班）培养方案,Speaking,0.9,阿语口语、商贸会谈课程
+阿拉伯语专业（涉外石油人才实验班）培养方案,Active Listening,0.85,阿语听力、高级视听说课程
+阿拉伯语专业（涉外石油人才实验班）培养方案,Reading Comprehension,0.85,阿拉伯语时事研读课程
+阿拉伯语专业（涉外石油人才实验班）培养方案,Writing,0.8,阿语写作课程
+阿拉伯语专业（涉外石油人才实验班）培养方案,Complex Problem Solving,0.8,石油工程设计运行施工
+阿拉伯语专业（涉外石油人才实验班）培养方案,Critical Thinking,0.75,翻译理论与实践课程
+阿拉伯语专业（涉外石油人才实验班）培养方案,Coordination,0.75,培养目标强调跨文化沟通协调
+阿拉伯语专业（涉外石油人才实验班）培养方案,Operations Analysis,0.75,油藏、采油、钻井工程课程
+阿拉伯语专业（涉外石油人才实验班）培养方案,Science,0.75,普通地质学、油层物理
+阿拉伯语专业（涉外石油人才实验班）培养方案,Social Perceptiveness,0.7,阿拉伯国家社会与文化课程
+音乐学（音乐国际教育与传播）,Speaking,0.9,声乐/器乐表演与毕业音乐会
+音乐学（音乐国际教育与传播）,Instructing,0.85,音乐教学法课程与对外音乐教学
+音乐学（音乐国际教育与传播）,Active Listening,0.8,音乐表演与教学法需倾听反馈
+音乐学（音乐国际教育与传播）,Writing,0.8,音乐学写作基础与毕业论文
+音乐学（音乐国际教育与传播）,Social Perceptiveness,0.8,跨文化交流与传播能力培养
+音乐学（音乐国际教育与传播）,Reading Comprehension,0.7,音乐史与理论文献阅读
+音乐学（音乐国际教育与传播）,Persuasion,0.7,中国音乐国际传播与交流
+音乐学（音乐国际教育与传播）,Coordination,0.7,舞台表演与民族室内乐协作
+音乐学（音乐国际教育与传播）,Critical Thinking,0.7,曲式分析与音乐作品研究
+音乐学（音乐国际教育与传播）,Active Learning,0.7,音乐创新实践课程要求

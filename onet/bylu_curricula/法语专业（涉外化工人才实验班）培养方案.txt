@@ -1,0 +1,380 @@
+北京语言大学 2024 版本科人才培养方案（上册） | 法语专业（涉外化工人才实验班）
+法语专业（涉外化工人才实验班）培养方案
+（2024版）
+一、培养目标
+以服务国家“一带一路”倡议和经济社会发展需求为导向，坚持立德树人，培养能适应我国社
+会主义现代化发展需要，德、智、体、美、劳全面发展，具有社会责任感和创新意识，具备法语听、
+说、读、写、译等方面语言能力和跨文化沟通协调能力，同时掌握工学基础知识和化学工程专业知
+识，具有国际视野和家国情怀的国际化复合型人才，毕业后服务于化学工程及相关领域，能从事与
+法语国家和地区相关的化学工程领域工程设计、运行施工、生产管理、科技开发、应用研究和国际
+合作等方面的工作。学生毕业5年左右达到以下预期目标：
+（1）职业能力：能够承担实际复杂化工工艺与装置的分析和设计、化工生产运行、综合管理
+等工作，能够针对新产品工程研发与实践的工艺和装置进行创新性设计；
+（2）社会责任：恪守工程伦理和职业道德，能够从全局出发，综合考虑化工及相关领域的过
+程安全、绿色环保、节能增效等，担负社会和经济可持续发展的责任；
+（3）沟通交流：能够与国内外同行、客户、同事等进行有效表达、沟通和交流，在跨学科背
+景下，协调和处理团队工作中的各项事务；
+（4）终身学习：具备终身学习的理念、意识和能力，跟踪化工及相关领域国内外发展趋势，
+不断学习提升专业能力、业务水平、国际视野和职业竞争力，适应社会、经济及行业发展需要。
+二、学制、修业年限与学位
+（一）学制
+标准学制为四年，实行弹性学习年限，不低于三年不高于六年（应征入伍保留学籍者除外）。
+（二）学位
+授予联合学士学位应符合联合培养单位各自的学士学位授予标准。毕业和学位证书由本科生招
+生入学时学籍所在的学士学位授予单位颁发，联合培养单位在证书上予以注明，不再单独发放。
+三、联合培养合作模式
+（一）本项目作为一个单独的本科专业，通过高考招生并予以说明
+由北京语言大学招收“法语+化学工程与工艺”学生，招生规模为每届15人；北京化工大学招
+收“化学工程与工艺+法语”学生，招生规模为每届15人。
+（二）实行“1+2+0.5+0.5”和“跨校+国际交流”培养模式
+项目学生分别在录取学校注册学籍。所有学生第一学年在北京语言大学住宿就读，第二、三学
+北京语言大学 2024 版本科人才培养方案
+年在北京化工大学住宿就读，第四学年秋季学期自愿赴法语国家交流学习，第四学年春季学期在各
+自学籍所在学校住宿学习。
+四、课程设置
+两校共同拟定统一的本科人才培养方案，遵照培养方案开展人才培养工作。
+课程、考核、实习实践及学分结构
+课程 课程 学时分配 开课学 学分
+课程名称 学分 学时
+类别 性质 课内 上机 实验 期 要求
+高等数学A（I,II）
+11 176 176 0 0 一二
+SingleVariableCalculusA（I,II）
+简明无机化学
+2.5 40 40 0 0 一
+ConciseInorganicChemistry
+综合英语（1—2）
+4 64 54 0 10 一二
+ComprehensiveEnglish(1-2)
+思想道德与法治
+3 48 48 0 0 一二
+MoralityandLaw
+国家安全教育
+1 16 16 0 0 二
+NationalSecurityEducation
+大学生心理健康
+公共 公共 1 16 16 0 0 一
+基础 必修 MentalHealthofCollegeStudents 62.5
+课 课
+体育（1—4） 一二三
+4 128 128 0 0
+四
+PhysicalEducation(1-4)
+普通物理B（I,II）
+6 96 96 0 0 二三
+GeneralPhysicsB(I,II)
+形势与政策（I,II,III,IV）
+2 64 64 0 0 一~八
+SituationandPolicy(I,II,III,IV)
+分析化学
+2 32 32 0 0 二
+AnalyticalChemistry
+中国近现代史纲要
+3 48 48 0 0 一二
+ChineseModernHistorySummary
+习近平新时代中国特色社会主义思想
+3 48 32 0 16 一二
+概论
+北京语言大学 2024 版本科人才培养方案（上册） | 法语专业（涉外化工人才实验班）
+线性代数A
+3.5 56 56 0 0 三
+LinearAlgebraA
+PYTHON语言程序设计
+1.5 32 16 16 0 三
+PythonProgrammingLanguage
+马克思主义基本原理
+3 48 32 0 16 三
+TheBasicPrinciplesofMarxism
+概率论与数理统计B
+3 48 48 0 0 四
+ProbabilityandMathematicalStatisticsB
+毛泽东思想和中国特色社会主义理论
+体系概论
+IntroductiontoMaoZedongThoughtand 3 48 48 0 0 四
+theoreticalsystemofsocialismwith
+Chinesecharacteristics
+劳动教育
+1 32 8 0 24 一二
+LaborEducation
+军事理论
+2 36 36 0 0 一
+MilitaryTheory
+军事技能
+2 112 0 0 2周 一
+MilitaryTraining
+职业生涯规划
+1 16 16 0 0 一
+CareerPlanning
+通识
+可修读校内通识教育选修课和校际通识教育选修课，其中至少修读2学分的美育
+教育 7
+课程与1学分的“四史”课程
+课
+基础法语（1—4） 一二三
+16 256 256 0 0
+四
+BasicFrench(1-4)
+法语视听说（1—4） 一二三
+法语 12 192 192 0 0
+四
+Audio-visualFrench(1-4)
+专业 专业
+课 必修 法语国家概况
+课 2 32 32 0 0 一
+BackgroundofFrench-speaking
+Countries
+法语读写
+2 32 32 0 0 三
+FrenchReadingandWriting
+北京语言大学 2024 版本科人才培养方案
+法国思想与艺术鉴赏
+2 32 32 0 0 四
+FrenchThoughtandArtAppreciation
+高级法语（1—2）
+4 64 64 0 0 五六
+AdvancedFrench(1-2)
+商贸法语
+2 32 32 0 0 五
+BusinessFrench
+科技法语翻译
+2 32 32 0 0 五
+ScientificandTechnicalFrench
+Translation
+法语应用文写作
+2 32 32 0 0 五
+FrenchPracticalWriting
+有机化学
+2.5 40 40 0 0 二
+OrganicChemistry
+物理化学（I,II）
+6 96 96 0 0 三四
+PhysicalChemistry(I,II)
+应用电工学
+2.5 40 40 0 0 四
+AppliedElectrotechnics
+工程伦理学
+1 16 16 0 0 二暑
+EngineeringEthics
+化学
+工程 化工热力学
+3 48 48 0 0 五
+与工
+ChemicalEngineeringThermodynamics 41
+艺专
+业必 化工原理（I,II）
+修课 6.5 112 112 0 0 五六
+UnitOperationsofChemicalEngineering
+(PartI,PartII)
+化工制图
+2 40 24 16 0 五
+ChemicalEngineeringCartography
+化工机械基础与实践
+3 56 36 0 20 五
+FundamentalandDesignofChemical
+EquipmentandMachinery
+化工安全与环保
+2 32 28 0 4 五
+ChemicalEngineeringSafetyand
+EnvironmentalProtection
+北京语言大学 2024 版本科人才培养方案（上册） | 法语专业（涉外化工人才实验班）
+化学反应工程
+3 48 48 0 0 六
+ChemicalReactionEngineering
+化工工艺学
+2.5 40 40 0 0 六
+ChemicalTechnology
+化工过程控制与智能化
+2 40 32 0 8 六
+ChemicalProcessControl
+andIntelligence
+化工设计基础与实践
+3 64 32 0 32 六
+FundamentalsandPracticeofChemical
+ProcessDesign
+化工技术经济与项目管理
+2 32 32 0 0 六
+Tech-economyandManagementof
+ChemicalEngineeringProjects
+两校 科技法语
+1 16 16 0 0 二
+合开
+FrenchforScienceandTechnology
+专业 2.5
+必修 化工专业法语（中外师资）
+1.5 24 24 0 0 六
+课
+FrenchforChemicalEngineering
+化工计算机数据与图形处理
+2.5 48 32 16 0 三
+ComputerDataandGraphicsProcessing
+forChemicalEngineering
+大学英语（III,IV）
+4 64 54 0 10 三四
+CollegeEnglish(3,4)
+仪器分析
+3 48 48 0 0 四
+InstrumentalAnalysis
+专业
+化学工程与工艺专业英语
+选修 3.5
+1.5 24 24 0 0 二暑
+课 ProfessionalEnglishforChemical
+EngineeringandTechnology
+化工应用数学
+1.5 24 24 0 0 五
+AppliedMathematicsforChemical
+Engineering
+化工实验设计与研究方法
+1.5 24 24 0 0 五
+ExperimentalDesignandResearch
+MethodsinChemicalEngineering
+传递过程原理 2 32 32 0 0 六
+北京语言大学 2024 版本科人才培养方案
+PrincipleofTransportProcess
+化工过程分析与合成
+2.5 40 40 0 0 六
+AnalysisandSynthesisofChemical
+Process
+工业催化原理
+2 32 32 0 0 六
+CatalysisinIndustrialProcesses
+精细化工导论
+1.5 24 24 0 0 六
+IntroductiontoFineChemicals
+化工分离工程
+2 32 32 0 0 六
+ChemicalSeparationTechnology
+无机化学实验B
+1 32 0 0 32 一
+ExperimentsofInorganicChemistry(B)
+分析化学实验B
+1 32 2 0 30 二
+ExperimentsofAnalyticalChemistry(B)
+有机化学实验B
+1 32 2 0 30 三
+ExperimentsofOrganicChemistryB(I)
+大学物理实验（I,II）
+2 64 0 0 64 三四
+ExperimentsofCollegePhysics(I,II)
+工程训练
+2 2周 0 0 2周 四
+实践 Engineeringtraining
+25.5
+环节
+物理化学实验B
+1.5 48 2 0 46 四
+ExperimentofPhysicalChemistryB
+电工学实验
+0.5 16 0 0 16 四
+ElectricalEngineeringExperiments
+科技法语阅读实践
+1.5 24 16 0 8 二暑
+ReadingPracticeinScientificand
+TechnicalFrench
+化工学科基础实验
+1 32 0 0 32 五
+FundamentalExperimentsforChemical
+Engineering
+法语学术写作与研究实践 2 48 16 0 32 六
+北京语言大学 2024 版本科人才培养方案（上册） | 法语专业（涉外化工人才实验班）
+FrenchAcademicWritingandResearch
+Practice
+化工应用软件实践
+1 32 0 0 32 六
+ChemicalEngineeringSimulation
+Software
+化工专业实验
+1 34 2 0 32 三暑
+SpecialtyExperimentsforChemical
+Engineering
+化工原理课程设计
+2 2周 0 0 2周 三暑
+ProcessandEquipmentDesignin
+ChemicalEngineering
+毕业设计（论文）
+4+14
+8 4+14周 0 0 八
+周
+UndergraduateThesis
+专业实践
+专业实践 8 14周 0 0 14周 七 8
+ProfessionalPractice
+公共必修课学分 62.5
+通识教育课最低修读学分 7
+法语专业必修课学分 44
+毕业生应取 化学工程与工艺专业必修课学分 41
+得总学分
+两校合开专业必修课学分 2.5
+专业选修课最低修读学分 3.5
+实践环节学分 25.5
+专业实践学分 8
+专业核心课程
+课程类型 课程名称 学分 学时 开设学期 主要授课教师（1—2人）
+专业必修课 有机化学 2.5 40 二 王世涛、丁胜涛
+专业必修课 物理化学（I,II） 6 96 三四 于乐、李念武
+专业必修课 化工热力学 3 48 五 阳庆元、刘志平
+专业必修课 化工原理（I,II） 6.5 112 五六 蒲源、丁忠伟
+专业必修课 化学反应工程 3 48 六 李建伟、罗勇
+专业必修课 化工设计基础与实践 3 64 六 代建军、纪培军
+专业必修课 基础法语 16 272 一二三四 李岩、刘娟娟
+专业必修课 法语视听说 12 204 一二三四 王兰、郭玉媛
+北京语言大学 2024 版本科人才培养方案
+专业必修课 高级法语 4 64 五六 马修、王秀丽
+专业必修课 科技法语翻译 2 32 五 康乃馨
+专业必修课 法语应用文写作 2 32 五 诗正言
+五、教育教学管理
+（一）学分互认机制
+两校学生采用同一套培养方案，专业核心课程由双方互派教师授课。公共必修课、通识教育课、
+实践课程中部分课程与环节，两校形成互认机制。
+（二）学籍、费用缴纳与日常管理
+联合培养期间，学生学籍均保留在录取学校。住宿费按合作方学校标准并按实际就读学期缴纳，
+学费以两个学位涉及专业中学费标准较高的执行，由当学期就读学校收取。
+联合培养学校配备相应辅导员，负责学生思想教育、日常管理、心理健康、职业规划等。相关
+院（系）配备班主任，负责学生学业指导与规划、选课指导等。
+学生在联合培养单位一方就读期间，在食宿安排、校园一卡通办理、图书资料借阅等方面享受
+与在读学校学生同等待遇。就读期间，联合培养单位为学生办理临时医疗证，所发生的医疗费用由
+学籍所在学校负责报销。
+（三）学生评优评奖及推免研究生等机制
+学生可以参加联合培养学校的学科竞赛、创新创业、文体活动等，联合培养学校须完整记录学
+生的思想品德、学业成绩、参加活动情况等，并提供给学生学籍所在学校。学生的奖学金评定和奖
+励由学籍所在学校负责，其他评奖评优由活动组织学校负责。
+（四）淘汰机制
+每学期结束，由学生学籍所在学校对培养方案内的学业成绩进行审核，确定学生能否升级。对
+于学业成绩不符合升级条件的学生，可以申请降级或转专业，空缺名额不再增补。
+六、保障措施
+（一）组织保障
+两校分别成立联合学士学位培养项目领导小组，对项目在本校的实施进行指导和监督，并保持
+密切沟通、互相协作支持。
+（二）经费保障
+两校对项目都给予稳定持续的政策支持，保障项目师资队伍建设、专业建设、课程建设、实践
+教学、创新创业教育等方面的经费投入，推进教育教学改革的不断深入。
+一年级 二年级 三年级 四年级
+1-2学期 3-4学期 5-6学期 7-8学期
+西 思想道德与法治、中国近现代史纲要 马克思主义基本原理
+习近平新时代中国特色社会主义思想概论
+毛泽东思想和中国特色社会主义理论体
+班 公共必修课 思想政治理论课社会实践、形势与政策 系概论 形势与政策 形势与政策
+国家安全教育、大学生心理健康 劳动教育
+职业生涯规划、军事理论、大学计算机A 思想政治理论课社会实践、形势与政策
+牙 劳动教育、体育 劳动教育、体育
+语
+外语必修课 英语精读 （一、二） 英语精读 （三、四）
+—— ——
+英语视听说（一、二） 英语视听说（三、四）
+专
+业
+中文读写、综合西班牙语（1-6）、西班牙语口语（1-3）、西班牙语口语与基础写作、西班牙语视听说（1-6）、西班牙语阅读（1-3）
+专业必修课 西班牙语国家概况、西班牙语新闻阅读与分析、西班牙语写作、笔译（西译汉）（1）、笔译（汉译西）
+课 西班牙语国家文学选读、西班牙语学术写作
+程
+修 专业选修课 应修学分：4
+读
+语言学导论、西班牙与拉丁美洲思想史
+指 学科方向课
+西班牙语国家政治制度
+拉丁美洲国际关系、拉美政治经济发展
+南
+通识教育课
+七大类别【2—7学期。应修学分：12（含美育≥2，四史≥1）】
+实践
+军事技能、社会实践、专业及毕业实习、毕业论文

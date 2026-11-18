@@ -1,0 +1,2 @@
+n_jobs,n_with_salary,coverage,n_missing,n_shared_soc_groups,salary_sources,spearman_gap_wage,spearman_cost_wage
+29,29,1.0,0,2,bls_oews:29,0.4156,0.5827

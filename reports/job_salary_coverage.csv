@@ -1,0 +1,30 @@
+onet_job,onet_title,onet_soc,soc6,shared_soc,soc_group_size,occ_title,employment,n_salary_rows,median_wage,p25_wage,p75_wage,year,area,salary_source,has_salary
+Data Scientist,Data Scientists,15-2051.00,15-2051,True,2,Data Scientists,233440,,112590.0,82630.0,155810.0,2024,US national,bls_oews,True
+Software Developer,Software Developers,15-1252.00,15-1252,False,1,Software Developers,1654440,,133080.0,103050.0,169000.0,2024,US national,bls_oews,True
+Computer Research Scientist,Computer and Information Research Scientists,15-1221.00,15-1221,False,1,Computer and Information Research Scientists,38480,,140910.0,102710.0,181210.0,2024,US national,bls_oews,True
+Computer Systems Analyst,Computer Systems Analysts,15-1211.00,15-1211,False,1,Computer Systems Analysts,497800,,103790.0,80900.0,132360.0,2024,US national,bls_oews,True
+Operations Research Analyst,Operations Research Analysts,15-2031.00,15-2031,False,1,Operations Research Analysts,107760,,91290.0,66910.0,124120.0,2024,US national,bls_oews,True
+Database Architect,Database Architects,15-1243.00,15-1243,True,2,Database Architects,64770,,135980.0,107900.0,169480.0,2024,US national,bls_oews,True
+Database Administrator,Database Administrators,15-1242.00,15-1242,False,1,Database Administrators,73180,,104620.0,76100.0,132850.0,2024,US national,bls_oews,True
+Data Warehousing Specialist,Data Warehousing Specialists,15-1243.01,15-1243,True,2,Database Architects,64770,,135980.0,107900.0,169480.0,2024,US national,bls_oews,True
+Statistician,Statisticians,15-2041.00,15-2041,False,1,Statisticians,29800,,103300.0,79210.0,137610.0,2024,US national,bls_oews,True
+Marketing Manager,Marketing Managers,11-2021.00,11-2021,False,1,Marketing Managers,384980,,161030.0,111210.0,211080.0,2024,US national,bls_oews,True
+Management Analyst,Management Analysts,13-1111.00,13-1111,False,1,Management Analysts,893900,,101190.0,76770.0,133140.0,2024,US national,bls_oews,True
+Computer Programmer,Computer Programmers,15-1251.00,15-1251,False,1,Computer Programmers,109870,,98670.0,71860.0,128960.0,2024,US national,bls_oews,True
+Web Developer,Web Developers,15-1254.00,15-1254,False,1,Web Developers,78860,,90930.0,63140.0,124300.0,2024,US national,bls_oews,True
+Business Intelligence Analyst,Business Intelligence Analysts,15-2051.01,15-2051,True,2,Data Scientists,233440,,112590.0,82630.0,155810.0,2024,US national,bls_oews,True
+Financial Analyst,Financial Quantitative Analysts,13-2099.01,13-2099,False,1,"Financial Specialists, All Other",127450,,80190.0,60140.0,109120.0,2024,US national,bls_oews,True
+Financial Manager,Financial Managers,11-3031.00,11-3031,False,1,Financial Managers,818620,,161700.0,118360.0,214210.0,2024,US national,bls_oews,True
+HR Specialist,Human Resources Specialists,13-1071.00,13-1071,False,1,Human Resources Specialists,917460,,72910.0,55870.0,97270.0,2024,US national,bls_oews,True
+HR Manager,Human Resources Managers,11-3121.00,11-3121,False,1,Human Resources Managers,215520,,140030.0,105590.0,189960.0,2024,US national,bls_oews,True
+Project Manager,Project Management Specialists,13-1082.00,13-1082,False,1,Project Management Specialists,1006160,,100750.0,76950.0,131660.0,2024,US national,bls_oews,True
+Market Research Analyst,Market Research Analysts and Marketing Specialists,13-1161.00,13-1161,False,1,Market Research Analysts and Marketing Specialists,861140,,76950.0,56220.0,104870.0,2024,US national,bls_oews,True
+Operations Manager,General and Operations Managers,11-1021.00,11-1021,False,1,General and Operations Managers,3584420,,102950.0,67160.0,164130.0,2024,US national,bls_oews,True
+Info Security Analyst,Information Security Analysts,15-1212.00,15-1212,False,1,Information Security Analysts,179430,,124910.0,92160.0,159600.0,2024,US national,bls_oews,True
+Network Architect,Computer Network Architects,15-1241.00,15-1241,False,1,Computer Network Architects,177010,,130390.0,102120.0,164440.0,2024,US national,bls_oews,True
+QA Analyst,Software Quality Assurance Analysts and Testers,15-1253.00,15-1253,False,1,Software Quality Assurance Analysts and Testers,199800,,102610.0,79520.0,131870.0,2024,US national,bls_oews,True
+Industrial Engineer,Industrial Engineers,17-2112.00,17-2112,False,1,Industrial Engineers,350230,,101140.0,81910.0,127480.0,2024,US national,bls_oews,True
+Logistics Analyst,Logistics Analysts,13-1081.02,13-1081,False,1,Logisticians,235640,,80880.0,62920.0,104330.0,2024,US national,bls_oews,True
+Budget Analyst,Budget Analysts,13-2031.00,13-2031,False,1,Budget Analysts,47170,,87930.0,72240.0,110380.0,2024,US national,bls_oews,True
+Compensation Specialist,"Compensation, Benefits, and Job Analysis Specialists",13-1141.00,13-1141,False,1,"Compensation, Benefits, and Job Analysis Specialists",102370,,77020.0,59700.0,99210.0,2024,US national,bls_oews,True
+Training Specialist,Training and Development Specialists,13-1151.00,13-1151,False,1,Training and Development Specialists,436610,,65850.0,48900.0,91550.0,2024,US national,bls_oews,True

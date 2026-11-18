@@ -1,0 +1,407 @@
+Job_A,Job_B,Similarity_Score
+Data Scientist,Software Developer,0.5917
+Data Scientist,Computer Research Scientist,0.7855
+Data Scientist,Computer Systems Analyst,0.5146
+Data Scientist,Operations Research Analyst,0.5767
+Data Scientist,Database Architect,0.602
+Data Scientist,Database Administrator,0.6296
+Data Scientist,Data Warehousing Specialist,0.574
+Data Scientist,Statistician,0.553
+Data Scientist,Marketing Manager,0.367
+Data Scientist,Management Analyst,0.4759
+Data Scientist,Computer Programmer,0.6223
+Data Scientist,Web Developer,0.5606
+Data Scientist,Business Intelligence Analyst,0.6253
+Data Scientist,Financial Analyst,0.5408
+Data Scientist,Financial Manager,0.3444
+Data Scientist,HR Specialist,0.3147
+Data Scientist,HR Manager,0.3559
+Data Scientist,Project Manager,0.3345
+Data Scientist,Market Research Analyst,0.4038
+Data Scientist,Operations Manager,0.2947
+Data Scientist,Info Security Analyst,0.5733
+Data Scientist,Network Architect,0.6006
+Data Scientist,QA Analyst,0.5305
+Data Scientist,Industrial Engineer,0.4546
+Data Scientist,Logistics Analyst,0.3856
+Data Scientist,Budget Analyst,0.3777
+Data Scientist,Compensation Specialist,0.3622
+Data Scientist,Training Specialist,0.3723
+Software Developer,Computer Research Scientist,0.6239
+Software Developer,Computer Systems Analyst,0.6681
+Software Developer,Operations Research Analyst,0.4427
+Software Developer,Database Architect,0.5696
+Software Developer,Database Administrator,0.6125
+Software Developer,Data Warehousing Specialist,0.449
+Software Developer,Statistician,0.3933
+Software Developer,Marketing Manager,0.4194
+Software Developer,Management Analyst,0.5202
+Software Developer,Computer Programmer,0.8207
+Software Developer,Web Developer,0.7689
+Software Developer,Business Intelligence Analyst,0.5203
+Software Developer,Financial Analyst,0.421
+Software Developer,Financial Manager,0.3177
+Software Developer,HR Specialist,0.3783
+Software Developer,HR Manager,0.3214
+Software Developer,Project Manager,0.3704
+Software Developer,Market Research Analyst,0.4118
+Software Developer,Operations Manager,0.3157
+Software Developer,Info Security Analyst,0.5908
+Software Developer,Network Architect,0.6428
+Software Developer,QA Analyst,0.7384
+Software Developer,Industrial Engineer,0.4087
+Software Developer,Logistics Analyst,0.3004
+Software Developer,Budget Analyst,0.333
+Software Developer,Compensation Specialist,0.2983
+Software Developer,Training Specialist,0.4135
+Computer Research Scientist,Computer Systems Analyst,0.4767
+Computer Research Scientist,Operations Research Analyst,0.5132
+Computer Research Scientist,Database Architect,0.589
+Computer Research Scientist,Database Administrator,0.5886
+Computer Research Scientist,Data Warehousing Specialist,0.56
+Computer Research Scientist,Statistician,0.5659
+Computer Research Scientist,Marketing Manager,0.3922
+Computer Research Scientist,Management Analyst,0.4739
+Computer Research Scientist,Computer Programmer,0.6896
+Computer Research Scientist,Web Developer,0.5419
+Computer Research Scientist,Business Intelligence Analyst,0.5666
+Computer Research Scientist,Financial Analyst,0.5468
+Computer Research Scientist,Financial Manager,0.3616
+Computer Research Scientist,HR Specialist,0.3308
+Computer Research Scientist,HR Manager,0.3644
+Computer Research Scientist,Project Manager,0.3547
+Computer Research Scientist,Market Research Analyst,0.3816
+Computer Research Scientist,Operations Manager,0.3506
+Computer Research Scientist,Info Security Analyst,0.5617
+Computer Research Scientist,Network Architect,0.5581
+Computer Research Scientist,QA Analyst,0.4758
+Computer Research Scientist,Industrial Engineer,0.5147
+Computer Research Scientist,Logistics Analyst,0.3799
+Computer Research Scientist,Budget Analyst,0.3657
+Computer Research Scientist,Compensation Specialist,0.394
+Computer Research Scientist,Training Specialist,0.3552
+Computer Systems Analyst,Operations Research Analyst,0.4143
+Computer Systems Analyst,Database Architect,0.5966
+Computer Systems Analyst,Database Administrator,0.6084
+Computer Systems Analyst,Data Warehousing Specialist,0.5373
+Computer Systems Analyst,Statistician,0.3719
+Computer Systems Analyst,Marketing Manager,0.5145
+Computer Systems Analyst,Management Analyst,0.7121
+Computer Systems Analyst,Computer Programmer,0.6064
+Computer Systems Analyst,Web Developer,0.6632
+Computer Systems Analyst,Business Intelligence Analyst,0.5443
+Computer Systems Analyst,Financial Analyst,0.4065
+Computer Systems Analyst,Financial Manager,0.3416
+Computer Systems Analyst,HR Specialist,0.3951
+Computer Systems Analyst,HR Manager,0.3335
+Computer Systems Analyst,Project Manager,0.4403
+Computer Systems Analyst,Market Research Analyst,0.3967
+Computer Systems Analyst,Operations Manager,0.4355
+Computer Systems Analyst,Info Security Analyst,0.6201
+Computer Systems Analyst,Network Architect,0.6405
+Computer Systems Analyst,QA Analyst,0.5879
+Computer Systems Analyst,Industrial Engineer,0.3799
+Computer Systems Analyst,Logistics Analyst,0.3985
+Computer Systems Analyst,Budget Analyst,0.3631
+Computer Systems Analyst,Compensation Specialist,0.3221
+Computer Systems Analyst,Training Specialist,0.4297
+Operations Research Analyst,Database Architect,0.3862
+Operations Research Analyst,Database Administrator,0.3948
+Operations Research Analyst,Data Warehousing Specialist,0.531
+Operations Research Analyst,Statistician,0.7067
+Operations Research Analyst,Marketing Manager,0.4482
+Operations Research Analyst,Management Analyst,0.4578
+Operations Research Analyst,Computer Programmer,0.3881
+Operations Research Analyst,Web Developer,0.3939
+Operations Research Analyst,Business Intelligence Analyst,0.5258
+Operations Research Analyst,Financial Analyst,0.6426
+Operations Research Analyst,Financial Manager,0.5083
+Operations Research Analyst,HR Specialist,0.4487
+Operations Research Analyst,HR Manager,0.4422
+Operations Research Analyst,Project Manager,0.4319
+Operations Research Analyst,Market Research Analyst,0.6409
+Operations Research Analyst,Operations Manager,0.4849
+Operations Research Analyst,Info Security Analyst,0.4343
+Operations Research Analyst,Network Architect,0.4127
+Operations Research Analyst,QA Analyst,0.3818
+Operations Research Analyst,Industrial Engineer,0.5555
+Operations Research Analyst,Logistics Analyst,0.604
+Operations Research Analyst,Budget Analyst,0.4998
+Operations Research Analyst,Compensation Specialist,0.4605
+Operations Research Analyst,Training Specialist,0.4384
+Database Architect,Database Administrator,0.8904
+Database Architect,Data Warehousing Specialist,0.7848
+Database Architect,Statistician,0.4482
+Database Architect,Marketing Manager,0.3999
+Database Architect,Management Analyst,0.5368
+Database Architect,Computer Programmer,0.6217
+Database Architect,Web Developer,0.6085
+Database Architect,Business Intelligence Analyst,0.6392
+Database Architect,Financial Analyst,0.4052
+Database Architect,Financial Manager,0.3074
+Database Architect,HR Specialist,0.3481
+Database Architect,HR Manager,0.3318
+Database Architect,Project Manager,0.3552
+Database Architect,Market Research Analyst,0.4003
+Database Architect,Operations Manager,0.3426
+Database Architect,Info Security Analyst,0.6462
+Database Architect,Network Architect,0.6503
+Database Architect,QA Analyst,0.5473
+Database Architect,Industrial Engineer,0.386
+Database Architect,Logistics Analyst,0.3316
+Database Architect,Budget Analyst,0.3501
+Database Architect,Compensation Specialist,0.3522
+Database Architect,Training Specialist,0.3878
+Database Administrator,Data Warehousing Specialist,0.69
+Database Administrator,Statistician,0.3793
+Database Administrator,Marketing Manager,0.4374
+Database Administrator,Management Analyst,0.5663
+Database Administrator,Computer Programmer,0.6279
+Database Administrator,Web Developer,0.6547
+Database Administrator,Business Intelligence Analyst,0.6804
+Database Administrator,Financial Analyst,0.3634
+Database Administrator,Financial Manager,0.3139
+Database Administrator,HR Specialist,0.3539
+Database Administrator,HR Manager,0.3168
+Database Administrator,Project Manager,0.3611
+Database Administrator,Market Research Analyst,0.3888
+Database Administrator,Operations Manager,0.3511
+Database Administrator,Info Security Analyst,0.6522
+Database Administrator,Network Architect,0.6492
+Database Administrator,QA Analyst,0.6028
+Database Administrator,Industrial Engineer,0.3678
+Database Administrator,Logistics Analyst,0.3159
+Database Administrator,Budget Analyst,0.3337
+Database Administrator,Compensation Specialist,0.3134
+Database Administrator,Training Specialist,0.373
+Data Warehousing Specialist,Statistician,0.5642
+Data Warehousing Specialist,Marketing Manager,0.3835
+Data Warehousing Specialist,Management Analyst,0.4501
+Data Warehousing Specialist,Computer Programmer,0.5182
+Data Warehousing Specialist,Web Developer,0.5209
+Data Warehousing Specialist,Business Intelligence Analyst,0.6257
+Data Warehousing Specialist,Financial Analyst,0.5241
+Data Warehousing Specialist,Financial Manager,0.3761
+Data Warehousing Specialist,HR Specialist,0.3354
+Data Warehousing Specialist,HR Manager,0.3693
+Data Warehousing Specialist,Project Manager,0.3681
+Data Warehousing Specialist,Market Research Analyst,0.4237
+Data Warehousing Specialist,Operations Manager,0.4188
+Data Warehousing Specialist,Info Security Analyst,0.6135
+Data Warehousing Specialist,Network Architect,0.5445
+Data Warehousing Specialist,QA Analyst,0.4864
+Data Warehousing Specialist,Industrial Engineer,0.4527
+Data Warehousing Specialist,Logistics Analyst,0.4657
+Data Warehousing Specialist,Budget Analyst,0.4187
+Data Warehousing Specialist,Compensation Specialist,0.4056
+Data Warehousing Specialist,Training Specialist,0.3621
+Statistician,Marketing Manager,0.4227
+Statistician,Management Analyst,0.3976
+Statistician,Computer Programmer,0.4502
+Statistician,Web Developer,0.3705
+Statistician,Business Intelligence Analyst,0.4531
+Statistician,Financial Analyst,0.6634
+Statistician,Financial Manager,0.488
+Statistician,HR Specialist,0.4291
+Statistician,HR Manager,0.4635
+Statistician,Project Manager,0.4054
+Statistician,Market Research Analyst,0.6819
+Statistician,Operations Manager,0.4516
+Statistician,Info Security Analyst,0.4072
+Statistician,Network Architect,0.4156
+Statistician,QA Analyst,0.4086
+Statistician,Industrial Engineer,0.5809
+Statistician,Logistics Analyst,0.5984
+Statistician,Budget Analyst,0.5063
+Statistician,Compensation Specialist,0.5129
+Statistician,Training Specialist,0.4375
+Marketing Manager,Management Analyst,0.6161
+Marketing Manager,Computer Programmer,0.416
+Marketing Manager,Web Developer,0.4583
+Marketing Manager,Business Intelligence Analyst,0.5316
+Marketing Manager,Financial Analyst,0.4269
+Marketing Manager,Financial Manager,0.5196
+Marketing Manager,HR Specialist,0.5637
+Marketing Manager,HR Manager,0.5025
+Marketing Manager,Project Manager,0.6055
+Marketing Manager,Market Research Analyst,0.6759
+Marketing Manager,Operations Manager,0.6444
+Marketing Manager,Info Security Analyst,0.3776
+Marketing Manager,Network Architect,0.3793
+Marketing Manager,QA Analyst,0.4527
+Marketing Manager,Industrial Engineer,0.4146
+Marketing Manager,Logistics Analyst,0.5242
+Marketing Manager,Budget Analyst,0.4854
+Marketing Manager,Compensation Specialist,0.4863
+Marketing Manager,Training Specialist,0.5284
+Management Analyst,Computer Programmer,0.5055
+Management Analyst,Web Developer,0.5069
+Management Analyst,Business Intelligence Analyst,0.7082
+Management Analyst,Financial Analyst,0.4147
+Management Analyst,Financial Manager,0.4421
+Management Analyst,HR Specialist,0.4576
+Management Analyst,HR Manager,0.3826
+Management Analyst,Project Manager,0.5034
+Management Analyst,Market Research Analyst,0.5059
+Management Analyst,Operations Manager,0.5633
+Management Analyst,Info Security Analyst,0.4723
+Management Analyst,Network Architect,0.4704
+Management Analyst,QA Analyst,0.4993
+Management Analyst,Industrial Engineer,0.4224
+Management Analyst,Logistics Analyst,0.4444
+Management Analyst,Budget Analyst,0.3755
+Management Analyst,Compensation Specialist,0.374
+Management Analyst,Training Specialist,0.4257
+Computer Programmer,Web Developer,0.7298
+Computer Programmer,Business Intelligence Analyst,0.5621
+Computer Programmer,Financial Analyst,0.4543
+Computer Programmer,Financial Manager,0.2683
+Computer Programmer,HR Specialist,0.3577
+Computer Programmer,HR Manager,0.3284
+Computer Programmer,Project Manager,0.3203
+Computer Programmer,Market Research Analyst,0.412
+Computer Programmer,Operations Manager,0.313
+Computer Programmer,Info Security Analyst,0.6238
+Computer Programmer,Network Architect,0.6448
+Computer Programmer,QA Analyst,0.7096
+Computer Programmer,Industrial Engineer,0.3972
+Computer Programmer,Logistics Analyst,0.3126
+Computer Programmer,Budget Analyst,0.3279
+Computer Programmer,Compensation Specialist,0.3084
+Computer Programmer,Training Specialist,0.3814
+Web Developer,Business Intelligence Analyst,0.4711
+Web Developer,Financial Analyst,0.3632
+Web Developer,Financial Manager,0.3026
+Web Developer,HR Specialist,0.3908
+Web Developer,HR Manager,0.3271
+Web Developer,Project Manager,0.3667
+Web Developer,Market Research Analyst,0.388
+Web Developer,Operations Manager,0.3261
+Web Developer,Info Security Analyst,0.6538
+Web Developer,Network Architect,0.6968
+Web Developer,QA Analyst,0.7172
+Web Developer,Industrial Engineer,0.4111
+Web Developer,Logistics Analyst,0.3169
+Web Developer,Budget Analyst,0.3573
+Web Developer,Compensation Specialist,0.3211
+Web Developer,Training Specialist,0.463
+Business Intelligence Analyst,Financial Analyst,0.5214
+Business Intelligence Analyst,Financial Manager,0.4068
+Business Intelligence Analyst,HR Specialist,0.3956
+Business Intelligence Analyst,HR Manager,0.3297
+Business Intelligence Analyst,Project Manager,0.3882
+Business Intelligence Analyst,Market Research Analyst,0.5205
+Business Intelligence Analyst,Operations Manager,0.3972
+Business Intelligence Analyst,Info Security Analyst,0.5207
+Business Intelligence Analyst,Network Architect,0.4615
+Business Intelligence Analyst,QA Analyst,0.5003
+Business Intelligence Analyst,Industrial Engineer,0.3537
+Business Intelligence Analyst,Logistics Analyst,0.4835
+Business Intelligence Analyst,Budget Analyst,0.4175
+Business Intelligence Analyst,Compensation Specialist,0.3447
+Business Intelligence Analyst,Training Specialist,0.3216
+Financial Analyst,Financial Manager,0.6085
+Financial Analyst,HR Specialist,0.4127
+Financial Analyst,HR Manager,0.481
+Financial Analyst,Project Manager,0.4259
+Financial Analyst,Market Research Analyst,0.5469
+Financial Analyst,Operations Manager,0.4742
+Financial Analyst,Info Security Analyst,0.4225
+Financial Analyst,Network Architect,0.4309
+Financial Analyst,QA Analyst,0.386
+Financial Analyst,Industrial Engineer,0.5365
+Financial Analyst,Logistics Analyst,0.5731
+Financial Analyst,Budget Analyst,0.5816
+Financial Analyst,Compensation Specialist,0.4947
+Financial Analyst,Training Specialist,0.4531
+Financial Manager,HR Specialist,0.6132
+Financial Manager,HR Manager,0.6963
+Financial Manager,Project Manager,0.7063
+Financial Manager,Market Research Analyst,0.5003
+Financial Manager,Operations Manager,0.6889
+Financial Manager,Info Security Analyst,0.3903
+Financial Manager,Network Architect,0.3046
+Financial Manager,QA Analyst,0.3102
+Financial Manager,Industrial Engineer,0.4968
+Financial Manager,Logistics Analyst,0.602
+Financial Manager,Budget Analyst,0.7775
+Financial Manager,Compensation Specialist,0.6741
+Financial Manager,Training Specialist,0.5499
+HR Specialist,HR Manager,0.8034
+HR Specialist,Project Manager,0.6403
+HR Specialist,Market Research Analyst,0.5643
+HR Specialist,Operations Manager,0.5409
+HR Specialist,Info Security Analyst,0.341
+HR Specialist,Network Architect,0.341
+HR Specialist,QA Analyst,0.404
+HR Specialist,Industrial Engineer,0.4611
+HR Specialist,Logistics Analyst,0.534
+HR Specialist,Budget Analyst,0.5381
+HR Specialist,Compensation Specialist,0.7888
+HR Specialist,Training Specialist,0.707
+HR Manager,Project Manager,0.6005
+HR Manager,Market Research Analyst,0.4593
+HR Manager,Operations Manager,0.5868
+HR Manager,Info Security Analyst,0.3431
+HR Manager,Network Architect,0.3649
+HR Manager,QA Analyst,0.3445
+HR Manager,Industrial Engineer,0.5165
+HR Manager,Logistics Analyst,0.5786
+HR Manager,Budget Analyst,0.6659
+HR Manager,Compensation Specialist,0.867
+HR Manager,Training Specialist,0.6472
+Project Manager,Market Research Analyst,0.4815
+Project Manager,Operations Manager,0.7295
+Project Manager,Info Security Analyst,0.4203
+Project Manager,Network Architect,0.3779
+Project Manager,QA Analyst,0.4704
+Project Manager,Industrial Engineer,0.5044
+Project Manager,Logistics Analyst,0.528
+Project Manager,Budget Analyst,0.5696
+Project Manager,Compensation Specialist,0.5719
+Project Manager,Training Specialist,0.617
+Market Research Analyst,Operations Manager,0.534
+Market Research Analyst,Info Security Analyst,0.3783
+Market Research Analyst,Network Architect,0.3766
+Market Research Analyst,QA Analyst,0.4391
+Market Research Analyst,Industrial Engineer,0.4801
+Market Research Analyst,Logistics Analyst,0.5736
+Market Research Analyst,Budget Analyst,0.458
+Market Research Analyst,Compensation Specialist,0.4862
+Market Research Analyst,Training Specialist,0.5544
+Operations Manager,Info Security Analyst,0.3893
+Operations Manager,Network Architect,0.3373
+Operations Manager,QA Analyst,0.4183
+Operations Manager,Industrial Engineer,0.6446
+Operations Manager,Logistics Analyst,0.5997
+Operations Manager,Budget Analyst,0.5857
+Operations Manager,Compensation Specialist,0.5615
+Operations Manager,Training Specialist,0.501
+Info Security Analyst,Network Architect,0.7758
+Info Security Analyst,QA Analyst,0.6092
+Info Security Analyst,Industrial Engineer,0.431
+Info Security Analyst,Logistics Analyst,0.3393
+Info Security Analyst,Budget Analyst,0.3773
+Info Security Analyst,Compensation Specialist,0.3578
+Info Security Analyst,Training Specialist,0.3772
+Network Architect,QA Analyst,0.6434
+Network Architect,Industrial Engineer,0.4671
+Network Architect,Logistics Analyst,0.3378
+Network Architect,Budget Analyst,0.3865
+Network Architect,Compensation Specialist,0.318
+Network Architect,Training Specialist,0.4403
+QA Analyst,Industrial Engineer,0.4769
+QA Analyst,Logistics Analyst,0.3332
+QA Analyst,Budget Analyst,0.3626
+QA Analyst,Compensation Specialist,0.3299
+QA Analyst,Training Specialist,0.4466
+Industrial Engineer,Logistics Analyst,0.6297
+Industrial Engineer,Budget Analyst,0.5432
+Industrial Engineer,Compensation Specialist,0.5648
+Industrial Engineer,Training Specialist,0.5131
+Logistics Analyst,Budget Analyst,0.6859
+Logistics Analyst,Compensation Specialist,0.6282
+Logistics Analyst,Training Specialist,0.5777
+Budget Analyst,Compensation Specialist,0.6661
+Budget Analyst,Training Specialist,0.5765
+Compensation Specialist,Training Specialist,0.6114

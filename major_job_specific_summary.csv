@@ -1,0 +1,45 @@
+﻿source_major,n_jobs,n_high_fit,n_high_fit_high_salary,best_match_job,best_match_fit,best_match_core_coverage,best_match_salary,best_high_salary_job,best_high_salary_wage,top3_match_jobs
+人力资源管理专业（大数据应用）,29,2,2,Financial Manager,0.5366,0.5,161700.0,Financial Manager,161700.0,"Financial Manager (fit=0.537, core=0.50, $161,700); HR Manager (fit=0.518, core=0.50, $140,030)"
+人工智能,29,2,2,Software Developer,0.5215,0.6,133080.0,Computer Research Scientist,140910.0,"Software Developer (fit=0.522, core=0.60, $133,080); Computer Research Scientist (fit=0.519, core=0.70, $140,910)"
+会计学,29,3,2,Financial Manager,0.5366,0.7,161700.0,Financial Manager,161700.0,"Financial Manager (fit=0.537, core=0.70, $161,700); Operations Manager (fit=0.511, core=0.50, $102,950); Budget Analyst (fit=0.501, core=0.80, $87,930)"
+俄语专业（涉外油气勘查人才实验班）,29,0,0,,,,,,,
+印度尼西亚语专业（印英复语）,29,0,0,,,,,,,
+古典文献学,29,0,0,,,,,,,
+听力与言语康复学,29,2,1,Computer Research Scientist,0.5187,0.7,140910.0,Computer Research Scientist,140910.0,"Computer Research Scientist (fit=0.519, core=0.70, $140,910); Operations Research Analyst (fit=0.517, core=0.70, $91,290)"
+商务英语,29,2,1,Financial Manager,0.5366,0.6,161700.0,Financial Manager,161700.0,"Financial Manager (fit=0.537, core=0.60, $161,700); Budget Analyst (fit=0.501, core=0.50, $87,930)"
+国际事务与国际关系,29,0,0,,,,,,,
+国际政治,29,0,0,,,,,,,
+国际组织与全球治理,29,0,0,,,,,,,
+国际经济与贸易,29,3,2,Financial Manager,0.5366,0.8,161700.0,Financial Manager,161700.0,"Financial Manager (fit=0.537, core=0.80, $161,700); Operations Manager (fit=0.511, core=0.50, $102,950); Budget Analyst (fit=0.501, core=0.60, $87,930)"
+德语专业（涉外林业工程人才实验班）,29,0,0,,,,,,,
+心理学,29,0,0,,,,,,,
+意大利语,29,0,0,,,,,,,
+播音与主持艺术（中英双语）,29,0,0,,,,,,,
+数字媒体技术,29,2,2,Software Developer,0.5215,0.5,133080.0,Computer Research Scientist,140910.0,"Software Developer (fit=0.522, core=0.50, $133,080); Computer Research Scientist (fit=0.519, core=0.60, $140,910)"
+数据科学与大数据技术,29,2,2,Software Developer,0.5215,0.7,133080.0,Computer Research Scientist,140910.0,"Software Developer (fit=0.522, core=0.70, $133,080); Computer Research Scientist (fit=0.519, core=0.80, $140,910)"
+新闻学（国际出版）,29,0,0,,,,,,,
+新闻学（国际新闻）,29,0,0,,,,,,,
+日语,29,0,0,,,,,,,
+日语专业（日英复语）,29,0,0,,,,,,,
+朝鲜语专业（韩国语）,29,0,0,,,,,,,
+汉语国际教育,29,0,0,,,,,,,
+汉语言文学,29,0,0,,,,,,,
+法语,29,0,0,,,,,,,
+法语专业（涉外化工人才实验班）,29,0,0,,,,,,,
+经济学（经济金融统计与分析）,29,3,2,Financial Manager,0.5366,0.8,161700.0,Financial Manager,161700.0,"Financial Manager (fit=0.537, core=0.80, $161,700); Data Warehousing Specialist (fit=0.523, core=0.50, $135,980); Budget Analyst (fit=0.501, core=0.60, $87,930)"
+绘画,29,0,0,,,,,,,
+网络与新媒体专业（智能媒体）,29,0,0,,,,,,,
+翻译专业（本地化）,29,2,1,Computer Programmer,0.5335,0.5,98670.0,Computer Research Scientist,140910.0,"Computer Programmer (fit=0.533, core=0.50, $98,670); Computer Research Scientist (fit=0.519, core=0.50, $140,910)"
+翻译专业（汉英法）,29,0,0,,,,,,,
+翻译专业（英语）,29,0,0,,,,,,,
+英语,29,0,0,,,,,,,
+英语专业（英西复语）,29,0,0,,,,,,,
+葡萄牙语,29,0,0,,,,,,,
+西班牙语,29,0,0,,,,,,,
+西班牙语专业（涉外矿产资源人才实验班）,29,0,0,,,,,,,
+计算机科学与技术,29,2,2,Software Developer,0.5215,0.6,133080.0,Computer Research Scientist,140910.0,"Software Developer (fit=0.522, core=0.60, $133,080); Computer Research Scientist (fit=0.519, core=0.70, $140,910)"
+语言学,29,0,0,,,,,,,
+金融学,29,3,1,Financial Analyst,0.5433,0.6,80190.0,Financial Manager,161700.0,"Financial Analyst (fit=0.543, core=0.60, $80,190); Financial Manager (fit=0.537, core=0.70, $161,700); Budget Analyst (fit=0.501, core=0.60, $87,930)"
+阿拉伯语,29,0,0,,,,,,,
+阿拉伯语专业（涉外石油人才实验班）,29,0,0,,,,,,,
+音乐学（音乐国际教育与传播）,29,0,0,,,,,,,

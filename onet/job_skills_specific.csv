@@ -1,0 +1,775 @@
+job,skill,weight,source,n_evidence
+Data Scientist,Python,4.0,seed+onet_tool,2
+Data Scientist,R,4.0,seed+onet_tool,1
+Data Scientist,SQL,4.0,seed+onet_tool,6
+Data Scientist,Statistics,4.0,seed+onet_tool,1
+Data Scientist,Machine Learning,4.0,seed,0
+Data Scientist,Deep Learning,4.0,seed,0
+Data Scientist,Data Analysis,4.0,seed,0
+Data Scientist,Data Visualization,4.0,seed,0
+Data Scientist,Spark,4.0,seed+onet_tool,2
+Data Scientist,Cloud Computing,4.0,seed,0
+Data Scientist,Git,4.0,seed+onet_tool,2
+Data Scientist,NoSQL,2.86,onet_tool,3
+Data Scientist,Linux,2.86,onet_tool,3
+Data Scientist,AWS,2.79,onet_tool,4
+Data Scientist,Hadoop,2.73,onet_tool,3
+Data Scientist,Jira,2.67,onet_tool,2
+Data Scientist,JavaScript,2.67,onet_tool,2
+Data Scientist,Alteryx,2.4,onet_tool,1
+Data Scientist,Airflow,2.4,onet_tool,1
+Data Scientist,Kafka,2.4,onet_tool,1
+Data Scientist,C#,2.4,onet_tool,1
+Data Scientist,C++,2.4,onet_tool,1
+Data Scientist,Docker,2.4,onet_tool,1
+Data Scientist,SPSS,2.4,onet_tool,1
+Data Scientist,Kubernetes,2.4,onet_tool,1
+Data Scientist,Azure,2.4,onet_tool,1
+Data Scientist,Excel,2.4,onet_tool,1
+Data Scientist,Power BI,2.4,onet_tool,1
+Data Scientist,Java,2.4,onet_tool,1
+Data Scientist,PyTorch,2.4,onet_tool,1
+Software Developer,Java,4.0,seed+onet_tool,4
+Software Developer,Python,4.0,seed+onet_tool,2
+Software Developer,C++,4.0,seed+onet_tool,1
+Software Developer,C#,4.0,seed+onet_tool,2
+Software Developer,JavaScript,4.0,seed+onet_tool,7
+Software Developer,Data Structures & Algorithms,4.0,seed,0
+Software Developer,Software Engineering,4.0,seed,0
+Software Developer,Software Testing,4.0,seed,0
+Software Developer,Git,4.0,seed+onet_tool,3
+Software Developer,SQL,4.0,seed+onet_tool,13
+Software Developer,Linux,4.0,seed+onet_tool,5
+Software Developer,Docker,4.0,seed+onet_tool,1
+Software Developer,NoSQL,3.14,onet_tool,6
+Software Developer,SAP/ERP,3.01,onet_tool,9
+Software Developer,AWS,2.9,onet_tool,4
+Software Developer,.NET,2.89,onet_tool,6
+Software Developer,Hadoop,2.67,onet_tool,2
+Software Developer,Jira,2.67,onet_tool,2
+Software Developer,HTML/CSS,2.67,onet_tool,2
+Software Developer,React,2.57,onet_tool,3
+Software Developer,Cisco,2.49,onet_tool,2
+Software Developer,Azure,2.49,onet_tool,2
+Software Developer,PeopleSoft,2.49,onet_tool,2
+Software Developer,Salesforce,2.49,onet_tool,2
+Software Developer,R,2.46,onet_tool,4
+Software Developer,After Effects,2.4,onet_tool,1
+Software Developer,Illustrator,2.4,onet_tool,1
+Software Developer,InDesign,2.4,onet_tool,1
+Software Developer,Photoshop,2.4,onet_tool,1
+Software Developer,Alteryx,2.4,onet_tool,1
+Computer Research Scientist,Python,4.0,seed+onet_tool,2
+Computer Research Scientist,C++,4.0,seed+onet_tool,1
+Computer Research Scientist,Data Structures & Algorithms,4.0,seed,0
+Computer Research Scientist,Machine Learning,4.0,seed,0
+Computer Research Scientist,Deep Learning,4.0,seed,0
+Computer Research Scientist,Statistics,4.0,seed+onet_tool,2
+Computer Research Scientist,Research Methods,4.0,seed,0
+Computer Research Scientist,Linux,4.0,seed+onet_tool,4
+Computer Research Scientist,Git,4.0,seed+onet_tool,3
+Computer Research Scientist,SQL,3.33,onet_tool,8
+Computer Research Scientist,NoSQL,3.11,onet_tool,5
+Computer Research Scientist,AWS,2.9,onet_tool,4
+Computer Research Scientist,Hadoop,2.67,onet_tool,2
+Computer Research Scientist,JavaScript,2.67,onet_tool,2
+Computer Research Scientist,Java,2.67,onet_tool,2
+Computer Research Scientist,C#,2.49,onet_tool,2
+Computer Research Scientist,Airflow,2.4,onet_tool,1
+Computer Research Scientist,Kafka,2.4,onet_tool,1
+Computer Research Scientist,Spark,2.4,onet_tool,1
+Computer Research Scientist,Docker,2.4,onet_tool,1
+Computer Research Scientist,Google Analytics,2.4,onet_tool,1
+Computer Research Scientist,SPSS,2.4,onet_tool,1
+Computer Research Scientist,Kubernetes,2.4,onet_tool,1
+Computer Research Scientist,Azure,2.4,onet_tool,1
+Computer Research Scientist,Excel,2.4,onet_tool,1
+Computer Research Scientist,Power BI,2.4,onet_tool,1
+Computer Research Scientist,Node.js,2.4,onet_tool,1
+Computer Research Scientist,PyTorch,2.4,onet_tool,1
+Computer Research Scientist,SAS,2.4,onet_tool,1
+Computer Research Scientist,Snowflake,2.4,onet_tool,1
+Computer Systems Analyst,SQL,4.0,seed+onet_tool,11
+Computer Systems Analyst,Business Analysis,4.0,seed,0
+Computer Systems Analyst,Systems Analysis,4.0,seed,0
+Computer Systems Analyst,Project Management,4.0,seed,0
+Computer Systems Analyst,Excel,4.0,seed+onet_tool,1
+Computer Systems Analyst,Tableau,4.0,seed+onet_tool,1
+Computer Systems Analyst,Cloud Computing,4.0,seed+onet_tool,1
+Computer Systems Analyst,Software Engineering,4.0,seed,0
+Computer Systems Analyst,Linux,3.11,onet_tool,5
+Computer Systems Analyst,SAP/ERP,3.05,onet_tool,10
+Computer Systems Analyst,NoSQL,3.0,onet_tool,4
+Computer Systems Analyst,JavaScript,2.95,onet_tool,5
+Computer Systems Analyst,AWS,2.9,onet_tool,4
+Computer Systems Analyst,.NET,2.84,onet_tool,5
+Computer Systems Analyst,Hadoop,2.67,onet_tool,2
+Computer Systems Analyst,Jira,2.67,onet_tool,2
+Computer Systems Analyst,HTML/CSS,2.67,onet_tool,2
+Computer Systems Analyst,Git,2.67,onet_tool,2
+Computer Systems Analyst,Java,2.67,onet_tool,2
+Computer Systems Analyst,C#,2.49,onet_tool,2
+Computer Systems Analyst,Cisco,2.49,onet_tool,2
+Computer Systems Analyst,Python,2.49,onet_tool,2
+Computer Systems Analyst,PeopleSoft,2.49,onet_tool,2
+Computer Systems Analyst,Salesforce,2.49,onet_tool,2
+Computer Systems Analyst,Illustrator,2.4,onet_tool,1
+Computer Systems Analyst,Photoshop,2.4,onet_tool,1
+Computer Systems Analyst,Kafka,2.4,onet_tool,1
+Computer Systems Analyst,Spark,2.4,onet_tool,1
+Computer Systems Analyst,C++,2.4,onet_tool,1
+Computer Systems Analyst,Docker,2.4,onet_tool,1
+Operations Research Analyst,Python,4.0,seed+onet_tool,2
+Operations Research Analyst,R,4.0,seed,0
+Operations Research Analyst,SQL,4.0,seed+onet_tool,5
+Operations Research Analyst,Statistics,4.0,seed+onet_tool,1
+Operations Research Analyst,Data Analysis,4.0,seed,0
+Operations Research Analyst,Data Visualization,4.0,seed,0
+Operations Research Analyst,MATLAB,4.0,seed+onet_tool,1
+Operations Research Analyst,Excel,4.0,seed+onet_tool,1
+Operations Research Analyst,Machine Learning,4.0,seed,0
+Operations Research Analyst,Linux,3.0,onet_tool,4
+Operations Research Analyst,SAP/ERP,2.71,onet_tool,5
+Operations Research Analyst,Hadoop,2.67,onet_tool,2
+Operations Research Analyst,C++,2.4,onet_tool,1
+Operations Research Analyst,Git,2.4,onet_tool,1
+Operations Research Analyst,SPSS,2.4,onet_tool,1
+Operations Research Analyst,Marketing,2.4,onet_tool,1
+Operations Research Analyst,Power BI,2.4,onet_tool,1
+Operations Research Analyst,PeopleSoft,2.4,onet_tool,1
+Operations Research Analyst,Salesforce,2.4,onet_tool,1
+Operations Research Analyst,SAS,2.4,onet_tool,1
+Operations Research Analyst,Incident Response,2.4,onet_tool,1
+Operations Research Analyst,Tableau,2.4,onet_tool,1
+Operations Research Analyst,Cisco,2.14,onet_tool,1
+Operations Research Analyst,Cloud Computing,2.14,onet_tool,1
+Operations Research Analyst,Accounting,2.14,onet_tool,1
+Operations Research Analyst,UI/UX Design,2.14,onet_tool,1
+Operations Research Analyst,Jupyter,2.14,onet_tool,1
+Operations Research Analyst,Minitab,2.14,onet_tool,1
+Operations Research Analyst,Stata,2.14,onet_tool,1
+Operations Research Analyst,Java,2.14,onet_tool,1
+Database Architect,SQL,4.0,seed+onet_tool,19
+Database Architect,Database Design,4.0,seed+onet_tool,2
+Database Architect,Data Warehousing,4.0,seed+onet_tool,1
+Database Architect,ETL,4.0,seed+onet_tool,1
+Database Architect,Cloud Computing,4.0,seed+onet_tool,1
+Database Architect,Python,4.0,seed+onet_tool,2
+Database Architect,Linux,4.0,seed+onet_tool,8
+Database Architect,NoSQL,4.0,seed+onet_tool,5
+Database Architect,JavaScript,2.95,onet_tool,5
+Database Architect,SAP/ERP,2.92,onet_tool,9
+Database Architect,AWS,2.9,onet_tool,4
+Database Architect,.NET,2.89,onet_tool,6
+Database Architect,Hadoop,2.67,onet_tool,2
+Database Architect,Jira,2.67,onet_tool,2
+Database Architect,HTML/CSS,2.67,onet_tool,2
+Database Architect,Git,2.67,onet_tool,2
+Database Architect,C#,2.49,onet_tool,2
+Database Architect,Cisco,2.49,onet_tool,2
+Database Architect,PeopleSoft,2.49,onet_tool,2
+Database Architect,SAS,2.49,onet_tool,2
+Database Architect,Airflow,2.4,onet_tool,1
+Database Architect,Kafka,2.4,onet_tool,1
+Database Architect,Spark,2.4,onet_tool,1
+Database Architect,C++,2.4,onet_tool,1
+Database Architect,Docker,2.4,onet_tool,1
+Database Architect,Google Analytics,2.4,onet_tool,1
+Database Architect,Statistics,2.4,onet_tool,1
+Database Architect,SPSS,2.4,onet_tool,1
+Database Architect,Azure,2.4,onet_tool,1
+Database Architect,Excel,2.4,onet_tool,1
+Database Administrator,SQL,4.0,seed+onet_tool,17
+Database Administrator,Database Design,4.0,seed+onet_tool,2
+Database Administrator,Linux,4.0,seed+onet_tool,6
+Database Administrator,Cloud Computing,4.0,seed+onet_tool,1
+Database Administrator,Python,4.0,seed+onet_tool,2
+Database Administrator,NoSQL,4.0,seed+onet_tool,4
+Database Administrator,ETL,4.0,seed+onet_tool,1
+Database Administrator,JavaScript,2.95,onet_tool,5
+Database Administrator,AWS,2.9,onet_tool,4
+Database Administrator,.NET,2.89,onet_tool,6
+Database Administrator,SAP/ERP,2.87,onet_tool,8
+Database Administrator,Hadoop,2.67,onet_tool,2
+Database Administrator,Jira,2.67,onet_tool,2
+Database Administrator,HTML/CSS,2.67,onet_tool,2
+Database Administrator,Git,2.67,onet_tool,2
+Database Administrator,Spark,2.49,onet_tool,2
+Database Administrator,C#,2.49,onet_tool,2
+Database Administrator,Azure,2.49,onet_tool,2
+Database Administrator,PeopleSoft,2.49,onet_tool,2
+Database Administrator,Salesforce,2.49,onet_tool,2
+Database Administrator,Airflow,2.4,onet_tool,1
+Database Administrator,Kafka,2.4,onet_tool,1
+Database Administrator,C++,2.4,onet_tool,1
+Database Administrator,Cisco,2.4,onet_tool,1
+Database Administrator,Docker,2.4,onet_tool,1
+Database Administrator,Google Analytics,2.4,onet_tool,1
+Database Administrator,Statistics,2.4,onet_tool,1
+Database Administrator,SPSS,2.4,onet_tool,1
+Database Administrator,Kubernetes,2.4,onet_tool,1
+Database Administrator,Marketing,2.4,onet_tool,1
+Data Warehousing Specialist,SQL,4.0,seed+onet_tool,11
+Data Warehousing Specialist,ETL,4.0,seed+onet_tool,1
+Data Warehousing Specialist,Data Warehousing,4.0,seed,0
+Data Warehousing Specialist,Database Design,4.0,seed,0
+Data Warehousing Specialist,Cloud Computing,4.0,seed,0
+Data Warehousing Specialist,Python,4.0,seed+onet_tool,1
+Data Warehousing Specialist,Spark,4.0,seed+onet_tool,1
+Data Warehousing Specialist,Snowflake,4.0,seed,0
+Data Warehousing Specialist,Linux,3.11,onet_tool,5
+Data Warehousing Specialist,NoSQL,3.04,onet_tool,5
+Data Warehousing Specialist,SAP/ERP,2.87,onet_tool,8
+Data Warehousing Specialist,AWS,2.73,onet_tool,3
+Data Warehousing Specialist,Hadoop,2.67,onet_tool,2
+Data Warehousing Specialist,SAS,2.49,onet_tool,2
+Data Warehousing Specialist,Kafka,2.4,onet_tool,1
+Data Warehousing Specialist,Jira,2.4,onet_tool,1
+Data Warehousing Specialist,C#,2.4,onet_tool,1
+Data Warehousing Specialist,C++,2.4,onet_tool,1
+Data Warehousing Specialist,Statistics,2.4,onet_tool,1
+Data Warehousing Specialist,SPSS,2.4,onet_tool,1
+Data Warehousing Specialist,.NET,2.4,onet_tool,1
+Data Warehousing Specialist,Azure,2.4,onet_tool,1
+Data Warehousing Specialist,Excel,2.4,onet_tool,1
+Data Warehousing Specialist,Power BI,2.4,onet_tool,1
+Data Warehousing Specialist,Java,2.4,onet_tool,1
+Data Warehousing Specialist,PeopleSoft,2.4,onet_tool,1
+Data Warehousing Specialist,Incident Response,2.4,onet_tool,1
+Data Warehousing Specialist,Tableau,2.4,onet_tool,1
+Data Warehousing Specialist,MATLAB,2.4,onet_tool,1
+Data Warehousing Specialist,UI/UX Design,2.14,onet_tool,1
+Statistician,R,4.0,seed,0
+Statistician,Python,4.0,seed+onet_tool,1
+Statistician,SAS,4.0,seed+onet_tool,4
+Statistician,SPSS,4.0,seed+onet_tool,3
+Statistician,Stata,4.0,seed+onet_tool,1
+Statistician,Statistics,4.0,seed+onet_tool,1
+Statistician,Data Analysis,4.0,seed,0
+Statistician,Data Visualization,4.0,seed,0
+Statistician,Survey Design,4.0,seed,0
+Statistician,Research Methods,4.0,seed,0
+Statistician,SQL,2.86,onet_tool,3
+Statistician,Linux,2.67,onet_tool,2
+Statistician,SAP/ERP,2.49,onet_tool,2
+Statistician,AWS,2.4,onet_tool,1
+Statistician,Hadoop,2.4,onet_tool,1
+Statistician,Spark,2.4,onet_tool,1
+Statistician,C++,2.4,onet_tool,1
+Statistician,Excel,2.4,onet_tool,1
+Statistician,Tableau,2.4,onet_tool,1
+Statistician,MATLAB,2.4,onet_tool,1
+Statistician,Forecasting,2.14,onet_tool,1
+Statistician,Translation,2.14,onet_tool,1
+Statistician,Minitab,2.14,onet_tool,1
+Statistician,Data Warehousing,2.14,onet_tool,1
+Statistician,Java,2.14,onet_tool,1
+Marketing Manager,Marketing,4.0,seed+onet_tool,2
+Marketing Manager,Market Research,4.0,seed,0
+Marketing Manager,SEO,4.0,seed,0
+Marketing Manager,Google Analytics,4.0,seed+onet_tool,1
+Marketing Manager,CRM,4.0,seed+onet_tool,1
+Marketing Manager,Content Marketing,4.0,seed,0
+Marketing Manager,Social Media Marketing,4.0,seed+onet_tool,1
+Marketing Manager,Excel,4.0,seed+onet_tool,1
+Marketing Manager,Tableau,4.0,seed+onet_tool,1
+Marketing Manager,Project Management,4.0,seed,0
+Marketing Manager,SQL,3.2,onet_tool,6
+Marketing Manager,NoSQL,2.67,onet_tool,2
+Marketing Manager,Hadoop,2.67,onet_tool,2
+Marketing Manager,Jira,2.67,onet_tool,2
+Marketing Manager,HTML/CSS,2.67,onet_tool,2
+Marketing Manager,SAP/ERP,2.57,onet_tool,3
+Marketing Manager,QuickBooks/Sage,2.49,onet_tool,2
+Marketing Manager,Python,2.49,onet_tool,2
+Marketing Manager,PeopleSoft,2.49,onet_tool,2
+Marketing Manager,Salesforce,2.49,onet_tool,2
+Marketing Manager,After Effects,2.4,onet_tool,1
+Marketing Manager,Illustrator,2.4,onet_tool,1
+Marketing Manager,InDesign,2.4,onet_tool,1
+Marketing Manager,Photoshop,2.4,onet_tool,1
+Marketing Manager,AWS,2.4,onet_tool,1
+Marketing Manager,Figma,2.4,onet_tool,1
+Marketing Manager,Git,2.4,onet_tool,1
+Marketing Manager,HubSpot,2.4,onet_tool,1
+Marketing Manager,Statistics,2.4,onet_tool,1
+Marketing Manager,SPSS,2.4,onet_tool,1
+Management Analyst,Business Analysis,4.0,seed,0
+Management Analyst,Excel,4.0,seed+onet_tool,1
+Management Analyst,SQL,4.0,seed+onet_tool,10
+Management Analyst,Tableau,4.0,seed+onet_tool,1
+Management Analyst,Project Management,4.0,seed,0
+Management Analyst,Statistics,4.0,seed+onet_tool,1
+Management Analyst,Operations Management,4.0,seed,0
+Management Analyst,SAP/ERP,4.0,seed+onet_tool,4
+Management Analyst,Linux,3.0,onet_tool,4
+Management Analyst,JavaScript,2.95,onet_tool,5
+Management Analyst,NoSQL,2.86,onet_tool,3
+Management Analyst,.NET,2.73,onet_tool,3
+Management Analyst,AWS,2.67,onet_tool,2
+Management Analyst,Hadoop,2.67,onet_tool,2
+Management Analyst,Jira,2.67,onet_tool,2
+Management Analyst,HTML/CSS,2.67,onet_tool,2
+Management Analyst,Git,2.67,onet_tool,2
+Management Analyst,Python,2.49,onet_tool,2
+Management Analyst,PeopleSoft,2.49,onet_tool,2
+Management Analyst,Salesforce,2.49,onet_tool,2
+Management Analyst,InDesign,2.4,onet_tool,1
+Management Analyst,Alteryx,2.4,onet_tool,1
+Management Analyst,Kafka,2.4,onet_tool,1
+Management Analyst,Spark,2.4,onet_tool,1
+Management Analyst,C#,2.4,onet_tool,1
+Management Analyst,C++,2.4,onet_tool,1
+Management Analyst,Cisco,2.4,onet_tool,1
+Management Analyst,Google Analytics,2.4,onet_tool,1
+Management Analyst,SPSS,2.4,onet_tool,1
+Management Analyst,Marketing,2.4,onet_tool,1
+Computer Programmer,Java,4.0,seed+onet_tool,2
+Computer Programmer,Python,4.0,seed+onet_tool,2
+Computer Programmer,C++,4.0,seed+onet_tool,1
+Computer Programmer,C#,4.0,seed+onet_tool,2
+Computer Programmer,JavaScript,4.0,seed+onet_tool,5
+Computer Programmer,SQL,4.0,seed+onet_tool,11
+Computer Programmer,Git,4.0,seed+onet_tool,2
+Computer Programmer,Data Structures & Algorithms,4.0,seed,0
+Computer Programmer,Software Testing,4.0,seed,0
+Computer Programmer,Linux,3.14,onet_tool,6
+Computer Programmer,NoSQL,3.0,onet_tool,4
+Computer Programmer,AWS,2.9,onet_tool,4
+Computer Programmer,R,2.9,onet_tool,11
+Computer Programmer,.NET,2.84,onet_tool,5
+Computer Programmer,SAP/ERP,2.82,onet_tool,7
+Computer Programmer,HTML/CSS,2.73,onet_tool,3
+Computer Programmer,Hadoop,2.67,onet_tool,2
+Computer Programmer,Jira,2.67,onet_tool,2
+Computer Programmer,PeopleSoft,2.49,onet_tool,2
+Computer Programmer,Illustrator,2.4,onet_tool,1
+Computer Programmer,Photoshop,2.4,onet_tool,1
+Computer Programmer,Kafka,2.4,onet_tool,1
+Computer Programmer,Spark,2.4,onet_tool,1
+Computer Programmer,Docker,2.4,onet_tool,1
+Computer Programmer,Google Analytics,2.4,onet_tool,1
+Computer Programmer,Statistics,2.4,onet_tool,1
+Computer Programmer,SPSS,2.4,onet_tool,1
+Computer Programmer,Azure,2.4,onet_tool,1
+Computer Programmer,Excel,2.4,onet_tool,1
+Computer Programmer,Node.js,2.4,onet_tool,1
+Web Developer,JavaScript,4.0,seed+onet_tool,7
+Web Developer,HTML/CSS,4.0,seed+onet_tool,2
+Web Developer,React,4.0,seed+onet_tool,2
+Web Developer,Node.js,4.0,seed+onet_tool,1
+Web Developer,SQL,4.0,seed+onet_tool,10
+Web Developer,Git,4.0,seed+onet_tool,2
+Web Developer,UI/UX Design,4.0,seed+onet_tool,1
+Web Developer,Software Testing,4.0,seed,0
+Web Developer,Cloud Computing,4.0,seed,0
+Web Developer,NoSQL,3.11,onet_tool,5
+Web Developer,Linux,3.11,onet_tool,5
+Web Developer,AWS,2.9,onet_tool,4
+Web Developer,.NET,2.84,onet_tool,5
+Web Developer,Hadoop,2.67,onet_tool,2
+Web Developer,Jira,2.67,onet_tool,2
+Web Developer,Java,2.67,onet_tool,2
+Web Developer,SAP/ERP,2.64,onet_tool,4
+Web Developer,C#,2.49,onet_tool,2
+Web Developer,Python,2.49,onet_tool,2
+Web Developer,Salesforce,2.49,onet_tool,2
+Web Developer,After Effects,2.4,onet_tool,1
+Web Developer,Illustrator,2.4,onet_tool,1
+Web Developer,InDesign,2.4,onet_tool,1
+Web Developer,Photoshop,2.4,onet_tool,1
+Web Developer,Kafka,2.4,onet_tool,1
+Web Developer,Spark,2.4,onet_tool,1
+Web Developer,C++,2.4,onet_tool,1
+Web Developer,Cisco,2.4,onet_tool,1
+Web Developer,Docker,2.4,onet_tool,1
+Web Developer,Figma,2.4,onet_tool,1
+Business Intelligence Analyst,SQL,4.0,seed+onet_tool,12
+Business Intelligence Analyst,Tableau,4.0,seed+onet_tool,1
+Business Intelligence Analyst,Power BI,4.0,seed+onet_tool,1
+Business Intelligence Analyst,Excel,4.0,seed+onet_tool,1
+Business Intelligence Analyst,Data Analysis,4.0,seed,0
+Business Intelligence Analyst,Data Visualization,4.0,seed,0
+Business Intelligence Analyst,ETL,4.0,seed,0
+Business Intelligence Analyst,Statistics,4.0,seed+onet_tool,1
+Business Intelligence Analyst,Python,4.0,seed+onet_tool,2
+Business Intelligence Analyst,Linux,3.11,onet_tool,5
+Business Intelligence Analyst,NoSQL,3.0,onet_tool,4
+Business Intelligence Analyst,SAP/ERP,2.93,onet_tool,7
+Business Intelligence Analyst,JavaScript,2.73,onet_tool,3
+Business Intelligence Analyst,AWS,2.67,onet_tool,2
+Business Intelligence Analyst,Hadoop,2.67,onet_tool,2
+Business Intelligence Analyst,Jira,2.67,onet_tool,2
+Business Intelligence Analyst,Git,2.67,onet_tool,2
+Business Intelligence Analyst,.NET,2.67,onet_tool,2
+Business Intelligence Analyst,Marketing,2.49,onet_tool,2
+Business Intelligence Analyst,PeopleSoft,2.49,onet_tool,2
+Business Intelligence Analyst,Salesforce,2.49,onet_tool,2
+Business Intelligence Analyst,Alteryx,2.4,onet_tool,1
+Business Intelligence Analyst,Kafka,2.4,onet_tool,1
+Business Intelligence Analyst,Spark,2.4,onet_tool,1
+Business Intelligence Analyst,C#,2.4,onet_tool,1
+Business Intelligence Analyst,C++,2.4,onet_tool,1
+Business Intelligence Analyst,Google Analytics,2.4,onet_tool,1
+Business Intelligence Analyst,HTML/CSS,2.4,onet_tool,1
+Business Intelligence Analyst,SPSS,2.4,onet_tool,1
+Business Intelligence Analyst,Azure,2.4,onet_tool,1
+Financial Analyst,Excel,4.0,seed+onet_tool,1
+Financial Analyst,Financial Modeling,4.0,seed,0
+Financial Analyst,Financial Analysis,4.0,seed,0
+Financial Analyst,Accounting,4.0,seed,0
+Financial Analyst,SQL,4.0,seed+onet_tool,2
+Financial Analyst,Tableau,4.0,seed+onet_tool,1
+Financial Analyst,Bloomberg,4.0,seed+onet_tool,1
+Financial Analyst,Statistics,4.0,seed+onet_tool,1
+Financial Analyst,Python,4.0,seed+onet_tool,1
+Financial Analyst,Linux,2.67,onet_tool,2
+Financial Analyst,AWS,2.4,onet_tool,1
+Financial Analyst,Hadoop,2.4,onet_tool,1
+Financial Analyst,C#,2.4,onet_tool,1
+Financial Analyst,C++,2.4,onet_tool,1
+Financial Analyst,SPSS,2.4,onet_tool,1
+Financial Analyst,JavaScript,2.4,onet_tool,1
+Financial Analyst,Azure,2.4,onet_tool,1
+Financial Analyst,Power BI,2.4,onet_tool,1
+Financial Analyst,Java,2.4,onet_tool,1
+Financial Analyst,SAS,2.4,onet_tool,1
+Financial Analyst,MATLAB,2.4,onet_tool,1
+Financial Analyst,Stata,2.14,onet_tool,1
+Financial Analyst,R,2.14,onet_tool,1
+Financial Manager,Financial Analysis,4.0,seed,0
+Financial Manager,Financial Modeling,4.0,seed,0
+Financial Manager,Accounting,4.0,seed+onet_tool,2
+Financial Manager,Budgeting,4.0,seed,0
+Financial Manager,Forecasting,4.0,seed,0
+Financial Manager,Risk Management,4.0,seed,0
+Financial Manager,Excel,4.0,seed+onet_tool,1
+Financial Manager,SAP/ERP,4.0,seed+onet_tool,4
+Financial Manager,Leadership,4.0,seed,0
+Financial Manager,SQL,2.86,onet_tool,3
+Financial Manager,QuickBooks/Sage,2.49,onet_tool,2
+Financial Manager,PeopleSoft,2.49,onet_tool,2
+Financial Manager,Alteryx,2.4,onet_tool,1
+Financial Manager,Statistics,2.4,onet_tool,1
+Financial Manager,SPSS,2.4,onet_tool,1
+Financial Manager,Marketing,2.4,onet_tool,1
+Financial Manager,Salesforce,2.4,onet_tool,1
+Financial Manager,SAS,2.4,onet_tool,1
+Financial Manager,Tableau,2.4,onet_tool,1
+Financial Manager,Workday,2.4,onet_tool,1
+Financial Manager,Tax,2.26,onet_tool,2
+Financial Manager,ADP,2.14,onet_tool,1
+Financial Manager,HRIS,2.14,onet_tool,1
+HR Specialist,Recruitment,4.0,seed+onet_tool,2
+HR Specialist,HRIS,4.0,seed+onet_tool,2
+HR Specialist,Excel,4.0,seed+onet_tool,1
+HR Specialist,Labor Law,4.0,seed,0
+HR Specialist,Compensation,4.0,seed,0
+HR Specialist,Benefits,4.0,seed,0
+HR Specialist,Communication,4.0,seed,0
+HR Specialist,Training & Development,4.0,seed,0
+HR Specialist,SQL,2.86,onet_tool,3
+HR Specialist,SAP/ERP,2.71,onet_tool,5
+HR Specialist,PeopleSoft,2.57,onet_tool,3
+HR Specialist,QuickBooks/Sage,2.49,onet_tool,2
+HR Specialist,Illustrator,2.4,onet_tool,1
+HR Specialist,InDesign,2.4,onet_tool,1
+HR Specialist,Photoshop,2.4,onet_tool,1
+HR Specialist,Cisco,2.4,onet_tool,1
+HR Specialist,Git,2.4,onet_tool,1
+HR Specialist,Google Analytics,2.4,onet_tool,1
+HR Specialist,HTML/CSS,2.4,onet_tool,1
+HR Specialist,Statistics,2.4,onet_tool,1
+HR Specialist,SPSS,2.4,onet_tool,1
+HR Specialist,Marketing,2.4,onet_tool,1
+HR Specialist,Salesforce,2.4,onet_tool,1
+HR Specialist,SAS,2.4,onet_tool,1
+HR Specialist,Tableau,2.4,onet_tool,1
+HR Specialist,Workday,2.4,onet_tool,1
+HR Specialist,.NET,2.26,onet_tool,2
+HR Specialist,R,2.26,onet_tool,2
+HR Specialist,ADP,2.14,onet_tool,1
+HR Specialist,LMS,2.14,onet_tool,1
+HR Manager,HRIS,4.0,seed+onet_tool,2
+HR Manager,Recruitment,4.0,seed,0
+HR Manager,Compensation,4.0,seed,0
+HR Manager,Benefits,4.0,seed+onet_tool,2
+HR Manager,Labor Law,4.0,seed,0
+HR Manager,Performance Management,4.0,seed,0
+HR Manager,Training & Development,4.0,seed+onet_tool,1
+HR Manager,Leadership,4.0,seed,0
+HR Manager,Excel,4.0,seed+onet_tool,1
+HR Manager,ADP,2.62,onet_tool,6
+HR Manager,SAP/ERP,2.57,onet_tool,3
+HR Manager,QuickBooks/Sage,2.57,onet_tool,3
+HR Manager,Statistics,2.4,onet_tool,1
+HR Manager,SPSS,2.4,onet_tool,1
+HR Manager,PeopleSoft,2.4,onet_tool,1
+HR Manager,Workday,2.4,onet_tool,1
+HR Manager,Tax,2.14,onet_tool,1
+HR Manager,.NET,2.14,onet_tool,1
+HR Manager,Accounting,2.14,onet_tool,1
+HR Manager,Social Media Marketing,2.14,onet_tool,1
+HR Manager,R,2.14,onet_tool,1
+Project Manager,Project Management,4.0,seed,0
+Project Manager,Agile/Scrum,4.0,seed,0
+Project Manager,Jira,4.0,seed+onet_tool,2
+Project Manager,Excel,4.0,seed+onet_tool,1
+Project Manager,Communication,4.0,seed,0
+Project Manager,Risk Management,4.0,seed,0
+Project Manager,Budgeting,4.0,seed,0
+Project Manager,Leadership,4.0,seed,0
+Project Manager,Git,2.67,onet_tool,2
+Project Manager,SAP/ERP,2.57,onet_tool,3
+Project Manager,InDesign,2.4,onet_tool,1
+Project Manager,Photoshop,2.4,onet_tool,1
+Project Manager,AutoCAD,2.4,onet_tool,1
+Project Manager,Cisco,2.4,onet_tool,1
+Project Manager,Statistics,2.4,onet_tool,1
+Project Manager,SPSS,2.4,onet_tool,1
+Project Manager,QuickBooks/Sage,2.4,onet_tool,1
+Project Manager,Linux,2.4,onet_tool,1
+Project Manager,Marketing,2.4,onet_tool,1
+Project Manager,Azure,2.4,onet_tool,1
+Project Manager,SQL,2.4,onet_tool,1
+Project Manager,PeopleSoft,2.4,onet_tool,1
+Project Manager,Salesforce,2.4,onet_tool,1
+Project Manager,SAS,2.4,onet_tool,1
+Project Manager,Tableau,2.4,onet_tool,1
+Project Manager,LMS,2.26,onet_tool,2
+Project Manager,ADP,2.14,onet_tool,1
+Project Manager,Social Media Marketing,2.14,onet_tool,1
+Market Research Analyst,Market Research,4.0,seed,0
+Market Research Analyst,Statistics,4.0,seed+onet_tool,1
+Market Research Analyst,SPSS,4.0,seed+onet_tool,1
+Market Research Analyst,Excel,4.0,seed+onet_tool,1
+Market Research Analyst,Tableau,4.0,seed+onet_tool,1
+Market Research Analyst,Survey Design,4.0,seed,0
+Market Research Analyst,Data Analysis,4.0,seed+onet_tool,1
+Market Research Analyst,Marketing,4.0,seed+onet_tool,3
+Market Research Analyst,Python,4.0,seed,0
+Market Research Analyst,R,4.0,seed+onet_tool,1
+Market Research Analyst,SQL,3.0,onet_tool,4
+Market Research Analyst,Hadoop,2.67,onet_tool,2
+Market Research Analyst,HTML/CSS,2.67,onet_tool,2
+Market Research Analyst,SAP/ERP,2.64,onet_tool,4
+Market Research Analyst,After Effects,2.4,onet_tool,1
+Market Research Analyst,Illustrator,2.4,onet_tool,1
+Market Research Analyst,InDesign,2.4,onet_tool,1
+Market Research Analyst,Photoshop,2.4,onet_tool,1
+Market Research Analyst,Google Analytics,2.4,onet_tool,1
+Market Research Analyst,HubSpot,2.4,onet_tool,1
+Market Research Analyst,JavaScript,2.4,onet_tool,1
+Market Research Analyst,PeopleSoft,2.4,onet_tool,1
+Market Research Analyst,Linux,2.4,onet_tool,1
+Market Research Analyst,Salesforce,2.4,onet_tool,1
+Market Research Analyst,SAS,2.4,onet_tool,1
+Market Research Analyst,MATLAB,2.4,onet_tool,1
+Market Research Analyst,SEM/Google Ads,2.14,onet_tool,1
+Market Research Analyst,Minitab,2.14,onet_tool,1
+Market Research Analyst,Data Warehousing,2.14,onet_tool,1
+Market Research Analyst,Cybersecurity,2.14,onet_tool,1
+Operations Manager,Operations Management,4.0,seed,0
+Operations Manager,Supply Chain,4.0,seed,0
+Operations Manager,SAP/ERP,4.0,seed+onet_tool,5
+Operations Manager,Excel,4.0,seed+onet_tool,1
+Operations Manager,Project Management,4.0,seed,0
+Operations Manager,Quality Control,4.0,seed,0
+Operations Manager,Budgeting,4.0,seed,0
+Operations Manager,Leadership,4.0,seed,0
+Operations Manager,SQL,3.0,onet_tool,4
+Operations Manager,Jira,2.67,onet_tool,2
+Operations Manager,QuickBooks/Sage,2.57,onet_tool,3
+Operations Manager,PeopleSoft,2.49,onet_tool,2
+Operations Manager,Salesforce,2.49,onet_tool,2
+Operations Manager,Photoshop,2.4,onet_tool,1
+Operations Manager,AWS,2.4,onet_tool,1
+Operations Manager,Hadoop,2.4,onet_tool,1
+Operations Manager,AutoCAD,2.4,onet_tool,1
+Operations Manager,Google Analytics,2.4,onet_tool,1
+Operations Manager,HubSpot,2.4,onet_tool,1
+Operations Manager,Statistics,2.4,onet_tool,1
+Operations Manager,SPSS,2.4,onet_tool,1
+Operations Manager,Marketing,2.4,onet_tool,1
+Operations Manager,SAS,2.4,onet_tool,1
+Operations Manager,Linux,2.4,onet_tool,1
+Operations Manager,Incident Response,2.4,onet_tool,1
+Operations Manager,Tableau,2.4,onet_tool,1
+Operations Manager,MATLAB,2.4,onet_tool,1
+Operations Manager,CRM,2.37,onet_tool,3
+Operations Manager,Accounting,2.26,onet_tool,2
+Operations Manager,ADP,2.14,onet_tool,1
+Info Security Analyst,Cybersecurity,4.0,seed+onet_tool,1
+Info Security Analyst,Linux,4.0,seed+onet_tool,7
+Info Security Analyst,Python,4.0,seed+onet_tool,1
+Info Security Analyst,SQL,4.0,seed+onet_tool,9
+Info Security Analyst,Risk Management,4.0,seed+onet_tool,1
+Info Security Analyst,Cloud Computing,4.0,seed+onet_tool,1
+Info Security Analyst,Incident Response,4.0,seed+onet_tool,2
+Info Security Analyst,Network Engineering,4.0,seed+onet_tool,1
+Info Security Analyst,NoSQL,3.0,onet_tool,4
+Info Security Analyst,AWS,2.9,onet_tool,4
+Info Security Analyst,JavaScript,2.86,onet_tool,3
+Info Security Analyst,Hadoop,2.67,onet_tool,2
+Info Security Analyst,Jira,2.67,onet_tool,2
+Info Security Analyst,Git,2.67,onet_tool,2
+Info Security Analyst,.NET,2.67,onet_tool,2
+Info Security Analyst,PeopleSoft,2.49,onet_tool,2
+Info Security Analyst,SAP/ERP,2.49,onet_tool,2
+Info Security Analyst,Kafka,2.4,onet_tool,1
+Info Security Analyst,Spark,2.4,onet_tool,1
+Info Security Analyst,C#,2.4,onet_tool,1
+Info Security Analyst,C++,2.4,onet_tool,1
+Info Security Analyst,Docker,2.4,onet_tool,1
+Info Security Analyst,HTML/CSS,2.4,onet_tool,1
+Info Security Analyst,Azure,2.4,onet_tool,1
+Info Security Analyst,Excel,2.4,onet_tool,1
+Info Security Analyst,Node.js,2.4,onet_tool,1
+Info Security Analyst,Java,2.4,onet_tool,1
+Info Security Analyst,Salesforce,2.4,onet_tool,1
+Info Security Analyst,SAS,2.4,onet_tool,1
+Info Security Analyst,Test Automation,2.4,onet_tool,1
+Network Architect,Network Engineering,4.0,seed+onet_tool,2
+Network Architect,Cloud Computing,4.0,seed+onet_tool,1
+Network Architect,Cybersecurity,4.0,seed+onet_tool,1
+Network Architect,Linux,4.0,seed+onet_tool,5
+Network Architect,SQL,4.0,seed+onet_tool,9
+Network Architect,Python,4.0,seed+onet_tool,1
+Network Architect,Cisco,4.0,seed+onet_tool,8
+Network Architect,Routing/Switching,4.0,seed+onet_tool,2
+Network Architect,NoSQL,3.0,onet_tool,4
+Network Architect,AWS,2.9,onet_tool,4
+Network Architect,JavaScript,2.9,onet_tool,4
+Network Architect,.NET,2.73,onet_tool,3
+Network Architect,Hadoop,2.67,onet_tool,2
+Network Architect,Jira,2.67,onet_tool,2
+Network Architect,HTML/CSS,2.67,onet_tool,2
+Network Architect,Git,2.67,onet_tool,2
+Network Architect,R,2.55,onet_tool,5
+Network Architect,Java,2.49,onet_tool,2
+Network Architect,After Effects,2.4,onet_tool,1
+Network Architect,Kafka,2.4,onet_tool,1
+Network Architect,Spark,2.4,onet_tool,1
+Network Architect,AutoCAD,2.4,onet_tool,1
+Network Architect,C#,2.4,onet_tool,1
+Network Architect,C++,2.4,onet_tool,1
+Network Architect,SolidWorks,2.4,onet_tool,1
+Network Architect,Docker,2.4,onet_tool,1
+Network Architect,Azure,2.4,onet_tool,1
+Network Architect,Excel,2.4,onet_tool,1
+Network Architect,Node.js,2.4,onet_tool,1
+Network Architect,SAP/ERP,2.4,onet_tool,1
+QA Analyst,Software Testing,4.0,seed,0
+QA Analyst,Test Automation,4.0,seed+onet_tool,2
+QA Analyst,SQL,4.0,seed+onet_tool,11
+QA Analyst,Python,4.0,seed+onet_tool,2
+QA Analyst,Jira,4.0,seed+onet_tool,2
+QA Analyst,Quality Control,4.0,seed,0
+QA Analyst,Agile/Scrum,4.0,seed,0
+QA Analyst,Linux,3.11,onet_tool,5
+QA Analyst,NoSQL,3.04,onet_tool,5
+QA Analyst,JavaScript,2.95,onet_tool,5
+QA Analyst,AWS,2.9,onet_tool,4
+QA Analyst,.NET,2.89,onet_tool,6
+QA Analyst,SAP/ERP,2.87,onet_tool,8
+QA Analyst,Git,2.86,onet_tool,3
+QA Analyst,Java,2.73,onet_tool,3
+QA Analyst,Hadoop,2.67,onet_tool,2
+QA Analyst,HTML/CSS,2.67,onet_tool,2
+QA Analyst,R,2.62,onet_tool,6
+QA Analyst,C#,2.49,onet_tool,2
+QA Analyst,Cisco,2.49,onet_tool,2
+QA Analyst,Azure,2.49,onet_tool,2
+QA Analyst,PeopleSoft,2.49,onet_tool,2
+QA Analyst,Salesforce,2.49,onet_tool,2
+QA Analyst,After Effects,2.4,onet_tool,1
+QA Analyst,Illustrator,2.4,onet_tool,1
+QA Analyst,InDesign,2.4,onet_tool,1
+QA Analyst,Photoshop,2.4,onet_tool,1
+QA Analyst,Kafka,2.4,onet_tool,1
+QA Analyst,Spark,2.4,onet_tool,1
+QA Analyst,AutoCAD,2.4,onet_tool,1
+Industrial Engineer,Industrial Engineering,4.0,seed,0
+Industrial Engineer,Lean/Six Sigma,4.0,seed,0
+Industrial Engineer,Quality Control,4.0,seed+onet_tool,1
+Industrial Engineer,AutoCAD,4.0,seed+onet_tool,1
+Industrial Engineer,MATLAB,4.0,seed+onet_tool,1
+Industrial Engineer,Statistics,4.0,seed,0
+Industrial Engineer,Operations Management,4.0,seed,0
+Industrial Engineer,Supply Chain,4.0,seed+onet_tool,1
+Industrial Engineer,Linux,2.86,onet_tool,3
+Industrial Engineer,SQL,2.67,onet_tool,2
+Industrial Engineer,C++,2.4,onet_tool,1
+Industrial Engineer,SolidWorks,2.4,onet_tool,1
+Industrial Engineer,Git,2.4,onet_tool,1
+Industrial Engineer,Excel,2.4,onet_tool,1
+Industrial Engineer,Python,2.4,onet_tool,1
+Industrial Engineer,SAP/ERP,2.4,onet_tool,1
+Industrial Engineer,SAS,2.4,onet_tool,1
+Industrial Engineer,Minitab,2.14,onet_tool,1
+Industrial Engineer,Deep Learning,2.14,onet_tool,1
+Industrial Engineer,Java,2.14,onet_tool,1
+Industrial Engineer,Translation,2.14,onet_tool,1
+Logistics Analyst,Logistics,4.0,seed+onet_tool,2
+Logistics Analyst,Supply Chain,4.0,seed,0
+Logistics Analyst,SAP/ERP,4.0,seed+onet_tool,3
+Logistics Analyst,Excel,4.0,seed+onet_tool,1
+Logistics Analyst,SQL,4.0,seed+onet_tool,3
+Logistics Analyst,Data Analysis,4.0,seed,0
+Logistics Analyst,Inventory Management,4.0,seed+onet_tool,2
+Logistics Analyst,Tableau,4.0,seed+onet_tool,1
+Logistics Analyst,PeopleSoft,2.49,onet_tool,2
+Logistics Analyst,Statistics,2.4,onet_tool,1
+Logistics Analyst,SPSS,2.4,onet_tool,1
+Logistics Analyst,Power BI,2.4,onet_tool,1
+Logistics Analyst,MATLAB,2.4,onet_tool,1
+Logistics Analyst,Minitab,2.14,onet_tool,1
+Logistics Analyst,Stata,2.14,onet_tool,1
+Budget Analyst,Budgeting,4.0,seed+onet_tool,1
+Budget Analyst,Financial Analysis,4.0,seed,0
+Budget Analyst,Accounting,4.0,seed+onet_tool,1
+Budget Analyst,Forecasting,4.0,seed+onet_tool,1
+Budget Analyst,Excel,4.0,seed+onet_tool,1
+Budget Analyst,SAP/ERP,4.0,seed+onet_tool,7
+Budget Analyst,Data Analysis,4.0,seed,0
+Budget Analyst,QuickBooks/Sage,2.46,onet_tool,4
+Budget Analyst,Power BI,2.4,onet_tool,1
+Budget Analyst,SQL,2.4,onet_tool,1
+Budget Analyst,Performance Management,2.26,onet_tool,2
+Budget Analyst,PeopleSoft,2.26,onet_tool,2
+Budget Analyst,.NET,2.14,onet_tool,1
+Compensation Specialist,Compensation,4.0,seed+onet_tool,1
+Compensation Specialist,Benefits,4.0,seed+onet_tool,7
+Compensation Specialist,HRIS,4.0,seed+onet_tool,2
+Compensation Specialist,Excel,4.0,seed+onet_tool,1
+Compensation Specialist,Statistics,4.0,seed+onet_tool,1
+Compensation Specialist,Labor Law,4.0,seed,0
+Compensation Specialist,Performance Management,4.0,seed,0
+Compensation Specialist,SQL,2.67,onet_tool,2
+Compensation Specialist,SAP/ERP,2.64,onet_tool,4
+Compensation Specialist,SPSS,2.4,onet_tool,1
+Compensation Specialist,PeopleSoft,2.4,onet_tool,1
+Compensation Specialist,SAS,2.4,onet_tool,1
+Compensation Specialist,Workday,2.4,onet_tool,1
+Compensation Specialist,ADP,2.26,onet_tool,2
+Compensation Specialist,QuickBooks/Sage,2.14,onet_tool,1
+Training Specialist,Training & Development,4.0,seed+onet_tool,3
+Training Specialist,Instructional Design,4.0,seed,0
+Training Specialist,LMS,4.0,seed+onet_tool,15
+Training Specialist,Communication,4.0,seed,0
+Training Specialist,Education/Curriculum Design,4.0,seed+onet_tool,1
+Training Specialist,Excel,4.0,seed+onet_tool,1
+Training Specialist,SQL,2.67,onet_tool,2
+Training Specialist,JavaScript,2.49,onet_tool,2
+Training Specialist,PeopleSoft,2.49,onet_tool,2
+Training Specialist,After Effects,2.4,onet_tool,1
+Training Specialist,Illustrator,2.4,onet_tool,1
+Training Specialist,InDesign,2.4,onet_tool,1
+Training Specialist,Photoshop,2.4,onet_tool,1
+Training Specialist,Cisco,2.4,onet_tool,1
+Training Specialist,HTML/CSS,2.4,onet_tool,1
+Training Specialist,Statistics,2.4,onet_tool,1
+Training Specialist,SPSS,2.4,onet_tool,1
+Training Specialist,SAP/ERP,2.4,onet_tool,1
+Training Specialist,Cloud Computing,2.14,onet_tool,1
+Training Specialist,R,2.14,onet_tool,1

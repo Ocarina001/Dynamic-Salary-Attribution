@@ -1,0 +1,775 @@
+job,onet_soc,skill,weight,source,hot_count,cold_count,evidence_count,example_tools
+Data Scientist,15-2051.00,Python,4.0,seed+onet_tool,1,1,2,Jupyter software; Python
+Data Scientist,15-2051.00,R,4.0,seed+onet_tool,0,1,1,Jupyter software
+Data Scientist,15-2051.00,SQL,4.0,seed+onet_tool,5,1,6,Amazon Redshift; BigQuery; Microsoft SQL Server; PostgreSQL; Snowflake; Structured query language SQL
+Data Scientist,15-2051.00,Statistics,4.0,seed+onet_tool,1,0,1,IBM SPSS Statistics
+Data Scientist,15-2051.00,Machine Learning,4.0,seed,0,0,0,
+Data Scientist,15-2051.00,Deep Learning,4.0,seed,0,0,0,
+Data Scientist,15-2051.00,Data Analysis,4.0,seed,0,0,0,
+Data Scientist,15-2051.00,Data Visualization,4.0,seed,0,0,0,
+Data Scientist,15-2051.00,Spark,4.0,seed+onet_tool,1,1,2,Apache Spark; PySpark
+Data Scientist,15-2051.00,Cloud Computing,4.0,seed,0,0,0,
+Data Scientist,15-2051.00,Git,4.0,seed+onet_tool,2,0,2,Git; GitHub
+Data Scientist,15-2051.00,NoSQL,2.86,onet_tool,3,0,3,Apache Cassandra; MongoDB; NoSQL
+Data Scientist,15-2051.00,Linux,2.86,onet_tool,3,0,3,Linux; Shell script; UNIX
+Data Scientist,15-2051.00,AWS,2.79,onet_tool,2,2,4,Amazon Elastic Compute Cloud EC2; Amazon Simple Storage Service S3; Amazon Web Services AWS SageMaker; Amazon Web Services AWS software
+Data Scientist,15-2051.00,Hadoop,2.73,onet_tool,2,1,3,Apache Hadoop; Apache Hive; MapReduce big data software
+Data Scientist,15-2051.00,Jira,2.67,onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+Data Scientist,15-2051.00,JavaScript,2.67,onet_tool,2,0,2,JavaScript; JavaScript Object Notation JSON
+Data Scientist,15-2051.00,Alteryx,2.4,onet_tool,1,0,1,Alteryx software
+Data Scientist,15-2051.00,Airflow,2.4,onet_tool,1,0,1,Apache Airflow
+Data Scientist,15-2051.00,Kafka,2.4,onet_tool,1,0,1,Apache Kafka
+Data Scientist,15-2051.00,C#,2.4,onet_tool,1,0,1,C#
+Data Scientist,15-2051.00,C++,2.4,onet_tool,1,0,1,C++
+Data Scientist,15-2051.00,Docker,2.4,onet_tool,1,0,1,Docker
+Data Scientist,15-2051.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Data Scientist,15-2051.00,Kubernetes,2.4,onet_tool,1,0,1,Kubernetes
+Data Scientist,15-2051.00,Azure,2.4,onet_tool,1,0,1,Microsoft Azure software
+Data Scientist,15-2051.00,Excel,2.4,onet_tool,1,0,1,Microsoft Excel
+Data Scientist,15-2051.00,Power BI,2.4,onet_tool,1,0,1,Microsoft Power BI
+Data Scientist,15-2051.00,Java,2.4,onet_tool,1,0,1,Oracle Java
+Data Scientist,15-2051.00,PyTorch,2.4,onet_tool,1,0,1,PyTorch
+Software Developer,15-1252.00,Java,4.0,seed+onet_tool,2,2,4,Oracle Java; Oracle Java 2 Platform Enterprise Edition J2EE; Oracle Java Message Service JMS; Sun Microsystems Java Persistence API
+Software Developer,15-1252.00,Python,4.0,seed+onet_tool,1,1,2,Jupyter Notebook; Python
+Software Developer,15-1252.00,C++,4.0,seed+onet_tool,1,0,1,C++
+Software Developer,15-1252.00,C#,4.0,seed+onet_tool,1,1,2,C#; Microsoft Visual C# .NET
+Software Developer,15-1252.00,JavaScript,4.0,seed+onet_tool,4,3,7,Backbone.js; Ext JS; JavaScript; JavaScript framework software; JavaScript Object Notation JSON; Node.js; Vue.js
+Software Developer,15-1252.00,Data Structures & Algorithms,4.0,seed,0,0,0,
+Software Developer,15-1252.00,Software Engineering,4.0,seed,0,0,0,
+Software Developer,15-1252.00,Software Testing,4.0,seed,0,0,0,
+Software Developer,15-1252.00,Git,4.0,seed+onet_tool,3,0,3,Git; GitHub; GitLab
+Software Developer,15-1252.00,SQL,4.0,seed+onet_tool,12,1,13,Amazon Redshift; Microsoft SQL Server; Microsoft SQL Server Integration Services SSIS; Microsoft SQL Server Reporting Services SSRS; Microsoft transact-structural query language T-SQL; MySQL; Oracle Database; Oracle PL/SQL; Oracle SQL Developer; PostgreSQL; Snowflake; Structured query language SQL; Transact-SQL
+Software Developer,15-1252.00,Linux,4.0,seed+onet_tool,5,0,5,Linux; Red Hat Enterprise Linux; Shell script; UNIX; UNIX Shell
+Software Developer,15-1252.00,Docker,4.0,seed+onet_tool,1,0,1,Docker
+Software Developer,15-1252.00,NoSQL,3.14,onet_tool,5,1,6,Amazon DynamoDB; Apache Cassandra; Apache HBase; MongoDB; NoSQL; Redis
+Software Developer,15-1252.00,SAP/ERP,3.01,onet_tool,2,7,9,NetSuite ERP; SAP Adaptive Server Enterprise; SAP Business Intelligence; SAP Business Objects; SAP Crystal Reports; SAP ERP; SAP NetWeaver; SAP PowerBuilder; SAP software
+Software Developer,15-1252.00,AWS,2.9,onet_tool,3,1,4,Amazon Elastic Compute Cloud EC2; Amazon Simple Storage Service S3; Amazon Web Services AWS CloudFormation; Amazon Web Services AWS software
+Software Developer,15-1252.00,.NET,2.89,onet_tool,2,4,6,ADO.NET; Microsoft .NET Framework; Microsoft ASP.NET; Microsoft ASP.NET Core MVC; Microsoft Visual Basic.NET; Microsoft Visual C# .NET
+Software Developer,15-1252.00,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Software Developer,15-1252.00,Jira,2.67,onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+Software Developer,15-1252.00,HTML/CSS,2.67,onet_tool,2,0,2,Cascading style sheets CSS; Hypertext markup language HTML
+Software Developer,15-1252.00,React,2.57,onet_tool,1,2,3,React; React Native; React Redux
+Software Developer,15-1252.00,Cisco,2.49,onet_tool,1,1,2,Cisco IOS; Cisco Webex
+Software Developer,15-1252.00,Azure,2.49,onet_tool,1,1,2,Microsoft Azure DevOps Services; Microsoft Azure software
+Software Developer,15-1252.00,PeopleSoft,2.49,onet_tool,1,1,2,Oracle PeopleSoft; Oracle PeopleSoft Financials
+Software Developer,15-1252.00,Salesforce,2.49,onet_tool,1,1,2,Salesforce software; Salesforce Visualforce
+Software Developer,15-1252.00,R,2.46,onet_tool,0,4,4,File server software; Graphical user interface GUI builder software; Source code editor software; Web server software
+Software Developer,15-1252.00,After Effects,2.4,onet_tool,1,0,1,Adobe After Effects
+Software Developer,15-1252.00,Illustrator,2.4,onet_tool,1,0,1,Adobe Illustrator
+Software Developer,15-1252.00,InDesign,2.4,onet_tool,1,0,1,Adobe InDesign
+Software Developer,15-1252.00,Photoshop,2.4,onet_tool,1,0,1,Adobe Photoshop
+Software Developer,15-1252.00,Alteryx,2.4,onet_tool,1,0,1,Alteryx software
+Computer Research Scientist,15-1221.00,Python,4.0,seed+onet_tool,1,1,2,Jupyter Notebook; Python
+Computer Research Scientist,15-1221.00,C++,4.0,seed+onet_tool,1,0,1,C++
+Computer Research Scientist,15-1221.00,Data Structures & Algorithms,4.0,seed,0,0,0,
+Computer Research Scientist,15-1221.00,Machine Learning,4.0,seed,0,0,0,
+Computer Research Scientist,15-1221.00,Deep Learning,4.0,seed,0,0,0,
+Computer Research Scientist,15-1221.00,Statistics,4.0,seed+onet_tool,1,1,2,Computational statistics software; IBM SPSS Statistics
+Computer Research Scientist,15-1221.00,Research Methods,4.0,seed,0,0,0,
+Computer Research Scientist,15-1221.00,Linux,4.0,seed+onet_tool,4,0,4,Linux; Shell script; UNIX; UNIX Shell
+Computer Research Scientist,15-1221.00,Git,4.0,seed+onet_tool,3,0,3,Git; GitHub; GitLab
+Computer Research Scientist,15-1221.00,SQL,3.33,onet_tool,8,0,8,Amazon Redshift; Microsoft SQL Server; MySQL; Oracle Database; PostgreSQL; Snowflake; Structured query language SQL; Transact-SQL
+Computer Research Scientist,15-1221.00,NoSQL,3.11,onet_tool,5,0,5,Amazon DynamoDB; Apache Cassandra; MongoDB; NoSQL; Redis
+Computer Research Scientist,15-1221.00,AWS,2.9,onet_tool,3,1,4,Amazon Elastic Compute Cloud EC2; Amazon Web Services AWS CloudFormation; Amazon Web Services AWS SageMaker; Amazon Web Services AWS software
+Computer Research Scientist,15-1221.00,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Computer Research Scientist,15-1221.00,JavaScript,2.67,onet_tool,2,0,2,JavaScript; Node.js
+Computer Research Scientist,15-1221.00,Java,2.67,onet_tool,2,0,2,Oracle Java; Oracle Java 2 Platform Enterprise Edition J2EE
+Computer Research Scientist,15-1221.00,C#,2.49,onet_tool,1,1,2,C#; Microsoft Visual C# .NET
+Computer Research Scientist,15-1221.00,Airflow,2.4,onet_tool,1,0,1,Apache Airflow
+Computer Research Scientist,15-1221.00,Kafka,2.4,onet_tool,1,0,1,Apache Kafka
+Computer Research Scientist,15-1221.00,Spark,2.4,onet_tool,1,0,1,Apache Spark
+Computer Research Scientist,15-1221.00,Docker,2.4,onet_tool,1,0,1,Docker
+Computer Research Scientist,15-1221.00,Google Analytics,2.4,onet_tool,1,0,1,Google Analytics
+Computer Research Scientist,15-1221.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Computer Research Scientist,15-1221.00,Kubernetes,2.4,onet_tool,1,0,1,Kubernetes
+Computer Research Scientist,15-1221.00,Azure,2.4,onet_tool,1,0,1,Microsoft Azure software
+Computer Research Scientist,15-1221.00,Excel,2.4,onet_tool,1,0,1,Microsoft Excel
+Computer Research Scientist,15-1221.00,Power BI,2.4,onet_tool,1,0,1,Microsoft Power BI
+Computer Research Scientist,15-1221.00,Node.js,2.4,onet_tool,1,0,1,Node.js
+Computer Research Scientist,15-1221.00,PyTorch,2.4,onet_tool,1,0,1,PyTorch
+Computer Research Scientist,15-1221.00,SAS,2.4,onet_tool,1,0,1,SAS
+Computer Research Scientist,15-1221.00,Snowflake,2.4,onet_tool,1,0,1,Snowflake
+Computer Systems Analyst,15-1211.00,SQL,4.0,seed+onet_tool,11,0,11,Amazon Redshift; Microsoft SQL Server; Microsoft SQL Server Integration Services SSIS; Microsoft SQL Server Reporting Services SSRS; MySQL; Oracle Database; Oracle PL/SQL; Oracle SQL Developer; PostgreSQL; Structured query language SQL; Transact-SQL
+Computer Systems Analyst,15-1211.00,Business Analysis,4.0,seed,0,0,0,
+Computer Systems Analyst,15-1211.00,Systems Analysis,4.0,seed,0,0,0,
+Computer Systems Analyst,15-1211.00,Project Management,4.0,seed,0,0,0,
+Computer Systems Analyst,15-1211.00,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+Computer Systems Analyst,15-1211.00,Tableau,4.0,seed+onet_tool,1,0,1,Tableau
+Computer Systems Analyst,15-1211.00,Cloud Computing,4.0,seed+onet_tool,0,1,1,Citrix cloud computing software
+Computer Systems Analyst,15-1211.00,Software Engineering,4.0,seed,0,0,0,
+Computer Systems Analyst,15-1211.00,Linux,3.11,onet_tool,5,0,5,Linux; Red Hat Enterprise Linux; Shell script; UNIX; UNIX Shell
+Computer Systems Analyst,15-1211.00,SAP/ERP,3.05,onet_tool,2,8,10,NetSuite ERP; SAP Adaptive Server Enterprise; SAP Business Objects; SAP BusinessObjects Desktop Intelligence; SAP Crystal Reports; SAP ERP; SAP Master Data Management MDM; SAP NetWeaver; SAP NetWeaver BW; SAP software
+Computer Systems Analyst,15-1211.00,NoSQL,3.0,onet_tool,4,0,4,Amazon DynamoDB; Apache Cassandra; MongoDB; NoSQL
+Computer Systems Analyst,15-1211.00,JavaScript,2.95,onet_tool,3,2,5,Backbone.js; Ext JS; JavaScript; JavaScript Object Notation JSON; Node.js
+Computer Systems Analyst,15-1211.00,AWS,2.9,onet_tool,3,1,4,Amazon Elastic Compute Cloud EC2; Amazon Simple Storage Service S3; Amazon Web Services AWS CloudFormation; Amazon Web Services AWS software
+Computer Systems Analyst,15-1211.00,.NET,2.84,onet_tool,2,3,5,Microsoft .NET Framework; Microsoft ASP.NET; Microsoft ASP.NET Core MVC; Microsoft Visual Basic.NET; Microsoft Visual C# .NET
+Computer Systems Analyst,15-1211.00,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Computer Systems Analyst,15-1211.00,Jira,2.67,onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+Computer Systems Analyst,15-1211.00,HTML/CSS,2.67,onet_tool,2,0,2,Cascading style sheets CSS; Hypertext markup language HTML
+Computer Systems Analyst,15-1211.00,Git,2.67,onet_tool,2,0,2,Git; GitHub
+Computer Systems Analyst,15-1211.00,Java,2.67,onet_tool,2,0,2,Oracle Java; Oracle Java 2 Platform Enterprise Edition J2EE
+Computer Systems Analyst,15-1211.00,C#,2.49,onet_tool,1,1,2,C#; Microsoft Visual C# .NET
+Computer Systems Analyst,15-1211.00,Cisco,2.49,onet_tool,1,1,2,Cisco Systems CiscoWorks; Cisco Webex
+Computer Systems Analyst,15-1211.00,Python,2.49,onet_tool,1,1,2,Jupyter Notebook; Python
+Computer Systems Analyst,15-1211.00,PeopleSoft,2.49,onet_tool,1,1,2,Oracle PeopleSoft; Oracle PeopleSoft Financials
+Computer Systems Analyst,15-1211.00,Salesforce,2.49,onet_tool,1,1,2,Salesforce software; Salesforce Visualforce
+Computer Systems Analyst,15-1211.00,Illustrator,2.4,onet_tool,1,0,1,Adobe Illustrator
+Computer Systems Analyst,15-1211.00,Photoshop,2.4,onet_tool,1,0,1,Adobe Photoshop
+Computer Systems Analyst,15-1211.00,Kafka,2.4,onet_tool,1,0,1,Apache Kafka
+Computer Systems Analyst,15-1211.00,Spark,2.4,onet_tool,1,0,1,Apache Spark
+Computer Systems Analyst,15-1211.00,C++,2.4,onet_tool,1,0,1,C++
+Computer Systems Analyst,15-1211.00,Docker,2.4,onet_tool,1,0,1,Docker
+Operations Research Analyst,15-2031.00,Python,4.0,seed+onet_tool,1,1,2,Jupyter Notebook; Python
+Operations Research Analyst,15-2031.00,R,4.0,seed,0,0,0,
+Operations Research Analyst,15-2031.00,SQL,4.0,seed+onet_tool,5,0,5,Amazon Redshift; Microsoft SQL Server; Microsoft SQL Server Reporting Services SSRS; MySQL; Structured query language SQL
+Operations Research Analyst,15-2031.00,Statistics,4.0,seed+onet_tool,1,0,1,IBM SPSS Statistics
+Operations Research Analyst,15-2031.00,Data Analysis,4.0,seed,0,0,0,
+Operations Research Analyst,15-2031.00,Data Visualization,4.0,seed,0,0,0,
+Operations Research Analyst,15-2031.00,MATLAB,4.0,seed+onet_tool,1,0,1,The MathWorks MATLAB
+Operations Research Analyst,15-2031.00,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+Operations Research Analyst,15-2031.00,Machine Learning,4.0,seed,0,0,0,
+Operations Research Analyst,15-2031.00,Linux,3.0,onet_tool,4,0,4,Linux; Shell script; UNIX; UNIX Shell
+Operations Research Analyst,15-2031.00,SAP/ERP,2.71,onet_tool,1,4,5,NetSuite ERP; SAP Business Objects; SAP Crystal Reports; SAP PowerBuilder; SAP software
+Operations Research Analyst,15-2031.00,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Operations Research Analyst,15-2031.00,C++,2.4,onet_tool,1,0,1,C++
+Operations Research Analyst,15-2031.00,Git,2.4,onet_tool,1,0,1,GitHub
+Operations Research Analyst,15-2031.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Operations Research Analyst,15-2031.00,Marketing,2.4,onet_tool,1,0,1,Marketo Marketing Automation
+Operations Research Analyst,15-2031.00,Power BI,2.4,onet_tool,1,0,1,Microsoft Power BI
+Operations Research Analyst,15-2031.00,PeopleSoft,2.4,onet_tool,1,0,1,Oracle PeopleSoft
+Operations Research Analyst,15-2031.00,Salesforce,2.4,onet_tool,1,0,1,Salesforce software
+Operations Research Analyst,15-2031.00,SAS,2.4,onet_tool,1,0,1,SAS
+Operations Research Analyst,15-2031.00,Incident Response,2.4,onet_tool,1,0,1,Splunk Enterprise
+Operations Research Analyst,15-2031.00,Tableau,2.4,onet_tool,1,0,1,Tableau
+Operations Research Analyst,15-2031.00,Cisco,2.14,onet_tool,0,1,1,Cisco IOS
+Operations Research Analyst,15-2031.00,Cloud Computing,2.14,onet_tool,0,1,1,Citrix cloud computing software
+Operations Research Analyst,15-2031.00,Accounting,2.14,onet_tool,0,1,1,Fund accounting software
+Operations Research Analyst,15-2031.00,UI/UX Design,2.14,onet_tool,0,1,1,Hewlett Packard HP-UX
+Operations Research Analyst,15-2031.00,Jupyter,2.14,onet_tool,0,1,1,Jupyter Notebook
+Operations Research Analyst,15-2031.00,Minitab,2.14,onet_tool,0,1,1,Minitab
+Operations Research Analyst,15-2031.00,Stata,2.14,onet_tool,0,1,1,StataCorp Stata
+Operations Research Analyst,15-2031.00,Java,2.14,onet_tool,0,1,1,Sun Microsystems Java
+Database Architect,15-1243.00,SQL,4.0,seed+onet_tool,12,7,19,Amazon Redshift; Data Recovery Software SQL Server Data Recovery; Micosoft SQL Server Analysis Services SSAS; Microsoft SQL Server; Microsoft SQL Server Integration Services SSIS; Microsoft SQL Server Reporting Services SSRS; MySQL; Oracle Database; Oracle PL/SQL; Oracle SQL Developer; Oracle SQL Loader; Oracle SQL Plus; PostgreSQL; Quest SQL Optimizer for Oracle; Redgate SQL Server; SentryOne SQL Sentry; Snowflake; Structured query language SQL; Transact-SQL
+Database Architect,15-1243.00,Database Design,4.0,seed+onet_tool,0,2,2,Data modeling software; Database design software
+Database Architect,15-1243.00,Data Warehousing,4.0,seed+onet_tool,0,1,1,Teradata Active Enterprise Data Warehouse
+Database Architect,15-1243.00,ETL,4.0,seed+onet_tool,0,1,1,Adeptia ETL Suite
+Database Architect,15-1243.00,Cloud Computing,4.0,seed+onet_tool,0,1,1,Citrix cloud computing software
+Database Architect,15-1243.00,Python,4.0,seed+onet_tool,1,1,2,Jupyter Notebook; Python
+Database Architect,15-1243.00,Linux,4.0,seed+onet_tool,5,3,8,C shell; DOS shell script; Linux; Perl shell; Red Hat Enterprise Linux; Shell script; UNIX; UNIX Shell
+Database Architect,15-1243.00,NoSQL,4.0,seed+onet_tool,4,1,5,Amazon DynamoDB; Apache Cassandra; Apache HBase; MongoDB; NoSQL
+Database Architect,15-1243.00,JavaScript,2.95,onet_tool,3,2,5,Backbone.js; Ext JS; JavaScript; JavaScript Object Notation JSON; Node.js
+Database Architect,15-1243.00,SAP/ERP,2.92,onet_tool,1,8,9,Ellucian Banner ERP; NetSuite ERP; SAP Adaptive Server Enterprise; SAP Business Objects; SAP Crystal Reports; SAP PowerBuilder; SAP PowerDesigner; SAP Replication Server; SAP software
+Database Architect,15-1243.00,AWS,2.9,onet_tool,3,1,4,Amazon Elastic Compute Cloud EC2; Amazon Simple Storage Service S3; Amazon Web Services AWS CloudFormation; Amazon Web Services AWS software
+Database Architect,15-1243.00,.NET,2.89,onet_tool,2,4,6,ADO.NET; Microsoft .NET Framework; Microsoft ASP.NET; Microsoft ASP.NET Core MVC; Microsoft Visual Basic.NET; Microsoft Visual C# .NET
+Database Architect,15-1243.00,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Database Architect,15-1243.00,Jira,2.67,onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+Database Architect,15-1243.00,HTML/CSS,2.67,onet_tool,2,0,2,Cascading style sheets CSS; Hypertext markup language HTML
+Database Architect,15-1243.00,Git,2.67,onet_tool,2,0,2,Git; GitHub
+Database Architect,15-1243.00,C#,2.49,onet_tool,1,1,2,C#; Microsoft Visual C# .NET
+Database Architect,15-1243.00,Cisco,2.49,onet_tool,1,1,2,Cisco IOS; Cisco Webex
+Database Architect,15-1243.00,PeopleSoft,2.49,onet_tool,1,1,2,Oracle PeopleSoft; Oracle PeopleSoft Financials
+Database Architect,15-1243.00,SAS,2.49,onet_tool,1,1,2,SAS; SAS Data Integration Studio
+Database Architect,15-1243.00,Airflow,2.4,onet_tool,1,0,1,Apache Airflow
+Database Architect,15-1243.00,Kafka,2.4,onet_tool,1,0,1,Apache Kafka
+Database Architect,15-1243.00,Spark,2.4,onet_tool,1,0,1,Apache Spark
+Database Architect,15-1243.00,C++,2.4,onet_tool,1,0,1,C++
+Database Architect,15-1243.00,Docker,2.4,onet_tool,1,0,1,Docker
+Database Architect,15-1243.00,Google Analytics,2.4,onet_tool,1,0,1,Google Analytics
+Database Architect,15-1243.00,Statistics,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Database Architect,15-1243.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Database Architect,15-1243.00,Azure,2.4,onet_tool,1,0,1,Microsoft Azure software
+Database Architect,15-1243.00,Excel,2.4,onet_tool,1,0,1,Microsoft Excel
+Database Administrator,15-1242.00,SQL,4.0,seed+onet_tool,12,5,17,Amazon Redshift; Micosoft SQL Server Analysis Services SSAS; Microsoft SQL Server; Microsoft SQL Server Integration Services SSIS; Microsoft SQL Server Reporting Services SSRS; MySQL; Oracle Database; Oracle PL/SQL; Oracle SQL Developer; Oracle SQL Loader; Oracle SQL Plus; PostgreSQL; Redgate SQL Server; SentryOne SQL Sentry; Snowflake; Structured query language SQL; Transact-SQL
+Database Administrator,15-1242.00,Database Design,4.0,seed+onet_tool,0,2,2,Data modeling software; Database design software
+Database Administrator,15-1242.00,Linux,4.0,seed+onet_tool,5,1,6,DOS shell script; Linux; Red Hat Enterprise Linux; Shell script; UNIX; UNIX Shell
+Database Administrator,15-1242.00,Cloud Computing,4.0,seed+onet_tool,0,1,1,Citrix cloud computing software
+Database Administrator,15-1242.00,Python,4.0,seed+onet_tool,1,1,2,Jupyter Notebook; Python
+Database Administrator,15-1242.00,NoSQL,4.0,seed+onet_tool,4,0,4,Amazon DynamoDB; Apache Cassandra; MongoDB; NoSQL
+Database Administrator,15-1242.00,ETL,4.0,seed+onet_tool,0,1,1,Amazon Data Pipeline
+Database Administrator,15-1242.00,JavaScript,2.95,onet_tool,3,2,5,Backbone.js; Ext JS; JavaScript; JavaScript Object Notation JSON; Node.js
+Database Administrator,15-1242.00,AWS,2.9,onet_tool,3,1,4,Amazon Elastic Compute Cloud EC2; Amazon Simple Storage Service S3; Amazon Web Services AWS CloudFormation; Amazon Web Services AWS software
+Database Administrator,15-1242.00,.NET,2.89,onet_tool,2,4,6,ADO.NET; Microsoft .NET Framework; Microsoft ASP.NET; Microsoft ASP.NET Core MVC; Microsoft Visual Basic.NET; Microsoft Visual C# .NET
+Database Administrator,15-1242.00,SAP/ERP,2.87,onet_tool,1,7,8,Ellucian Banner ERP; NetSuite ERP; SAP Adaptive Server Enterprise; SAP Business Objects; SAP Crystal Reports; SAP PowerBuilder; SAP Replication Server; SAP software
+Database Administrator,15-1242.00,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Database Administrator,15-1242.00,Jira,2.67,onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+Database Administrator,15-1242.00,HTML/CSS,2.67,onet_tool,2,0,2,Cascading style sheets CSS; Hypertext markup language HTML
+Database Administrator,15-1242.00,Git,2.67,onet_tool,2,0,2,Git; GitHub
+Database Administrator,15-1242.00,Spark,2.49,onet_tool,1,1,2,Apache Spark; PySpark
+Database Administrator,15-1242.00,C#,2.49,onet_tool,1,1,2,C#; Microsoft Visual C# .NET
+Database Administrator,15-1242.00,Azure,2.49,onet_tool,1,1,2,Microsoft Azure Data Factory; Microsoft Azure software
+Database Administrator,15-1242.00,PeopleSoft,2.49,onet_tool,1,1,2,Oracle PeopleSoft; Oracle PeopleSoft Financials
+Database Administrator,15-1242.00,Salesforce,2.49,onet_tool,1,1,2,Salesforce software; Salesforce Visualforce
+Database Administrator,15-1242.00,Airflow,2.4,onet_tool,1,0,1,Apache Airflow
+Database Administrator,15-1242.00,Kafka,2.4,onet_tool,1,0,1,Apache Kafka
+Database Administrator,15-1242.00,C++,2.4,onet_tool,1,0,1,C++
+Database Administrator,15-1242.00,Cisco,2.4,onet_tool,1,0,1,Cisco Webex
+Database Administrator,15-1242.00,Docker,2.4,onet_tool,1,0,1,Docker
+Database Administrator,15-1242.00,Google Analytics,2.4,onet_tool,1,0,1,Google Analytics
+Database Administrator,15-1242.00,Statistics,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Database Administrator,15-1242.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Database Administrator,15-1242.00,Kubernetes,2.4,onet_tool,1,0,1,Kubernetes
+Database Administrator,15-1242.00,Marketing,2.4,onet_tool,1,0,1,Marketo Marketing Automation
+Data Warehousing Specialist,15-1243.01,SQL,4.0,seed+onet_tool,10,1,11,Amazon Redshift; Microsoft SQL Server; Microsoft SQL Server Integration Services SSIS; Microsoft SQL Server Reporting Services SSRS; MySQL; Oracle Database; Oracle PL/SQL; Oracle SQL Loader; PostgreSQL; Structured query language SQL; Transact-SQL
+Data Warehousing Specialist,15-1243.01,ETL,4.0,seed+onet_tool,0,1,1,Adeptia ETL Suite
+Data Warehousing Specialist,15-1243.01,Data Warehousing,4.0,seed,0,0,0,
+Data Warehousing Specialist,15-1243.01,Database Design,4.0,seed,0,0,0,
+Data Warehousing Specialist,15-1243.01,Cloud Computing,4.0,seed,0,0,0,
+Data Warehousing Specialist,15-1243.01,Python,4.0,seed+onet_tool,1,0,1,Python
+Data Warehousing Specialist,15-1243.01,Spark,4.0,seed+onet_tool,1,0,1,Apache Spark
+Data Warehousing Specialist,15-1243.01,Snowflake,4.0,seed,0,0,0,
+Data Warehousing Specialist,15-1243.01,Linux,3.11,onet_tool,5,0,5,Linux; Red Hat Enterprise Linux; Shell script; UNIX; UNIX Shell
+Data Warehousing Specialist,15-1243.01,NoSQL,3.04,onet_tool,4,1,5,Amazon DynamoDB; Apache Cassandra; Apache HBase; MongoDB; NoSQL
+Data Warehousing Specialist,15-1243.01,SAP/ERP,2.87,onet_tool,1,7,8,NetSuite ERP; SAP Adaptive Server Enterprise; SAP Business Objects; SAP Crystal Reports; SAP IQ; SAP NetWeaver BW; SAP PowerDesigner; SAP software
+Data Warehousing Specialist,15-1243.01,AWS,2.73,onet_tool,2,1,3,Amazon Elastic Compute Cloud EC2; Amazon Simple Storage Service S3; Amazon Web Services AWS software
+Data Warehousing Specialist,15-1243.01,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Data Warehousing Specialist,15-1243.01,SAS,2.49,onet_tool,1,1,2,SAS; SAS Data Integration Server
+Data Warehousing Specialist,15-1243.01,Kafka,2.4,onet_tool,1,0,1,Apache Kafka
+Data Warehousing Specialist,15-1243.01,Jira,2.4,onet_tool,1,0,1,Atlassian JIRA
+Data Warehousing Specialist,15-1243.01,C#,2.4,onet_tool,1,0,1,C#
+Data Warehousing Specialist,15-1243.01,C++,2.4,onet_tool,1,0,1,C++
+Data Warehousing Specialist,15-1243.01,Statistics,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Data Warehousing Specialist,15-1243.01,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Data Warehousing Specialist,15-1243.01,.NET,2.4,onet_tool,1,0,1,Microsoft .NET Framework
+Data Warehousing Specialist,15-1243.01,Azure,2.4,onet_tool,1,0,1,Microsoft Azure software
+Data Warehousing Specialist,15-1243.01,Excel,2.4,onet_tool,1,0,1,Microsoft Excel
+Data Warehousing Specialist,15-1243.01,Power BI,2.4,onet_tool,1,0,1,Microsoft Power BI
+Data Warehousing Specialist,15-1243.01,Java,2.4,onet_tool,1,0,1,Oracle Java
+Data Warehousing Specialist,15-1243.01,PeopleSoft,2.4,onet_tool,1,0,1,Oracle PeopleSoft
+Data Warehousing Specialist,15-1243.01,Incident Response,2.4,onet_tool,1,0,1,Splunk Enterprise
+Data Warehousing Specialist,15-1243.01,Tableau,2.4,onet_tool,1,0,1,Tableau
+Data Warehousing Specialist,15-1243.01,MATLAB,2.4,onet_tool,1,0,1,The MathWorks MATLAB
+Data Warehousing Specialist,15-1243.01,UI/UX Design,2.14,onet_tool,0,1,1,Hewlett Packard HP-UX
+Statistician,15-2041.00,R,4.0,seed,0,0,0,
+Statistician,15-2041.00,Python,4.0,seed+onet_tool,1,0,1,Python
+Statistician,15-2041.00,SAS,4.0,seed+onet_tool,1,3,4,SAS; SAS Enterprise Miner; SAS JMP; SAS/CONNECT
+Statistician,15-2041.00,SPSS,4.0,seed+onet_tool,1,2,3,IBM SPSS Amos; IBM SPSS AnswerTree; IBM SPSS Statistics
+Statistician,15-2041.00,Stata,4.0,seed+onet_tool,0,1,1,StataCorp Stata
+Statistician,15-2041.00,Statistics,4.0,seed+onet_tool,1,0,1,IBM SPSS Statistics
+Statistician,15-2041.00,Data Analysis,4.0,seed,0,0,0,
+Statistician,15-2041.00,Data Visualization,4.0,seed,0,0,0,
+Statistician,15-2041.00,Survey Design,4.0,seed,0,0,0,
+Statistician,15-2041.00,Research Methods,4.0,seed,0,0,0,
+Statistician,15-2041.00,SQL,2.86,onet_tool,3,0,3,Amazon Redshift; Microsoft SQL Server; Structured query language SQL
+Statistician,15-2041.00,Linux,2.67,onet_tool,2,0,2,Linux; UNIX
+Statistician,15-2041.00,SAP/ERP,2.49,onet_tool,1,1,2,SAP PowerBuilder; SAP software
+Statistician,15-2041.00,AWS,2.4,onet_tool,1,0,1,Amazon Web Services AWS software
+Statistician,15-2041.00,Hadoop,2.4,onet_tool,1,0,1,Apache Hadoop
+Statistician,15-2041.00,Spark,2.4,onet_tool,1,0,1,Apache Spark
+Statistician,15-2041.00,C++,2.4,onet_tool,1,0,1,C++
+Statistician,15-2041.00,Excel,2.4,onet_tool,1,0,1,Microsoft Excel
+Statistician,15-2041.00,Tableau,2.4,onet_tool,1,0,1,Tableau
+Statistician,15-2041.00,MATLAB,2.4,onet_tool,1,0,1,The MathWorks MATLAB
+Statistician,15-2041.00,Forecasting,2.14,onet_tool,0,1,1,Automatic Forecasting Systems Autobox
+Statistician,15-2041.00,Translation,2.14,onet_tool,0,1,1,Formula translation/translator FORTRAN
+Statistician,15-2041.00,Minitab,2.14,onet_tool,0,1,1,Minitab
+Statistician,15-2041.00,Data Warehousing,2.14,onet_tool,0,1,1,NCR Teradata Warehouse Miner
+Statistician,15-2041.00,Java,2.14,onet_tool,0,1,1,Sun Microsystems Java
+Marketing Manager,11-2021.00,Marketing,4.0,seed+onet_tool,1,1,2,Marketo Marketing Automation; QAD Marketing Automation
+Marketing Manager,11-2021.00,Market Research,4.0,seed,0,0,0,
+Marketing Manager,11-2021.00,SEO,4.0,seed,0,0,0,
+Marketing Manager,11-2021.00,Google Analytics,4.0,seed+onet_tool,1,0,1,Google Analytics
+Marketing Manager,11-2021.00,CRM,4.0,seed+onet_tool,0,1,1,Salesforce.com Salesforce CRM
+Marketing Manager,11-2021.00,Content Marketing,4.0,seed,0,0,0,
+Marketing Manager,11-2021.00,Social Media Marketing,4.0,seed+onet_tool,0,1,1,Social media sites
+Marketing Manager,11-2021.00,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+Marketing Manager,11-2021.00,Tableau,4.0,seed+onet_tool,1,0,1,Tableau
+Marketing Manager,11-2021.00,Project Management,4.0,seed,0,0,0,
+Marketing Manager,11-2021.00,SQL,3.2,onet_tool,6,0,6,Amazon Redshift; Microsoft SQL Server; MySQL; Oracle Database; Oracle PL/SQL; Structured query language SQL
+Marketing Manager,11-2021.00,NoSQL,2.67,onet_tool,2,0,2,Apache Cassandra; NoSQL
+Marketing Manager,11-2021.00,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Marketing Manager,11-2021.00,Jira,2.67,onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+Marketing Manager,11-2021.00,HTML/CSS,2.67,onet_tool,2,0,2,Cascading style sheets CSS; Hypertext markup language HTML
+Marketing Manager,11-2021.00,SAP/ERP,2.57,onet_tool,1,2,3,NetSuite ERP; SAP Business Objects; SAP software
+Marketing Manager,11-2021.00,QuickBooks/Sage,2.49,onet_tool,1,1,2,Intuit QuickBooks; Sage SalesLogix
+Marketing Manager,11-2021.00,Python,2.49,onet_tool,1,1,2,Jupyter Notebook; Python
+Marketing Manager,11-2021.00,PeopleSoft,2.49,onet_tool,1,1,2,Oracle PeopleSoft; Oracle PeopleSoft Financials
+Marketing Manager,11-2021.00,Salesforce,2.49,onet_tool,1,1,2,Salesforce software; Salesforce.com Salesforce CRM
+Marketing Manager,11-2021.00,After Effects,2.4,onet_tool,1,0,1,Adobe After Effects
+Marketing Manager,11-2021.00,Illustrator,2.4,onet_tool,1,0,1,Adobe Illustrator
+Marketing Manager,11-2021.00,InDesign,2.4,onet_tool,1,0,1,Adobe InDesign
+Marketing Manager,11-2021.00,Photoshop,2.4,onet_tool,1,0,1,Adobe Photoshop
+Marketing Manager,11-2021.00,AWS,2.4,onet_tool,1,0,1,Amazon Web Services AWS software
+Marketing Manager,11-2021.00,Figma,2.4,onet_tool,1,0,1,Figma
+Marketing Manager,11-2021.00,Git,2.4,onet_tool,1,0,1,GitHub
+Marketing Manager,11-2021.00,HubSpot,2.4,onet_tool,1,0,1,HubSpot software
+Marketing Manager,11-2021.00,Statistics,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Marketing Manager,11-2021.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Management Analyst,13-1111.00,Business Analysis,4.0,seed,0,0,0,
+Management Analyst,13-1111.00,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+Management Analyst,13-1111.00,SQL,4.0,seed+onet_tool,10,0,10,Amazon Redshift; Microsoft SQL Server; Microsoft SQL Server Integration Services SSIS; Microsoft SQL Server Reporting Services SSRS; MySQL; Oracle Database; Oracle PL/SQL; PostgreSQL; Structured query language SQL; Transact-SQL
+Management Analyst,13-1111.00,Tableau,4.0,seed+onet_tool,1,0,1,Tableau
+Management Analyst,13-1111.00,Project Management,4.0,seed,0,0,0,
+Management Analyst,13-1111.00,Statistics,4.0,seed+onet_tool,1,0,1,IBM SPSS Statistics
+Management Analyst,13-1111.00,Operations Management,4.0,seed,0,0,0,
+Management Analyst,13-1111.00,SAP/ERP,4.0,seed+onet_tool,1,3,4,NetSuite ERP; SAP Business Objects; SAP Crystal Reports; SAP software
+Management Analyst,13-1111.00,Linux,3.0,onet_tool,4,0,4,Linux; Red Hat Enterprise Linux; Shell script; UNIX
+Management Analyst,13-1111.00,JavaScript,2.95,onet_tool,3,2,5,Backbone.js; Ext JS; JavaScript; JavaScript Object Notation JSON; Node.js
+Management Analyst,13-1111.00,NoSQL,2.86,onet_tool,3,0,3,Apache Cassandra; MongoDB; NoSQL
+Management Analyst,13-1111.00,.NET,2.73,onet_tool,2,1,3,Microsoft .NET Framework; Microsoft ASP.NET; Microsoft ASP.NET Core MVC
+Management Analyst,13-1111.00,AWS,2.67,onet_tool,2,0,2,Amazon Elastic Compute Cloud EC2; Amazon Web Services AWS software
+Management Analyst,13-1111.00,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Management Analyst,13-1111.00,Jira,2.67,onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+Management Analyst,13-1111.00,HTML/CSS,2.67,onet_tool,2,0,2,Cascading style sheets CSS; Hypertext markup language HTML
+Management Analyst,13-1111.00,Git,2.67,onet_tool,2,0,2,Git; GitHub
+Management Analyst,13-1111.00,Python,2.49,onet_tool,1,1,2,Jupyter Notebook; Python
+Management Analyst,13-1111.00,PeopleSoft,2.49,onet_tool,1,1,2,Oracle PeopleSoft; Oracle PeopleSoft Financials
+Management Analyst,13-1111.00,Salesforce,2.49,onet_tool,1,1,2,Salesforce software; Salesforce Visualforce
+Management Analyst,13-1111.00,InDesign,2.4,onet_tool,1,0,1,Adobe InDesign
+Management Analyst,13-1111.00,Alteryx,2.4,onet_tool,1,0,1,Alteryx software
+Management Analyst,13-1111.00,Kafka,2.4,onet_tool,1,0,1,Apache Kafka
+Management Analyst,13-1111.00,Spark,2.4,onet_tool,1,0,1,Apache Spark
+Management Analyst,13-1111.00,C#,2.4,onet_tool,1,0,1,C#
+Management Analyst,13-1111.00,C++,2.4,onet_tool,1,0,1,C++
+Management Analyst,13-1111.00,Cisco,2.4,onet_tool,1,0,1,Cisco Webex
+Management Analyst,13-1111.00,Google Analytics,2.4,onet_tool,1,0,1,Google Analytics
+Management Analyst,13-1111.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Management Analyst,13-1111.00,Marketing,2.4,onet_tool,1,0,1,Marketo Marketing Automation
+Computer Programmer,15-1251.00,Java,4.0,seed+onet_tool,1,1,2,Oracle Java; Xerces2 Java Parser
+Computer Programmer,15-1251.00,Python,4.0,seed+onet_tool,1,1,2,Jupyter Notebook; Python
+Computer Programmer,15-1251.00,C++,4.0,seed+onet_tool,1,0,1,C++
+Computer Programmer,15-1251.00,C#,4.0,seed+onet_tool,1,1,2,C#; Microsoft Visual C# .NET
+Computer Programmer,15-1251.00,JavaScript,4.0,seed+onet_tool,3,2,5,Backbone.js; Ext JS; JavaScript; JavaScript Object Notation JSON; Node.js
+Computer Programmer,15-1251.00,SQL,4.0,seed+onet_tool,10,1,11,Amazon Redshift; CAST SQL Builder; Microsoft SQL Server; Microsoft SQL Server Integration Services SSIS; Microsoft SQL Server Reporting Services SSRS; MySQL; Oracle Database; Oracle PL/SQL; PostgreSQL; Structured query language SQL; Transact-SQL
+Computer Programmer,15-1251.00,Git,4.0,seed+onet_tool,2,0,2,Git; GitHub
+Computer Programmer,15-1251.00,Data Structures & Algorithms,4.0,seed,0,0,0,
+Computer Programmer,15-1251.00,Software Testing,4.0,seed,0,0,0,
+Computer Programmer,15-1251.00,Linux,3.14,onet_tool,5,1,6,Bourne Shell; Linux; Red Hat Enterprise Linux; Shell script; UNIX; UNIX Shell
+Computer Programmer,15-1251.00,NoSQL,3.0,onet_tool,4,0,4,Amazon DynamoDB; Apache Cassandra; MongoDB; NoSQL
+Computer Programmer,15-1251.00,AWS,2.9,onet_tool,3,1,4,Amazon Elastic Compute Cloud EC2; Amazon Simple Storage Service S3; Amazon Web Services AWS CloudFormation; Amazon Web Services AWS software
+Computer Programmer,15-1251.00,R,2.9,onet_tool,0,11,11,Code generator software; Code munger software; Incremental compiler software; Inline code expander software; Interpreter software; Low-level debugger software; One pass compiler software; Partial class generator software; Source code editor software; Symbolic debugger software; Tier generator software
+Computer Programmer,15-1251.00,.NET,2.84,onet_tool,2,3,5,Microsoft .NET Framework; Microsoft ASP.NET; Microsoft ASP.NET Core MVC; Microsoft Visual Basic.NET; Microsoft Visual C# .NET
+Computer Programmer,15-1251.00,SAP/ERP,2.82,onet_tool,1,6,7,NetSuite ERP; SAP Adaptive Server Enterprise; SAP Business Objects; SAP BusinessObjects Data Integrator; SAP Crystal Reports; SAP NetWeaver BW; SAP software
+Computer Programmer,15-1251.00,HTML/CSS,2.73,onet_tool,2,1,3,Cascading style sheets CSS; CoffeeCup The HTML Editor; Hypertext markup language HTML
+Computer Programmer,15-1251.00,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Computer Programmer,15-1251.00,Jira,2.67,onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+Computer Programmer,15-1251.00,PeopleSoft,2.49,onet_tool,1,1,2,Oracle PeopleSoft; Oracle PeopleSoft Financials
+Computer Programmer,15-1251.00,Illustrator,2.4,onet_tool,1,0,1,Adobe Illustrator
+Computer Programmer,15-1251.00,Photoshop,2.4,onet_tool,1,0,1,Adobe Photoshop
+Computer Programmer,15-1251.00,Kafka,2.4,onet_tool,1,0,1,Apache Kafka
+Computer Programmer,15-1251.00,Spark,2.4,onet_tool,1,0,1,Apache Spark
+Computer Programmer,15-1251.00,Docker,2.4,onet_tool,1,0,1,Docker
+Computer Programmer,15-1251.00,Google Analytics,2.4,onet_tool,1,0,1,Google Analytics
+Computer Programmer,15-1251.00,Statistics,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Computer Programmer,15-1251.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Computer Programmer,15-1251.00,Azure,2.4,onet_tool,1,0,1,Microsoft Azure software
+Computer Programmer,15-1251.00,Excel,2.4,onet_tool,1,0,1,Microsoft Excel
+Computer Programmer,15-1251.00,Node.js,2.4,onet_tool,1,0,1,Node.js
+Web Developer,15-1254.00,JavaScript,4.0,seed+onet_tool,4,3,7,Backbone.js; Ext JS; JavaScript; JavaScript framework software; JavaScript Object Notation JSON; Node.js; Vue.js
+Web Developer,15-1254.00,HTML/CSS,4.0,seed+onet_tool,2,0,2,Cascading style sheets CSS; Hypertext markup language HTML
+Web Developer,15-1254.00,React,4.0,seed+onet_tool,1,1,2,React; React Redux
+Web Developer,15-1254.00,Node.js,4.0,seed+onet_tool,1,0,1,Node.js
+Web Developer,15-1254.00,SQL,4.0,seed+onet_tool,10,0,10,Amazon Redshift; Microsoft SQL Server; Microsoft SQL Server Integration Services SSIS; Microsoft SQL Server Reporting Services SSRS; MySQL; Oracle Database; Oracle PL/SQL; PostgreSQL; Structured query language SQL; Transact-SQL
+Web Developer,15-1254.00,Git,4.0,seed+onet_tool,2,0,2,Git; GitHub
+Web Developer,15-1254.00,UI/UX Design,4.0,seed+onet_tool,0,1,1,Hewlett Packard HP-UX
+Web Developer,15-1254.00,Software Testing,4.0,seed,0,0,0,
+Web Developer,15-1254.00,Cloud Computing,4.0,seed,0,0,0,
+Web Developer,15-1254.00,NoSQL,3.11,onet_tool,5,0,5,Amazon DynamoDB; Apache Cassandra; MongoDB; NoSQL; Redis
+Web Developer,15-1254.00,Linux,3.11,onet_tool,5,0,5,Linux; Red Hat Enterprise Linux; Shell script; UNIX; UNIX Shell
+Web Developer,15-1254.00,AWS,2.9,onet_tool,3,1,4,Amazon Elastic Compute Cloud EC2; Amazon Simple Storage Service S3; Amazon Web Services AWS CloudFormation; Amazon Web Services AWS software
+Web Developer,15-1254.00,.NET,2.84,onet_tool,2,3,5,Microsoft .NET Framework; Microsoft ASP.NET; Microsoft ASP.NET Core MVC; Microsoft Visual Basic.NET; Microsoft Visual C# .NET
+Web Developer,15-1254.00,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Web Developer,15-1254.00,Jira,2.67,onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+Web Developer,15-1254.00,Java,2.67,onet_tool,2,0,2,Oracle Java; Oracle Java 2 Platform Enterprise Edition J2EE
+Web Developer,15-1254.00,SAP/ERP,2.64,onet_tool,1,3,4,NetSuite ERP; SAP Business Objects; SAP Crystal Reports; SAP software
+Web Developer,15-1254.00,C#,2.49,onet_tool,1,1,2,C#; Microsoft Visual C# .NET
+Web Developer,15-1254.00,Python,2.49,onet_tool,1,1,2,Jupyter Notebook; Python
+Web Developer,15-1254.00,Salesforce,2.49,onet_tool,1,1,2,Salesforce software; Salesforce Visualforce
+Web Developer,15-1254.00,After Effects,2.4,onet_tool,1,0,1,Adobe After Effects
+Web Developer,15-1254.00,Illustrator,2.4,onet_tool,1,0,1,Adobe Illustrator
+Web Developer,15-1254.00,InDesign,2.4,onet_tool,1,0,1,Adobe InDesign
+Web Developer,15-1254.00,Photoshop,2.4,onet_tool,1,0,1,Adobe Photoshop
+Web Developer,15-1254.00,Kafka,2.4,onet_tool,1,0,1,Apache Kafka
+Web Developer,15-1254.00,Spark,2.4,onet_tool,1,0,1,Apache Spark
+Web Developer,15-1254.00,C++,2.4,onet_tool,1,0,1,C++
+Web Developer,15-1254.00,Cisco,2.4,onet_tool,1,0,1,Cisco Webex
+Web Developer,15-1254.00,Docker,2.4,onet_tool,1,0,1,Docker
+Web Developer,15-1254.00,Figma,2.4,onet_tool,1,0,1,Figma
+Business Intelligence Analyst,15-2051.01,SQL,4.0,seed+onet_tool,12,0,12,Amazon Redshift; Microsoft SQL Server; Microsoft SQL Server Integration Services SSIS; Microsoft SQL Server Reporting Services SSRS; MySQL; Oracle Database; Oracle PL/SQL; Oracle SQL Developer; PostgreSQL; Snowflake; Structured query language SQL; Transact-SQL
+Business Intelligence Analyst,15-2051.01,Tableau,4.0,seed+onet_tool,1,0,1,Tableau
+Business Intelligence Analyst,15-2051.01,Power BI,4.0,seed+onet_tool,1,0,1,Microsoft Power BI
+Business Intelligence Analyst,15-2051.01,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+Business Intelligence Analyst,15-2051.01,Data Analysis,4.0,seed,0,0,0,
+Business Intelligence Analyst,15-2051.01,Data Visualization,4.0,seed,0,0,0,
+Business Intelligence Analyst,15-2051.01,ETL,4.0,seed,0,0,0,
+Business Intelligence Analyst,15-2051.01,Statistics,4.0,seed+onet_tool,1,0,1,IBM SPSS Statistics
+Business Intelligence Analyst,15-2051.01,Python,4.0,seed+onet_tool,1,1,2,Jupyter Notebook; Python
+Business Intelligence Analyst,15-2051.01,Linux,3.11,onet_tool,5,0,5,Linux; Red Hat Enterprise Linux; Shell script; UNIX; UNIX Shell
+Business Intelligence Analyst,15-2051.01,NoSQL,3.0,onet_tool,4,0,4,Amazon DynamoDB; Apache Cassandra; MongoDB; NoSQL
+Business Intelligence Analyst,15-2051.01,SAP/ERP,2.93,onet_tool,2,5,7,NetSuite ERP; SAP Business Objects; SAP BusinessObjects Data Integrator; SAP Crystal Reports; SAP ERP; SAP NetWeaver BW; SAP software
+Business Intelligence Analyst,15-2051.01,JavaScript,2.73,onet_tool,2,1,3,Ext JS; JavaScript; JavaScript Object Notation JSON
+Business Intelligence Analyst,15-2051.01,AWS,2.67,onet_tool,2,0,2,Amazon Elastic Compute Cloud EC2; Amazon Web Services AWS software
+Business Intelligence Analyst,15-2051.01,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Business Intelligence Analyst,15-2051.01,Jira,2.67,onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+Business Intelligence Analyst,15-2051.01,Git,2.67,onet_tool,2,0,2,Git; GitHub
+Business Intelligence Analyst,15-2051.01,.NET,2.67,onet_tool,2,0,2,Microsoft .NET Framework; Microsoft ASP.NET
+Business Intelligence Analyst,15-2051.01,Marketing,2.49,onet_tool,1,1,2,Marketo Marketing Automation; Oracle Siebel Marketing Resource Management
+Business Intelligence Analyst,15-2051.01,PeopleSoft,2.49,onet_tool,1,1,2,Oracle PeopleSoft; Oracle PeopleSoft Financials
+Business Intelligence Analyst,15-2051.01,Salesforce,2.49,onet_tool,1,1,2,Salesforce software; Salesforce Visualforce
+Business Intelligence Analyst,15-2051.01,Alteryx,2.4,onet_tool,1,0,1,Alteryx software
+Business Intelligence Analyst,15-2051.01,Kafka,2.4,onet_tool,1,0,1,Apache Kafka
+Business Intelligence Analyst,15-2051.01,Spark,2.4,onet_tool,1,0,1,Apache Spark
+Business Intelligence Analyst,15-2051.01,C#,2.4,onet_tool,1,0,1,C#
+Business Intelligence Analyst,15-2051.01,C++,2.4,onet_tool,1,0,1,C++
+Business Intelligence Analyst,15-2051.01,Google Analytics,2.4,onet_tool,1,0,1,Google Analytics
+Business Intelligence Analyst,15-2051.01,HTML/CSS,2.4,onet_tool,1,0,1,Hypertext markup language HTML
+Business Intelligence Analyst,15-2051.01,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Business Intelligence Analyst,15-2051.01,Azure,2.4,onet_tool,1,0,1,Microsoft Azure software
+Financial Analyst,13-2099.01,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+Financial Analyst,13-2099.01,Financial Modeling,4.0,seed,0,0,0,
+Financial Analyst,13-2099.01,Financial Analysis,4.0,seed,0,0,0,
+Financial Analyst,13-2099.01,Accounting,4.0,seed,0,0,0,
+Financial Analyst,13-2099.01,SQL,4.0,seed+onet_tool,2,0,2,Microsoft SQL Server; Structured query language SQL
+Financial Analyst,13-2099.01,Tableau,4.0,seed+onet_tool,1,0,1,Tableau
+Financial Analyst,13-2099.01,Bloomberg,4.0,seed+onet_tool,0,1,1,Bloomberg Professional
+Financial Analyst,13-2099.01,Statistics,4.0,seed+onet_tool,1,0,1,IBM SPSS Statistics
+Financial Analyst,13-2099.01,Python,4.0,seed+onet_tool,1,0,1,Python
+Financial Analyst,13-2099.01,Linux,2.67,onet_tool,2,0,2,Linux; UNIX
+Financial Analyst,13-2099.01,AWS,2.4,onet_tool,1,0,1,Amazon Web Services AWS software
+Financial Analyst,13-2099.01,Hadoop,2.4,onet_tool,1,0,1,Apache Hive
+Financial Analyst,13-2099.01,C#,2.4,onet_tool,1,0,1,C#
+Financial Analyst,13-2099.01,C++,2.4,onet_tool,1,0,1,C++
+Financial Analyst,13-2099.01,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Financial Analyst,13-2099.01,JavaScript,2.4,onet_tool,1,0,1,JavaScript
+Financial Analyst,13-2099.01,Azure,2.4,onet_tool,1,0,1,Microsoft Azure software
+Financial Analyst,13-2099.01,Power BI,2.4,onet_tool,1,0,1,Microsoft Power BI
+Financial Analyst,13-2099.01,Java,2.4,onet_tool,1,0,1,Oracle Java
+Financial Analyst,13-2099.01,SAS,2.4,onet_tool,1,0,1,SAS
+Financial Analyst,13-2099.01,MATLAB,2.4,onet_tool,1,0,1,The MathWorks MATLAB
+Financial Analyst,13-2099.01,Stata,2.14,onet_tool,0,1,1,StataCorp Stata
+Financial Analyst,13-2099.01,R,2.14,onet_tool,0,1,1,Web browser software
+Financial Manager,11-3031.00,Financial Analysis,4.0,seed,0,0,0,
+Financial Manager,11-3031.00,Financial Modeling,4.0,seed,0,0,0,
+Financial Manager,11-3031.00,Accounting,4.0,seed+onet_tool,0,2,2,Fund accounting software; Sage 50 Accounting
+Financial Manager,11-3031.00,Budgeting,4.0,seed,0,0,0,
+Financial Manager,11-3031.00,Forecasting,4.0,seed,0,0,0,
+Financial Manager,11-3031.00,Risk Management,4.0,seed,0,0,0,
+Financial Manager,11-3031.00,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+Financial Manager,11-3031.00,SAP/ERP,4.0,seed+onet_tool,1,3,4,NetSuite ERP; SAP Business Objects; SAP Crystal Reports; SAP software
+Financial Manager,11-3031.00,Leadership,4.0,seed,0,0,0,
+Financial Manager,11-3031.00,SQL,2.86,onet_tool,3,0,3,Microsoft SQL Server; Oracle Database; Structured query language SQL
+Financial Manager,11-3031.00,QuickBooks/Sage,2.49,onet_tool,1,1,2,Intuit QuickBooks; Sage 50 Accounting
+Financial Manager,11-3031.00,PeopleSoft,2.49,onet_tool,1,1,2,Oracle PeopleSoft; Oracle PeopleSoft Financials
+Financial Manager,11-3031.00,Alteryx,2.4,onet_tool,1,0,1,Alteryx software
+Financial Manager,11-3031.00,Statistics,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Financial Manager,11-3031.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Financial Manager,11-3031.00,Marketing,2.4,onet_tool,1,0,1,Marketo Marketing Automation
+Financial Manager,11-3031.00,Salesforce,2.4,onet_tool,1,0,1,Salesforce software
+Financial Manager,11-3031.00,SAS,2.4,onet_tool,1,0,1,SAS
+Financial Manager,11-3031.00,Tableau,2.4,onet_tool,1,0,1,Tableau
+Financial Manager,11-3031.00,Workday,2.4,onet_tool,1,0,1,Workday software
+Financial Manager,11-3031.00,Tax,2.26,onet_tool,0,2,2,Tax compliance property tax management software; Tax software
+Financial Manager,11-3031.00,ADP,2.14,onet_tool,0,1,1,ADP Workforce Now
+Financial Manager,11-3031.00,HRIS,2.14,onet_tool,0,1,1,Human resource information system (HRIS)
+HR Specialist,13-1071.00,Recruitment,4.0,seed+onet_tool,0,2,2,Cluen executive recruitment software; Recruitment management software
+HR Specialist,13-1071.00,HRIS,4.0,seed+onet_tool,0,2,2,Human resource information system (HRIS); Oracle HRIS
+HR Specialist,13-1071.00,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+HR Specialist,13-1071.00,Labor Law,4.0,seed,0,0,0,
+HR Specialist,13-1071.00,Compensation,4.0,seed,0,0,0,
+HR Specialist,13-1071.00,Benefits,4.0,seed,0,0,0,
+HR Specialist,13-1071.00,Communication,4.0,seed,0,0,0,
+HR Specialist,13-1071.00,Training & Development,4.0,seed,0,0,0,
+HR Specialist,13-1071.00,SQL,2.86,onet_tool,3,0,3,Microsoft SQL Server; Microsoft SQL Server Reporting Services SSRS; Oracle Database
+HR Specialist,13-1071.00,SAP/ERP,2.71,onet_tool,1,4,5,NetSuite ERP; SAP Business Objects; SAP Crystal Reports; SAP ERP Human Capital Management; SAP software
+HR Specialist,13-1071.00,PeopleSoft,2.57,onet_tool,1,2,3,Oracle PeopleSoft; Oracle PeopleSoft Financials; Oracle PeopleSoft Human Capital Management
+HR Specialist,13-1071.00,QuickBooks/Sage,2.49,onet_tool,1,1,2,Intuit QuickBooks; Sage 50 Accounting
+HR Specialist,13-1071.00,Illustrator,2.4,onet_tool,1,0,1,Adobe Illustrator
+HR Specialist,13-1071.00,InDesign,2.4,onet_tool,1,0,1,Adobe InDesign
+HR Specialist,13-1071.00,Photoshop,2.4,onet_tool,1,0,1,Adobe Photoshop
+HR Specialist,13-1071.00,Cisco,2.4,onet_tool,1,0,1,Cisco Webex
+HR Specialist,13-1071.00,Git,2.4,onet_tool,1,0,1,GitHub
+HR Specialist,13-1071.00,Google Analytics,2.4,onet_tool,1,0,1,Google Analytics
+HR Specialist,13-1071.00,HTML/CSS,2.4,onet_tool,1,0,1,Hypertext markup language HTML
+HR Specialist,13-1071.00,Statistics,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+HR Specialist,13-1071.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+HR Specialist,13-1071.00,Marketing,2.4,onet_tool,1,0,1,Marketo Marketing Automation
+HR Specialist,13-1071.00,Salesforce,2.4,onet_tool,1,0,1,Salesforce software
+HR Specialist,13-1071.00,SAS,2.4,onet_tool,1,0,1,SAS
+HR Specialist,13-1071.00,Tableau,2.4,onet_tool,1,0,1,Tableau
+HR Specialist,13-1071.00,Workday,2.4,onet_tool,1,0,1,Workday software
+HR Specialist,13-1071.00,.NET,2.26,onet_tool,0,2,2,Industrial Code Recruitpoint.net; Recruitpoint.net
+HR Specialist,13-1071.00,R,2.26,onet_tool,0,2,2,Resume converter software; Web browser software
+HR Specialist,13-1071.00,ADP,2.14,onet_tool,0,1,1,ADP Workforce Now
+HR Specialist,13-1071.00,LMS,2.14,onet_tool,0,1,1,Blackboard software
+HR Manager,11-3121.00,HRIS,4.0,seed+onet_tool,0,2,2,Human resource information system (HRIS); Oracle HRIS
+HR Manager,11-3121.00,Recruitment,4.0,seed,0,0,0,
+HR Manager,11-3121.00,Compensation,4.0,seed,0,0,0,
+HR Manager,11-3121.00,Benefits,4.0,seed+onet_tool,0,2,2,ADP HR/Benefits Solution; Tesseract Benefits Manager
+HR Manager,11-3121.00,Labor Law,4.0,seed,0,0,0,
+HR Manager,11-3121.00,Performance Management,4.0,seed,0,0,0,
+HR Manager,11-3121.00,Training & Development,4.0,seed+onet_tool,0,1,1,Training software
+HR Manager,11-3121.00,Leadership,4.0,seed,0,0,0,
+HR Manager,11-3121.00,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+HR Manager,11-3121.00,ADP,2.62,onet_tool,0,6,6,ADP Enterprise HR; ADP ezLaborManager; ADP HR/Benefits Solution; ADP HR/Profile; ADP Pay eXpert; ADP Workforce Now
+HR Manager,11-3121.00,SAP/ERP,2.57,onet_tool,1,2,3,Infor ERP SyteLine; SAP BusinessObjects Crystal Reports; SAP software
+HR Manager,11-3121.00,QuickBooks/Sage,2.57,onet_tool,1,2,3,Intuit QuickBooks; Sage 50 Accounting; Sage HRMS
+HR Manager,11-3121.00,Statistics,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+HR Manager,11-3121.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+HR Manager,11-3121.00,PeopleSoft,2.4,onet_tool,1,0,1,Oracle PeopleSoft
+HR Manager,11-3121.00,Workday,2.4,onet_tool,1,0,1,Workday software
+HR Manager,11-3121.00,Tax,2.14,onet_tool,0,1,1,iSystems Evolution Payroll and Tax Management
+HR Manager,11-3121.00,.NET,2.14,onet_tool,0,1,1,New World Systems Logos.NET
+HR Manager,11-3121.00,Accounting,2.14,onet_tool,0,1,1,Sage 50 Accounting
+HR Manager,11-3121.00,Social Media Marketing,2.14,onet_tool,0,1,1,Social media sites
+HR Manager,11-3121.00,R,2.14,onet_tool,0,1,1,Web browser software
+Project Manager,13-1082.00,Project Management,4.0,seed,0,0,0,
+Project Manager,13-1082.00,Agile/Scrum,4.0,seed,0,0,0,
+Project Manager,13-1082.00,Jira,4.0,seed+onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+Project Manager,13-1082.00,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+Project Manager,13-1082.00,Communication,4.0,seed,0,0,0,
+Project Manager,13-1082.00,Risk Management,4.0,seed,0,0,0,
+Project Manager,13-1082.00,Budgeting,4.0,seed,0,0,0,
+Project Manager,13-1082.00,Leadership,4.0,seed,0,0,0,
+Project Manager,13-1082.00,Git,2.67,onet_tool,2,0,2,Git; GitHub
+Project Manager,13-1082.00,SAP/ERP,2.57,onet_tool,1,2,3,NetSuite ERP; SAP Crystal Reports; SAP software
+Project Manager,13-1082.00,InDesign,2.4,onet_tool,1,0,1,Adobe InDesign
+Project Manager,13-1082.00,Photoshop,2.4,onet_tool,1,0,1,Adobe Photoshop
+Project Manager,13-1082.00,AutoCAD,2.4,onet_tool,1,0,1,Autodesk AutoCAD Civil 3D
+Project Manager,13-1082.00,Cisco,2.4,onet_tool,1,0,1,Cisco Webex
+Project Manager,13-1082.00,Statistics,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Project Manager,13-1082.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Project Manager,13-1082.00,QuickBooks/Sage,2.4,onet_tool,1,0,1,Intuit QuickBooks
+Project Manager,13-1082.00,Linux,2.4,onet_tool,1,0,1,Linux
+Project Manager,13-1082.00,Marketing,2.4,onet_tool,1,0,1,Marketo Marketing Automation
+Project Manager,13-1082.00,Azure,2.4,onet_tool,1,0,1,Microsoft Azure software
+Project Manager,13-1082.00,SQL,2.4,onet_tool,1,0,1,Oracle Database
+Project Manager,13-1082.00,PeopleSoft,2.4,onet_tool,1,0,1,Oracle PeopleSoft
+Project Manager,13-1082.00,Salesforce,2.4,onet_tool,1,0,1,Salesforce software
+Project Manager,13-1082.00,SAS,2.4,onet_tool,1,0,1,SAS
+Project Manager,13-1082.00,Tableau,2.4,onet_tool,1,0,1,Tableau
+Project Manager,13-1082.00,LMS,2.26,onet_tool,0,2,2,Blackboard software; Moodle
+Project Manager,13-1082.00,ADP,2.14,onet_tool,0,1,1,ADP Workforce Now
+Project Manager,13-1082.00,Social Media Marketing,2.14,onet_tool,0,1,1,Social media sites
+Market Research Analyst,13-1161.00,Market Research,4.0,seed,0,0,0,
+Market Research Analyst,13-1161.00,Statistics,4.0,seed+onet_tool,1,0,1,IBM SPSS Statistics
+Market Research Analyst,13-1161.00,SPSS,4.0,seed+onet_tool,1,0,1,IBM SPSS Statistics
+Market Research Analyst,13-1161.00,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+Market Research Analyst,13-1161.00,Tableau,4.0,seed+onet_tool,1,0,1,Tableau
+Market Research Analyst,13-1161.00,Survey Design,4.0,seed,0,0,0,
+Market Research Analyst,13-1161.00,Data Analysis,4.0,seed+onet_tool,0,1,1,Data analysis software
+Market Research Analyst,13-1161.00,Marketing,4.0,seed+onet_tool,1,2,3,Aprimo Marketing; Geographic information system GIS marketing software; Marketo Marketing Automation
+Market Research Analyst,13-1161.00,Python,4.0,seed,0,0,0,
+Market Research Analyst,13-1161.00,R,4.0,seed+onet_tool,0,1,1,Web browser software
+Market Research Analyst,13-1161.00,SQL,3.0,onet_tool,4,0,4,Amazon Redshift; Microsoft SQL Server; MySQL; Structured query language SQL
+Market Research Analyst,13-1161.00,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Market Research Analyst,13-1161.00,HTML/CSS,2.67,onet_tool,2,0,2,Cascading style sheets CSS; Hypertext markup language HTML
+Market Research Analyst,13-1161.00,SAP/ERP,2.64,onet_tool,1,3,4,NetSuite ERP; SAP Business Objects; SAP Crystal Reports; SAP software
+Market Research Analyst,13-1161.00,After Effects,2.4,onet_tool,1,0,1,Adobe After Effects
+Market Research Analyst,13-1161.00,Illustrator,2.4,onet_tool,1,0,1,Adobe Illustrator
+Market Research Analyst,13-1161.00,InDesign,2.4,onet_tool,1,0,1,Adobe InDesign
+Market Research Analyst,13-1161.00,Photoshop,2.4,onet_tool,1,0,1,Adobe Photoshop
+Market Research Analyst,13-1161.00,Google Analytics,2.4,onet_tool,1,0,1,Google Analytics
+Market Research Analyst,13-1161.00,HubSpot,2.4,onet_tool,1,0,1,HubSpot software
+Market Research Analyst,13-1161.00,JavaScript,2.4,onet_tool,1,0,1,JavaScript
+Market Research Analyst,13-1161.00,PeopleSoft,2.4,onet_tool,1,0,1,Oracle PeopleSoft
+Market Research Analyst,13-1161.00,Linux,2.4,onet_tool,1,0,1,Red Hat Enterprise Linux
+Market Research Analyst,13-1161.00,Salesforce,2.4,onet_tool,1,0,1,Salesforce software
+Market Research Analyst,13-1161.00,SAS,2.4,onet_tool,1,0,1,SAS
+Market Research Analyst,13-1161.00,MATLAB,2.4,onet_tool,1,0,1,The MathWorks MATLAB
+Market Research Analyst,13-1161.00,SEM/Google Ads,2.14,onet_tool,0,1,1,Google Ads
+Market Research Analyst,13-1161.00,Minitab,2.14,onet_tool,0,1,1,Minitab
+Market Research Analyst,13-1161.00,Data Warehousing,2.14,onet_tool,0,1,1,NCR Teradata Warehouse Miner
+Market Research Analyst,13-1161.00,Cybersecurity,2.14,onet_tool,0,1,1,NortonLifeLock cybersecurity software
+Operations Manager,11-1021.00,Operations Management,4.0,seed,0,0,0,
+Operations Manager,11-1021.00,Supply Chain,4.0,seed,0,0,0,
+Operations Manager,11-1021.00,SAP/ERP,4.0,seed+onet_tool,1,4,5,Deacom ERP; NetSuite ERP; SAP Business Objects; SAP Crystal Reports; SAP software
+Operations Manager,11-1021.00,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+Operations Manager,11-1021.00,Project Management,4.0,seed,0,0,0,
+Operations Manager,11-1021.00,Quality Control,4.0,seed,0,0,0,
+Operations Manager,11-1021.00,Budgeting,4.0,seed,0,0,0,
+Operations Manager,11-1021.00,Leadership,4.0,seed,0,0,0,
+Operations Manager,11-1021.00,SQL,3.0,onet_tool,4,0,4,Microsoft SQL Server; Oracle Database; PostgreSQL; Structured query language SQL
+Operations Manager,11-1021.00,Jira,2.67,onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+Operations Manager,11-1021.00,QuickBooks/Sage,2.57,onet_tool,1,2,3,Intuit QuickBooks; Sage 50 Accounting; Sage MAS 500
+Operations Manager,11-1021.00,PeopleSoft,2.49,onet_tool,1,1,2,Oracle PeopleSoft; Oracle PeopleSoft Financials
+Operations Manager,11-1021.00,Salesforce,2.49,onet_tool,1,1,2,Salesforce software; Salesforce.com Salesforce CRM
+Operations Manager,11-1021.00,Photoshop,2.4,onet_tool,1,0,1,Adobe Photoshop
+Operations Manager,11-1021.00,AWS,2.4,onet_tool,1,0,1,Amazon Web Services AWS software
+Operations Manager,11-1021.00,Hadoop,2.4,onet_tool,1,0,1,Apache Hadoop
+Operations Manager,11-1021.00,AutoCAD,2.4,onet_tool,1,0,1,Autodesk AutoCAD
+Operations Manager,11-1021.00,Google Analytics,2.4,onet_tool,1,0,1,Google Analytics
+Operations Manager,11-1021.00,HubSpot,2.4,onet_tool,1,0,1,HubSpot software
+Operations Manager,11-1021.00,Statistics,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Operations Manager,11-1021.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Operations Manager,11-1021.00,Marketing,2.4,onet_tool,1,0,1,Marketo Marketing Automation
+Operations Manager,11-1021.00,SAS,2.4,onet_tool,1,0,1,SAS
+Operations Manager,11-1021.00,Linux,2.4,onet_tool,1,0,1,Shell script
+Operations Manager,11-1021.00,Incident Response,2.4,onet_tool,1,0,1,Splunk Enterprise
+Operations Manager,11-1021.00,Tableau,2.4,onet_tool,1,0,1,Tableau
+Operations Manager,11-1021.00,MATLAB,2.4,onet_tool,1,0,1,The MathWorks MATLAB
+Operations Manager,11-1021.00,CRM,2.37,onet_tool,0,3,3,Salesforce.com Salesforce CRM; Sugar CRM; vtiger CRM
+Operations Manager,11-1021.00,Accounting,2.26,onet_tool,0,2,2,Fund accounting software; Sage 50 Accounting
+Operations Manager,11-1021.00,ADP,2.14,onet_tool,0,1,1,ADP Workforce Now
+Info Security Analyst,15-1212.00,Cybersecurity,4.0,seed+onet_tool,0,1,1,NortonLifeLock cybersecurity software
+Info Security Analyst,15-1212.00,Linux,4.0,seed+onet_tool,5,2,7,Kali Linux; Linux; Red Hat Enterprise Linux; Secure shell SSH software; Shell script; UNIX; UNIX Shell
+Info Security Analyst,15-1212.00,Python,4.0,seed+onet_tool,1,0,1,Python
+Info Security Analyst,15-1212.00,SQL,4.0,seed+onet_tool,9,0,9,Amazon Redshift; Microsoft SQL Server; Microsoft SQL Server Integration Services SSIS; Microsoft SQL Server Reporting Services SSRS; MySQL; Oracle Database; Oracle PL/SQL; PostgreSQL; Structured query language SQL
+Info Security Analyst,15-1212.00,Risk Management,4.0,seed+onet_tool,0,1,1,ArcSight Enterprise Threat and Risk Management
+Info Security Analyst,15-1212.00,Cloud Computing,4.0,seed+onet_tool,0,1,1,Citrix cloud computing software
+Info Security Analyst,15-1212.00,Incident Response,4.0,seed+onet_tool,1,1,2,IBM QRadar SIEM; Splunk Enterprise
+Info Security Analyst,15-1212.00,Network Engineering,4.0,seed+onet_tool,0,1,1,Virtual private networking VPN software
+Info Security Analyst,15-1212.00,NoSQL,3.0,onet_tool,4,0,4,Amazon DynamoDB; Apache Cassandra; MongoDB; NoSQL
+Info Security Analyst,15-1212.00,AWS,2.9,onet_tool,3,1,4,Amazon Elastic Compute Cloud EC2; Amazon Simple Storage Service S3; Amazon Web Services AWS CloudFormation; Amazon Web Services AWS software
+Info Security Analyst,15-1212.00,JavaScript,2.86,onet_tool,3,0,3,JavaScript; JavaScript Object Notation JSON; Node.js
+Info Security Analyst,15-1212.00,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Info Security Analyst,15-1212.00,Jira,2.67,onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+Info Security Analyst,15-1212.00,Git,2.67,onet_tool,2,0,2,Git; GitHub
+Info Security Analyst,15-1212.00,.NET,2.67,onet_tool,2,0,2,Microsoft .NET Framework; Microsoft ASP.NET
+Info Security Analyst,15-1212.00,PeopleSoft,2.49,onet_tool,1,1,2,Oracle PeopleSoft; Oracle PeopleSoft Financials
+Info Security Analyst,15-1212.00,SAP/ERP,2.49,onet_tool,1,1,2,SAP Crystal Reports; SAP software
+Info Security Analyst,15-1212.00,Kafka,2.4,onet_tool,1,0,1,Apache Kafka
+Info Security Analyst,15-1212.00,Spark,2.4,onet_tool,1,0,1,Apache Spark
+Info Security Analyst,15-1212.00,C#,2.4,onet_tool,1,0,1,C#
+Info Security Analyst,15-1212.00,C++,2.4,onet_tool,1,0,1,C++
+Info Security Analyst,15-1212.00,Docker,2.4,onet_tool,1,0,1,Docker
+Info Security Analyst,15-1212.00,HTML/CSS,2.4,onet_tool,1,0,1,Hypertext markup language HTML
+Info Security Analyst,15-1212.00,Azure,2.4,onet_tool,1,0,1,Microsoft Azure software
+Info Security Analyst,15-1212.00,Excel,2.4,onet_tool,1,0,1,Microsoft Excel
+Info Security Analyst,15-1212.00,Node.js,2.4,onet_tool,1,0,1,Node.js
+Info Security Analyst,15-1212.00,Java,2.4,onet_tool,1,0,1,Oracle Java
+Info Security Analyst,15-1212.00,Salesforce,2.4,onet_tool,1,0,1,Salesforce software
+Info Security Analyst,15-1212.00,SAS,2.4,onet_tool,1,0,1,SAS
+Info Security Analyst,15-1212.00,Test Automation,2.4,onet_tool,1,0,1,Selenium
+Network Architect,15-1241.00,Network Engineering,4.0,seed+onet_tool,0,2,2,Infoblox security and networking software; Virtual private networking VPN software
+Network Architect,15-1241.00,Cloud Computing,4.0,seed+onet_tool,0,1,1,Citrix cloud computing software
+Network Architect,15-1241.00,Cybersecurity,4.0,seed+onet_tool,0,1,1,NortonLifeLock cybersecurity software
+Network Architect,15-1241.00,Linux,4.0,seed+onet_tool,5,0,5,Linux; Red Hat Enterprise Linux; Shell script; UNIX; UNIX Shell
+Network Architect,15-1241.00,SQL,4.0,seed+onet_tool,9,0,9,Amazon Redshift; Microsoft SQL Server; Microsoft SQL Server Reporting Services SSRS; MySQL; Oracle Database; Oracle PL/SQL; PostgreSQL; Structured query language SQL; Transact-SQL
+Network Architect,15-1241.00,Python,4.0,seed+onet_tool,1,0,1,Python
+Network Architect,15-1241.00,Cisco,4.0,seed+onet_tool,1,7,8,Cisco IOS; Cisco Systems Cisco Web Cache Communication Protocol WCCP; Cisco Systems CiscoWorks; Cisco Systems CiscoWorks LAN Management Solution; Cisco Systems Gateway Load Balancing Protocol GLBP; Cisco Systems Hot Standby Router Protocol HSRP; Cisco Systems Wireless Control System WCS; Cisco Webex
+Network Architect,15-1241.00,Routing/Switching,4.0,seed+onet_tool,0,2,2,Enhanced Interior Gateway Routing Protocol EIGRP; Multiprotocol Label Switching MPLS
+Network Architect,15-1241.00,NoSQL,3.0,onet_tool,4,0,4,Amazon DynamoDB; Apache Cassandra; MongoDB; NoSQL
+Network Architect,15-1241.00,AWS,2.9,onet_tool,3,1,4,Amazon Elastic Compute Cloud EC2; Amazon Simple Storage Service S3; Amazon Web Services AWS CloudFormation; Amazon Web Services AWS software
+Network Architect,15-1241.00,JavaScript,2.9,onet_tool,3,1,4,Ext JS; JavaScript; JavaScript Object Notation JSON; Node.js
+Network Architect,15-1241.00,.NET,2.73,onet_tool,2,1,3,Microsoft .NET Framework; Microsoft ASP.NET; Microsoft ASP.NET Core MVC
+Network Architect,15-1241.00,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+Network Architect,15-1241.00,Jira,2.67,onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+Network Architect,15-1241.00,HTML/CSS,2.67,onet_tool,2,0,2,Cascading style sheets CSS; Hypertext markup language HTML
+Network Architect,15-1241.00,Git,2.67,onet_tool,2,0,2,Git; GitHub
+Network Architect,15-1241.00,R,2.55,onet_tool,0,5,5,Content filter software; Logical partition LPAR software; Online traffic calculator software; Packet filter software; Web browser software
+Network Architect,15-1241.00,Java,2.49,onet_tool,1,1,2,Oracle Java; Oracle Java Enterprise Edition EE
+Network Architect,15-1241.00,After Effects,2.4,onet_tool,1,0,1,Adobe After Effects
+Network Architect,15-1241.00,Kafka,2.4,onet_tool,1,0,1,Apache Kafka
+Network Architect,15-1241.00,Spark,2.4,onet_tool,1,0,1,Apache Spark
+Network Architect,15-1241.00,AutoCAD,2.4,onet_tool,1,0,1,Autodesk AutoCAD
+Network Architect,15-1241.00,C#,2.4,onet_tool,1,0,1,C#
+Network Architect,15-1241.00,C++,2.4,onet_tool,1,0,1,C++
+Network Architect,15-1241.00,SolidWorks,2.4,onet_tool,1,0,1,Dassault Systemes SolidWorks
+Network Architect,15-1241.00,Docker,2.4,onet_tool,1,0,1,Docker
+Network Architect,15-1241.00,Azure,2.4,onet_tool,1,0,1,Microsoft Azure software
+Network Architect,15-1241.00,Excel,2.4,onet_tool,1,0,1,Microsoft Excel
+Network Architect,15-1241.00,Node.js,2.4,onet_tool,1,0,1,Node.js
+Network Architect,15-1241.00,SAP/ERP,2.4,onet_tool,1,0,1,SAP software
+QA Analyst,15-1253.00,Software Testing,4.0,seed,0,0,0,
+QA Analyst,15-1253.00,Test Automation,4.0,seed+onet_tool,1,1,2,Appium; Selenium
+QA Analyst,15-1253.00,SQL,4.0,seed+onet_tool,10,1,11,Amazon Redshift; Microsoft SQL Server; Microsoft SQL Server Integration Services SSIS; Microsoft SQL Server Reporting Services SSRS; Microsoft transact-structural query language T-SQL; MySQL; Oracle Database; Oracle PL/SQL; PostgreSQL; Structured query language SQL; Transact-SQL
+QA Analyst,15-1253.00,Python,4.0,seed+onet_tool,1,1,2,Jupyter Notebook; Python
+QA Analyst,15-1253.00,Jira,4.0,seed+onet_tool,2,0,2,Atlassian Confluence; Atlassian JIRA
+QA Analyst,15-1253.00,Quality Control,4.0,seed,0,0,0,
+QA Analyst,15-1253.00,Agile/Scrum,4.0,seed,0,0,0,
+QA Analyst,15-1253.00,Linux,3.11,onet_tool,5,0,5,Linux; Red Hat Enterprise Linux; Shell script; UNIX; UNIX Shell
+QA Analyst,15-1253.00,NoSQL,3.04,onet_tool,4,1,5,Amazon DynamoDB; Apache Cassandra; Apache HBase; MongoDB; NoSQL
+QA Analyst,15-1253.00,JavaScript,2.95,onet_tool,3,2,5,Backbone.js; Ext JS; JavaScript; JavaScript Object Notation JSON; Node.js
+QA Analyst,15-1253.00,AWS,2.9,onet_tool,3,1,4,Amazon Elastic Compute Cloud EC2; Amazon Simple Storage Service S3; Amazon Web Services AWS CloudFormation; Amazon Web Services AWS software
+QA Analyst,15-1253.00,.NET,2.89,onet_tool,2,4,6,ADO.NET; Microsoft .NET Framework; Microsoft ASP.NET; Microsoft ASP.NET Core MVC; Microsoft Visual Basic.NET; Microsoft Visual C# .NET
+QA Analyst,15-1253.00,SAP/ERP,2.87,onet_tool,1,7,8,NetSuite ERP; SAP Adaptive Server Enterprise; SAP Business Intelligence; SAP Business Objects; SAP Crystal Reports; SAP NetWeaver; SAP PowerBuilder; SAP software
+QA Analyst,15-1253.00,Git,2.86,onet_tool,3,0,3,Git; GitHub; GitLab
+QA Analyst,15-1253.00,Java,2.73,onet_tool,2,1,3,Oracle Java; Oracle Java 2 Platform Enterprise Edition J2EE; YourKit Java Profiler
+QA Analyst,15-1253.00,Hadoop,2.67,onet_tool,2,0,2,Apache Hadoop; Apache Hive
+QA Analyst,15-1253.00,HTML/CSS,2.67,onet_tool,2,0,2,Cascading style sheets CSS; Hypertext markup language HTML
+QA Analyst,15-1253.00,R,2.62,onet_tool,0,6,6,File server software; Graphical user interface GUI builder software; SmartBear Software AutomatedQA TestComplete; Source code editor software; Web browser software; Web server software
+QA Analyst,15-1253.00,C#,2.49,onet_tool,1,1,2,C#; Microsoft Visual C# .NET
+QA Analyst,15-1253.00,Cisco,2.49,onet_tool,1,1,2,Cisco IOS; Cisco Webex
+QA Analyst,15-1253.00,Azure,2.49,onet_tool,1,1,2,Microsoft Azure DevOps Services; Microsoft Azure software
+QA Analyst,15-1253.00,PeopleSoft,2.49,onet_tool,1,1,2,Oracle PeopleSoft; Oracle PeopleSoft Financials
+QA Analyst,15-1253.00,Salesforce,2.49,onet_tool,1,1,2,Salesforce software; Salesforce Visualforce
+QA Analyst,15-1253.00,After Effects,2.4,onet_tool,1,0,1,Adobe After Effects
+QA Analyst,15-1253.00,Illustrator,2.4,onet_tool,1,0,1,Adobe Illustrator
+QA Analyst,15-1253.00,InDesign,2.4,onet_tool,1,0,1,Adobe InDesign
+QA Analyst,15-1253.00,Photoshop,2.4,onet_tool,1,0,1,Adobe Photoshop
+QA Analyst,15-1253.00,Kafka,2.4,onet_tool,1,0,1,Apache Kafka
+QA Analyst,15-1253.00,Spark,2.4,onet_tool,1,0,1,Apache Spark
+QA Analyst,15-1253.00,AutoCAD,2.4,onet_tool,1,0,1,Autodesk AutoCAD
+Industrial Engineer,17-2112.00,Industrial Engineering,4.0,seed,0,0,0,
+Industrial Engineer,17-2112.00,Lean/Six Sigma,4.0,seed,0,0,0,
+Industrial Engineer,17-2112.00,Quality Control,4.0,seed+onet_tool,0,1,1,Quality control software
+Industrial Engineer,17-2112.00,AutoCAD,4.0,seed+onet_tool,1,0,1,Autodesk AutoCAD
+Industrial Engineer,17-2112.00,MATLAB,4.0,seed+onet_tool,1,0,1,The MathWorks MATLAB
+Industrial Engineer,17-2112.00,Statistics,4.0,seed,0,0,0,
+Industrial Engineer,17-2112.00,Operations Management,4.0,seed,0,0,0,
+Industrial Engineer,17-2112.00,Supply Chain,4.0,seed+onet_tool,0,1,1,Supply chain capacity planning software
+Industrial Engineer,17-2112.00,Linux,2.86,onet_tool,3,0,3,Linux; Shell script; UNIX Shell
+Industrial Engineer,17-2112.00,SQL,2.67,onet_tool,2,0,2,Microsoft SQL Server; Structured query language SQL
+Industrial Engineer,17-2112.00,C++,2.4,onet_tool,1,0,1,C++
+Industrial Engineer,17-2112.00,SolidWorks,2.4,onet_tool,1,0,1,Dassault Systemes SolidWorks
+Industrial Engineer,17-2112.00,Git,2.4,onet_tool,1,0,1,GitHub
+Industrial Engineer,17-2112.00,Excel,2.4,onet_tool,1,0,1,Microsoft Excel
+Industrial Engineer,17-2112.00,Python,2.4,onet_tool,1,0,1,Python
+Industrial Engineer,17-2112.00,SAP/ERP,2.4,onet_tool,1,0,1,SAP software
+Industrial Engineer,17-2112.00,SAS,2.4,onet_tool,1,0,1,SAS
+Industrial Engineer,17-2112.00,Minitab,2.14,onet_tool,0,1,1,Minitab
+Industrial Engineer,17-2112.00,Deep Learning,2.14,onet_tool,0,1,1,Neural network modeling software
+Industrial Engineer,17-2112.00,Java,2.14,onet_tool,0,1,1,Sun Microsystems Java
+Industrial Engineer,17-2112.00,Translation,2.14,onet_tool,0,1,1,Three-dimensional simulation translation software
+Logistics Analyst,13-1081.02,Logistics,4.0,seed+onet_tool,0,2,2,Cadre Technologies Accuplus Integrated Distribution Logistics System; Oracle E-Business Suite Logistics
+Logistics Analyst,13-1081.02,Supply Chain,4.0,seed,0,0,0,
+Logistics Analyst,13-1081.02,SAP/ERP,4.0,seed+onet_tool,1,2,3,SAP Business Objects; SAP Crystal Reports; SAP software
+Logistics Analyst,13-1081.02,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+Logistics Analyst,13-1081.02,SQL,4.0,seed+onet_tool,3,0,3,Amazon Redshift; Microsoft SQL Server; Structured query language SQL
+Logistics Analyst,13-1081.02,Data Analysis,4.0,seed,0,0,0,
+Logistics Analyst,13-1081.02,Inventory Management,4.0,seed+onet_tool,0,2,2,Inventory control software; Inventory management systems
+Logistics Analyst,13-1081.02,Tableau,4.0,seed+onet_tool,1,0,1,Tableau
+Logistics Analyst,13-1081.02,PeopleSoft,2.49,onet_tool,1,1,2,Oracle PeopleSoft; Oracle PeopleSoft Financials
+Logistics Analyst,13-1081.02,Statistics,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Logistics Analyst,13-1081.02,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Logistics Analyst,13-1081.02,Power BI,2.4,onet_tool,1,0,1,Microsoft Power BI
+Logistics Analyst,13-1081.02,MATLAB,2.4,onet_tool,1,0,1,The MathWorks MATLAB
+Logistics Analyst,13-1081.02,Minitab,2.14,onet_tool,0,1,1,Minitab
+Logistics Analyst,13-1081.02,Stata,2.14,onet_tool,0,1,1,StataCorp Stata
+Budget Analyst,13-2031.00,Budgeting,4.0,seed+onet_tool,0,1,1,"Budgeting, forecasting, and planning software"
+Budget Analyst,13-2031.00,Financial Analysis,4.0,seed,0,0,0,
+Budget Analyst,13-2031.00,Accounting,4.0,seed+onet_tool,0,1,1,Fund accounting software
+Budget Analyst,13-2031.00,Forecasting,4.0,seed+onet_tool,0,1,1,"Budgeting, forecasting, and planning software"
+Budget Analyst,13-2031.00,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+Budget Analyst,13-2031.00,SAP/ERP,4.0,seed+onet_tool,1,6,7,Sage ERP Accpac; Sage MAS 200 ERP; Sage MAS 90 ERP; SAP Business One; SAP BusinessObjects Crystal Reports; SAP Crystal Xcelsius; SAP software
+Budget Analyst,13-2031.00,Data Analysis,4.0,seed,0,0,0,
+Budget Analyst,13-2031.00,QuickBooks/Sage,2.46,onet_tool,0,4,4,Sage Active Planner; Sage ERP Accpac; Sage MAS 200 ERP; Sage MAS 90 ERP
+Budget Analyst,13-2031.00,Power BI,2.4,onet_tool,1,0,1,Microsoft Power BI
+Budget Analyst,13-2031.00,SQL,2.4,onet_tool,1,0,1,Structured query language SQL
+Budget Analyst,13-2031.00,Performance Management,2.26,onet_tool,0,2,2,Business performance management BPM software; Oracle Performance Management Suites
+Budget Analyst,13-2031.00,PeopleSoft,2.26,onet_tool,0,2,2,Oracle PeopleSoft Enterprise; Oracle PeopleSoft Financials
+Budget Analyst,13-2031.00,.NET,2.14,onet_tool,0,1,1,Microsoft Visual Basic.NET
+Compensation Specialist,13-1141.00,Compensation,4.0,seed+onet_tool,0,1,1,VUE Compensation Management
+Compensation Specialist,13-1141.00,Benefits,4.0,seed+onet_tool,0,7,7,Ebenefits Solutions Benefits Management; SBC Systems Benefits Workstation; Stroud & Associates Employee Benefits Administration System; Virtual Benefits Administrator; Vitech Systems Group V3 Benefits Administration System; VUE Benefits Manager; Workscape Outsourced Employee Benefits Administration
+Compensation Specialist,13-1141.00,HRIS,4.0,seed+onet_tool,0,2,2,Human resource information system (HRIS); Oracle HRIS
+Compensation Specialist,13-1141.00,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+Compensation Specialist,13-1141.00,Statistics,4.0,seed+onet_tool,1,0,1,IBM SPSS Statistics
+Compensation Specialist,13-1141.00,Labor Law,4.0,seed,0,0,0,
+Compensation Specialist,13-1141.00,Performance Management,4.0,seed,0,0,0,
+Compensation Specialist,13-1141.00,SQL,2.67,onet_tool,2,0,2,Microsoft SQL Server; Structured query language SQL
+Compensation Specialist,13-1141.00,SAP/ERP,2.64,onet_tool,1,3,4,Lawson ERP; SAP Crystal Reports; SAP ERP Human Capital Management; SAP software
+Compensation Specialist,13-1141.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Compensation Specialist,13-1141.00,PeopleSoft,2.4,onet_tool,1,0,1,Oracle PeopleSoft
+Compensation Specialist,13-1141.00,SAS,2.4,onet_tool,1,0,1,SAS
+Compensation Specialist,13-1141.00,Workday,2.4,onet_tool,1,0,1,Workday software
+Compensation Specialist,13-1141.00,ADP,2.26,onet_tool,0,2,2,ADP Enterprise eTIME; ADP Workforce Now
+Compensation Specialist,13-1141.00,QuickBooks/Sage,2.14,onet_tool,0,1,1,Sage HRMS
+Training Specialist,13-1151.00,Training & Development,4.0,seed+onet_tool,0,3,3,GeoMetrix Data Systems Training Partner; PRO-ductivity Systems Compliance Training Manager Web; RISC Virtual Training Assistant
+Training Specialist,13-1151.00,Instructional Design,4.0,seed,0,0,0,
+Training Specialist,13-1151.00,LMS,4.0,seed+onet_tool,0,15,15,Beeline Learning Management System LMS; Blackboard software; Blatant Media Absorb LMS; G-Cube Solutions Wizdom Web LMS; Learn HQ Activate LMS; Learning management system LMS; Moodle; Pathlore LMS; Plateau Learning Management System LMS; techniques.org knowledgeWorks LMS; Telania eLeaP Learning Management System LMS/LCMS; The Human Equation InSite LMS; TrainCaster LMS; TrainOnTrack Learning Management System LMS; Ziiva Prosperity LMS
+Training Specialist,13-1151.00,Communication,4.0,seed,0,0,0,
+Training Specialist,13-1151.00,Education/Curriculum Design,4.0,seed+onet_tool,0,1,1,Common Curriculum
+Training Specialist,13-1151.00,Excel,4.0,seed+onet_tool,1,0,1,Microsoft Excel
+Training Specialist,13-1151.00,SQL,2.67,onet_tool,2,0,2,MySQL; Oracle PL/SQL
+Training Specialist,13-1151.00,JavaScript,2.49,onet_tool,1,1,2,Backbone.js; JavaScript
+Training Specialist,13-1151.00,PeopleSoft,2.49,onet_tool,1,1,2,Oracle PeopleSoft; Oracle PeopleSoft Financials
+Training Specialist,13-1151.00,After Effects,2.4,onet_tool,1,0,1,Adobe After Effects
+Training Specialist,13-1151.00,Illustrator,2.4,onet_tool,1,0,1,Adobe Illustrator
+Training Specialist,13-1151.00,InDesign,2.4,onet_tool,1,0,1,Adobe InDesign
+Training Specialist,13-1151.00,Photoshop,2.4,onet_tool,1,0,1,Adobe Photoshop
+Training Specialist,13-1151.00,Cisco,2.4,onet_tool,1,0,1,Cisco Webex
+Training Specialist,13-1151.00,HTML/CSS,2.4,onet_tool,1,0,1,Hypertext markup language HTML
+Training Specialist,13-1151.00,Statistics,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Training Specialist,13-1151.00,SPSS,2.4,onet_tool,1,0,1,IBM SPSS Statistics
+Training Specialist,13-1151.00,SAP/ERP,2.4,onet_tool,1,0,1,SAP software
+Training Specialist,13-1151.00,Cloud Computing,2.14,onet_tool,0,1,1,Citrix cloud computing software
+Training Specialist,13-1151.00,R,2.14,onet_tool,0,1,1,Web browser software

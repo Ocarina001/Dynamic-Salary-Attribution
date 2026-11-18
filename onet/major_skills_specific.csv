@@ -1,0 +1,1018 @@
+major,skill,weight,source,n_evidence
+人力资源管理专业（大数据应用）,Accounting,1.0,curriculum,30
+人力资源管理专业（大数据应用）,Compensation,1.0,curriculum,36
+人力资源管理专业（大数据应用）,Data Visualization,1.0,curriculum,28
+人力资源管理专业（大数据应用）,Legal Research,1.0,curriculum,21
+人力资源管理专业（大数据应用）,Marketing,1.0,curriculum,29
+人力资源管理专业（大数据应用）,Statistics,1.0,curriculum,50
+人力资源管理专业（大数据应用）,Communication,0.999,curriculum,19
+人力资源管理专业（大数据应用）,Data Analysis,0.966,curriculum,15
+人力资源管理专业（大数据应用）,Labor Law,0.966,curriculum,15
+人力资源管理专业（大数据应用）,Recruitment,0.946,curriculum,13
+人力资源管理专业（大数据应用）,Operations Management,0.935,curriculum,12
+人力资源管理专业（大数据应用）,Psychology,0.935,curriculum,12
+人力资源管理专业（大数据应用）,Writing,0.935,curriculum,12
+人力资源管理专业（大数据应用）,Project Management,0.91,curriculum,10
+人力资源管理专业（大数据应用）,Research Methods,0.895,curriculum,9
+人力资源管理专业（大数据应用）,Data Structures & Algorithms,0.862,curriculum,7
+人力资源管理专业（大数据应用）,Financial Analysis,0.862,curriculum,7
+人力资源管理专业（大数据应用）,Leadership,0.842,curriculum,6
+人力资源管理专业（大数据应用）,Risk Management,0.842,curriculum,6
+人力资源管理专业（大数据应用）,Logistics,0.819,curriculum,5
+人力资源管理专业（大数据应用）,Budgeting,0.791,curriculum,4
+人力资源管理专业（大数据应用）,Business Analysis,0.791,curriculum,4
+人力资源管理专业（大数据应用）,Cross-Cultural Communication,0.791,curriculum,4
+人力资源管理专业（大数据应用）,Python,0.791,curriculum,4
+人力资源管理专业（大数据应用）,Training & Development,0.791,curriculum,4
+人力资源管理专业（大数据应用）,Management of Personnel Resources,0.45,generic,0
+人力资源管理专业（大数据应用）,Complex Problem Solving,0.4,generic,0
+人力资源管理专业（大数据应用）,Coordination,0.375,generic,0
+人力资源管理专业（大数据应用）,Critical Thinking,0.375,generic,0
+人力资源管理专业（大数据应用）,Judgment and Decision Making,0.35,generic,0
+人力资源管理专业（大数据应用）,Mathematics,0.35,generic,0
+人工智能,Statistics,0.935,curriculum,12
+人工智能,Data Structures & Algorithms,0.923,curriculum,11
+人工智能,Network Engineering,0.895,curriculum,9
+人工智能,SQL,0.88,curriculum,8
+人工智能,Data Visualization,0.842,curriculum,6
+人工智能,NLP,0.842,curriculum,6
+人工智能,Computer Vision,0.791,curriculum,4
+人工智能,Data Analysis,0.791,curriculum,4
+人工智能,Deep Learning,0.791,curriculum,4
+人工智能,Java,0.791,curriculum,4
+人工智能,Machine Learning,0.791,curriculum,4
+人工智能,Python,0.791,curriculum,4
+人工智能,HTML/CSS,0.758,curriculum,3
+人工智能,Linux,0.758,curriculum,3
+人工智能,Communication,0.715,curriculum,2
+人工智能,Software Engineering,0.715,curriculum,2
+人工智能,Archival Research,0.654,curriculum,1
+人工智能,Legal Research,0.654,curriculum,1
+人工智能,Programming,0.475,generic,0
+人工智能,Mathematics,0.45,generic,0
+人工智能,Complex Problem Solving,0.425,generic,0
+人工智能,Active Learning,0.4,generic,0
+人工智能,Technology Design,0.4,generic,0
+人工智能,Critical Thinking,0.375,generic,0
+人工智能,Systems Analysis,0.375,generic,0
+人工智能,Learning Strategies,0.35,generic,0
+会计学,Accounting,1.0,curriculum,183
+会计学,Auditing,1.0,curriculum,55
+会计学,Data Visualization,1.0,curriculum,24
+会计学,Statistics,1.0,curriculum,53
+会计学,Tax,1.0,curriculum,26
+会计学,Legal Research,0.999,curriculum,19
+会计学,Research Methods,0.91,curriculum,10
+会计学,Writing,0.895,curriculum,9
+会计学,Financial Analysis,0.88,curriculum,8
+会计学,Marketing,0.88,curriculum,8
+会计学,Budgeting,0.862,curriculum,7
+会计学,Project Management,0.862,curriculum,7
+会计学,Communication,0.842,curriculum,6
+会计学,Data Structures & Algorithms,0.819,curriculum,5
+会计学,Risk Management,0.819,curriculum,5
+会计学,Deep Learning,0.791,curriculum,4
+会计学,Python,0.791,curriculum,4
+会计学,Data Analysis,0.758,curriculum,3
+会计学,SQL,0.758,curriculum,3
+会计学,Forecasting,0.715,curriculum,2
+会计学,Logistics,0.715,curriculum,2
+会计学,Operations Management,0.715,curriculum,2
+会计学,QuickBooks/Sage,0.715,curriculum,2
+会计学,SAP/ERP,0.715,curriculum,2
+会计学,Archival Research,0.654,curriculum,1
+会计学,Mathematics,0.45,generic,0
+会计学,Critical Thinking,0.4,generic,0
+会计学,Judgment and Decision Making,0.4,generic,0
+会计学,Complex Problem Solving,0.375,generic,0
+会计学,Reading Comprehension,0.35,generic,0
+会计学,Active Learning,0.325,generic,0
+会计学,Speaking,0.325,generic,0
+俄语专业（涉外油气勘查人才实验班）,Instructional Design,0.88,curriculum,8
+俄语专业（涉外油气勘查人才实验班）,Editing/Proofreading,0.758,curriculum,3
+俄语专业（涉外油气勘查人才实验班）,Interpretation,0.758,curriculum,3
+俄语专业（涉外油气勘查人才实验班）,Communication,0.715,curriculum,2
+俄语专业（涉外油气勘查人才实验班）,Statistics,0.715,curriculum,2
+俄语专业（涉外油气勘查人才实验班）,Survey Design,0.715,curriculum,2
+俄语专业（涉外油气勘查人才实验班）,Cross-Cultural Communication,0.654,curriculum,1
+俄语专业（涉外油气勘查人才实验班）,Operations Management,0.654,curriculum,1
+俄语专业（涉外油气勘查人才实验班）,Project Management,0.654,curriculum,1
+俄语专业（涉外油气勘查人才实验班）,Translation,0.654,curriculum,1
+俄语专业（涉外油气勘查人才实验班）,Reading Comprehension,0.45,generic,0
+俄语专业（涉外油气勘查人才实验班）,Speaking,0.45,generic,0
+俄语专业（涉外油气勘查人才实验班）,Active Listening,0.425,generic,0
+俄语专业（涉外油气勘查人才实验班）,Science,0.425,generic,0
+俄语专业（涉外油气勘查人才实验班）,Complex Problem Solving,0.4,generic,0
+俄语专业（涉外油气勘查人才实验班）,Writing,0.4,generic,0
+俄语专业（涉外油气勘查人才实验班）,Coordination,0.375,generic,0
+俄语专业（涉外油气勘查人才实验班）,Critical Thinking,0.375,generic,0
+俄语专业（涉外油气勘查人才实验班）,Judgment and Decision Making,0.375,generic,0
+俄语专业（涉外油气勘查人才实验班）,Active Learning,0.35,generic,0
+印度尼西亚语专业（印英复语）,Translation,1.0,curriculum,32
+印度尼西亚语专业（印英复语）,Writing,1.0,curriculum,29
+印度尼西亚语专业（印英复语）,Interpretation,0.895,curriculum,9
+印度尼西亚语专业（印英复语）,Communication,0.819,curriculum,5
+印度尼西亚语专业（印英复语）,Cross-Cultural Communication,0.715,curriculum,2
+印度尼西亚语专业（印英复语）,Literature Research,0.654,curriculum,1
+印度尼西亚语专业（印英复语）,Reading Comprehension,0.45,generic,0
+印度尼西亚语专业（印英复语）,Speaking,0.45,generic,0
+印度尼西亚语专业（印英复语）,Active Listening,0.425,generic,0
+印度尼西亚语专业（印英复语）,Active Learning,0.375,generic,0
+印度尼西亚语专业（印英复语）,Critical Thinking,0.35,generic,0
+印度尼西亚语专业（印英复语）,Learning Strategies,0.35,generic,0
+印度尼西亚语专业（印英复语）,Social Perceptiveness,0.35,generic,0
+印度尼西亚语专业（印英复语）,Complex Problem Solving,0.325,generic,0
+印度尼西亚语专业（印英复语）,Persuasion,0.3,generic,0
+古典文献学,Literature Research,1.0,curriculum,72
+古典文献学,Writing,0.992,curriculum,18
+古典文献学,Archival Research,0.91,curriculum,10
+古典文献学,Editing/Proofreading,0.862,curriculum,7
+古典文献学,Legal Research,0.791,curriculum,4
+古典文献学,SQL,0.791,curriculum,4
+古典文献学,Research Methods,0.758,curriculum,3
+古典文献学,Communication,0.715,curriculum,2
+古典文献学,Education/Curriculum Design,0.654,curriculum,1
+古典文献学,Psychology,0.654,curriculum,1
+古典文献学,Reading Comprehension,0.475,generic,0
+古典文献学,Critical Thinking,0.425,generic,0
+古典文献学,Active Learning,0.4,generic,0
+古典文献学,Speaking,0.4,generic,0
+古典文献学,Learning Strategies,0.375,generic,0
+古典文献学,Complex Problem Solving,0.35,generic,0
+古典文献学,Judgment and Decision Making,0.35,generic,0
+古典文献学,Coordination,0.25,generic,0
+古典文献学,Social Perceptiveness,0.225,generic,0
+听力与言语康复学,Communication,1.0,curriculum,38
+听力与言语康复学,Psychology,1.0,curriculum,42
+听力与言语康复学,Statistics,1.0,curriculum,32
+听力与言语康复学,Legal Research,0.88,curriculum,8
+听力与言语康复学,Data Analysis,0.819,curriculum,5
+听力与言语康复学,Education/Curriculum Design,0.819,curriculum,5
+听力与言语康复学,Psychological Assessment,0.819,curriculum,5
+听力与言语康复学,Research Methods,0.819,curriculum,5
+听力与言语康复学,Counseling,0.758,curriculum,3
+听力与言语康复学,MATLAB,0.758,curriculum,3
+听力与言语康复学,Machine Learning,0.715,curriculum,2
+听力与言语康复学,SQL,0.715,curriculum,2
+听力与言语康复学,Archival Research,0.654,curriculum,1
+听力与言语康复学,Data Structures & Algorithms,0.654,curriculum,1
+听力与言语康复学,Instructional Design,0.654,curriculum,1
+听力与言语康复学,Linux,0.654,curriculum,1
+听力与言语康复学,Network Engineering,0.654,curriculum,1
+听力与言语康复学,Python,0.654,curriculum,1
+听力与言语康复学,SPSS,0.654,curriculum,1
+听力与言语康复学,Software Engineering,0.654,curriculum,1
+听力与言语康复学,Writing,0.654,curriculum,1
+听力与言语康复学,Active Listening,0.45,generic,0
+听力与言语康复学,Service Orientation,0.45,generic,0
+听力与言语康复学,Complex Problem Solving,0.425,generic,0
+听力与言语康复学,Critical Thinking,0.425,generic,0
+听力与言语康复学,Social Perceptiveness,0.425,generic,0
+听力与言语康复学,Speaking,0.425,generic,0
+听力与言语康复学,Active Learning,0.4,generic,0
+听力与言语康复学,Judgment and Decision Making,0.4,generic,0
+听力与言语康复学,Reading Comprehension,0.4,generic,0
+听力与言语康复学,Science,0.4,generic,0
+商务英语,Communication,1.0,curriculum,58
+商务英语,Translation,1.0,curriculum,31
+商务英语,Writing,1.0,curriculum,35
+商务英语,Statistics,0.999,curriculum,19
+商务英语,Accounting,0.956,curriculum,14
+商务英语,Marketing,0.935,curriculum,12
+商务英语,Cross-Cultural Communication,0.923,curriculum,11
+商务英语,Interpretation,0.923,curriculum,11
+商务英语,Logistics,0.819,curriculum,5
+商务英语,Legal Research,0.791,curriculum,4
+商务英语,Research Methods,0.758,curriculum,3
+商务英语,SQL,0.758,curriculum,3
+商务英语,CRM,0.654,curriculum,1
+商务英语,Content Marketing,0.654,curriculum,1
+商务英语,Excel,0.654,curriculum,1
+商务英语,Financial Analysis,0.654,curriculum,1
+商务英语,Forecasting,0.654,curriculum,1
+商务英语,International Relations,0.654,curriculum,1
+商务英语,Minitab,0.654,curriculum,1
+商务英语,Operations Management,0.654,curriculum,1
+商务英语,Psychology,0.654,curriculum,1
+商务英语,Recruitment,0.654,curriculum,1
+商务英语,Risk Management,0.654,curriculum,1
+商务英语,Social Media Marketing,0.654,curriculum,1
+商务英语,Supply Chain,0.654,curriculum,1
+商务英语,Reading Comprehension,0.45,generic,0
+商务英语,Speaking,0.45,generic,0
+商务英语,Critical Thinking,0.425,generic,0
+商务英语,Active Learning,0.4,generic,0
+商务英语,Complex Problem Solving,0.4,generic,0
+商务英语,Active Listening,0.375,generic,0
+商务英语,Judgment and Decision Making,0.375,generic,0
+商务英语,Persuasion,0.375,generic,0
+商务英语,Social Perceptiveness,0.375,generic,0
+国际事务与国际关系,Communication,1.0,curriculum,33
+国际事务与国际关系,Cross-Cultural Communication,1.0,curriculum,25
+国际事务与国际关系,International Relations,1.0,curriculum,211
+国际事务与国际关系,Legal Research,1.0,curriculum,30
+国际事务与国际关系,Policy Analysis,1.0,curriculum,20
+国际事务与国际关系,Writing,0.999,curriculum,19
+国际事务与国际关系,Research Methods,0.946,curriculum,13
+国际事务与国际关系,Psychology,0.935,curriculum,12
+国际事务与国际关系,Archival Research,0.842,curriculum,6
+国际事务与国际关系,Content Marketing,0.715,curriculum,2
+国际事务与国际关系,Literature Research,0.715,curriculum,2
+国际事务与国际关系,Forecasting,0.654,curriculum,1
+国际事务与国际关系,Training & Development,0.654,curriculum,1
+国际事务与国际关系,Critical Thinking,0.475,generic,0
+国际事务与国际关系,Reading Comprehension,0.45,generic,0
+国际事务与国际关系,Complex Problem Solving,0.425,generic,0
+国际事务与国际关系,Negotiation,0.425,generic,0
+国际事务与国际关系,Speaking,0.425,generic,0
+国际事务与国际关系,Active Learning,0.4,generic,0
+国际事务与国际关系,Judgment and Decision Making,0.4,generic,0
+国际事务与国际关系,Persuasion,0.4,generic,0
+国际事务与国际关系,Social Perceptiveness,0.4,generic,0
+国际政治,Communication,1.0,curriculum,31
+国际政治,Cross-Cultural Communication,1.0,curriculum,20
+国际政治,International Relations,1.0,curriculum,234
+国际政治,Legal Research,1.0,curriculum,33
+国际政治,Archival Research,0.946,curriculum,13
+国际政治,Cybersecurity,0.946,curriculum,13
+国际政治,Policy Analysis,0.935,curriculum,12
+国际政治,Research Methods,0.91,curriculum,10
+国际政治,SQL,0.715,curriculum,2
+国际政治,Writing,0.715,curriculum,2
+国际政治,Forecasting,0.654,curriculum,1
+国际政治,Literature Research,0.654,curriculum,1
+国际政治,Psychology,0.654,curriculum,1
+国际政治,Training & Development,0.654,curriculum,1
+国际政治,Critical Thinking,0.45,generic,0
+国际政治,Complex Problem Solving,0.425,generic,0
+国际政治,Reading Comprehension,0.425,generic,0
+国际政治,Judgment and Decision Making,0.4,generic,0
+国际政治,Negotiation,0.4,generic,0
+国际政治,Speaking,0.4,generic,0
+国际政治,Systems Analysis,0.4,generic,0
+国际政治,Active Learning,0.375,generic,0
+国际政治,Social Perceptiveness,0.375,generic,0
+国际组织与全球治理,Communication,1.0,curriculum,25
+国际组织与全球治理,Cross-Cultural Communication,1.0,curriculum,23
+国际组织与全球治理,International Relations,1.0,curriculum,117
+国际组织与全球治理,Psychology,0.966,curriculum,15
+国际组织与全球治理,Archival Research,0.946,curriculum,13
+国际组织与全球治理,Policy Analysis,0.923,curriculum,11
+国际组织与全球治理,Research Methods,0.88,curriculum,8
+国际组织与全球治理,Legal Research,0.791,curriculum,4
+国际组织与全球治理,Literature Research,0.715,curriculum,2
+国际组织与全球治理,SQL,0.715,curriculum,2
+国际组织与全球治理,Statistics,0.715,curriculum,2
+国际组织与全球治理,Training & Development,0.715,curriculum,2
+国际组织与全球治理,Writing,0.715,curriculum,2
+国际组织与全球治理,Content Marketing,0.654,curriculum,1
+国际组织与全球治理,Psychological Assessment,0.654,curriculum,1
+国际组织与全球治理,Translation,0.654,curriculum,1
+国际组织与全球治理,Complex Problem Solving,0.45,generic,0
+国际组织与全球治理,Critical Thinking,0.45,generic,0
+国际组织与全球治理,Negotiation,0.45,generic,0
+国际组织与全球治理,Persuasion,0.45,generic,0
+国际组织与全球治理,Social Perceptiveness,0.45,generic,0
+国际组织与全球治理,Speaking,0.45,generic,0
+国际组织与全球治理,Active Learning,0.4,generic,0
+国际组织与全球治理,Active Listening,0.4,generic,0
+国际组织与全球治理,Reading Comprehension,0.4,generic,0
+国际经济与贸易,Accounting,1.0,curriculum,29
+国际经济与贸易,Communication,1.0,curriculum,22
+国际经济与贸易,Marketing,1.0,curriculum,28
+国际经济与贸易,Statistics,1.0,curriculum,58
+国际经济与贸易,Legal Research,0.975,curriculum,16
+国际经济与贸易,Supply Chain,0.966,curriculum,15
+国际经济与贸易,Research Methods,0.91,curriculum,10
+国际经济与贸易,Writing,0.91,curriculum,10
+国际经济与贸易,Logistics,0.895,curriculum,9
+国际经济与贸易,Risk Management,0.862,curriculum,7
+国际经济与贸易,Project Management,0.842,curriculum,6
+国际经济与贸易,Budgeting,0.819,curriculum,5
+国际经济与贸易,Financial Analysis,0.791,curriculum,4
+国际经济与贸易,Forecasting,0.791,curriculum,4
+国际经济与贸易,Python,0.791,curriculum,4
+国际经济与贸易,Data Structures & Algorithms,0.758,curriculum,3
+国际经济与贸易,SQL,0.758,curriculum,3
+国际经济与贸易,Inventory Management,0.715,curriculum,2
+国际经济与贸易,Tax,0.715,curriculum,2
+国际经济与贸易,CRM,0.654,curriculum,1
+国际经济与贸易,Cross-Cultural Communication,0.654,curriculum,1
+国际经济与贸易,Data Analysis,0.654,curriculum,1
+国际经济与贸易,Financial Modeling,0.654,curriculum,1
+国际经济与贸易,International Relations,0.654,curriculum,1
+国际经济与贸易,Leadership,0.654,curriculum,1
+国际经济与贸易,Mathematics,0.45,generic,0
+国际经济与贸易,Critical Thinking,0.4,generic,0
+国际经济与贸易,Negotiation,0.4,generic,0
+国际经济与贸易,Reading Comprehension,0.4,generic,0
+国际经济与贸易,Speaking,0.4,generic,0
+国际经济与贸易,Active Listening,0.35,generic,0
+国际经济与贸易,Judgment and Decision Making,0.35,generic,0
+德语专业（涉外林业工程人才实验班）,Instructional Design,0.819,curriculum,5
+德语专业（涉外林业工程人才实验班）,AutoCAD,0.791,curriculum,4
+德语专业（涉外林业工程人才实验班）,Editing/Proofreading,0.758,curriculum,3
+德语专业（涉外林业工程人才实验班）,Translation,0.758,curriculum,3
+德语专业（涉外林业工程人才实验班）,Writing,0.758,curriculum,3
+德语专业（涉外林业工程人才实验班）,Communication,0.715,curriculum,2
+德语专业（涉外林业工程人才实验班）,Cross-Cultural Communication,0.654,curriculum,1
+德语专业（涉外林业工程人才实验班）,Interpretation,0.654,curriculum,1
+德语专业（涉外林业工程人才实验班）,Operations Management,0.654,curriculum,1
+德语专业（涉外林业工程人才实验班）,Research Methods,0.654,curriculum,1
+德语专业（涉外林业工程人才实验班）,Speaking,0.45,generic,0
+德语专业（涉外林业工程人才实验班）,Active Listening,0.425,generic,0
+德语专业（涉外林业工程人才实验班）,Complex Problem Solving,0.425,generic,0
+德语专业（涉外林业工程人才实验班）,Reading Comprehension,0.425,generic,0
+德语专业（涉外林业工程人才实验班）,Science,0.425,generic,0
+德语专业（涉外林业工程人才实验班）,Active Learning,0.4,generic,0
+德语专业（涉外林业工程人才实验班）,Coordination,0.4,generic,0
+德语专业（涉外林业工程人才实验班）,Operations Analysis,0.4,generic,0
+德语专业（涉外林业工程人才实验班）,Social Perceptiveness,0.4,generic,0
+心理学,Psychology,1.0,curriculum,260
+心理学,Research Methods,1.0,curriculum,21
+心理学,Statistics,1.0,curriculum,32
+心理学,Psychological Assessment,0.984,curriculum,17
+心理学,Writing,0.935,curriculum,12
+心理学,Counseling,0.923,curriculum,11
+心理学,Communication,0.862,curriculum,7
+心理学,Data Analysis,0.758,curriculum,3
+心理学,Instructional Design,0.715,curriculum,2
+心理学,Training & Development,0.715,curriculum,2
+心理学,Archival Research,0.654,curriculum,1
+心理学,Data Visualization,0.654,curriculum,1
+心理学,Education/Curriculum Design,0.654,curriculum,1
+心理学,Legal Research,0.654,curriculum,1
+心理学,Translation,0.654,curriculum,1
+心理学,Critical Thinking,0.45,generic,0
+心理学,Complex Problem Solving,0.425,generic,0
+心理学,Social Perceptiveness,0.425,generic,0
+心理学,Active Learning,0.4,generic,0
+心理学,Reading Comprehension,0.4,generic,0
+心理学,Science,0.4,generic,0
+心理学,Speaking,0.4,generic,0
+意大利语,Translation,1.0,curriculum,22
+意大利语,Writing,1.0,curriculum,34
+意大利语,Interpretation,0.923,curriculum,11
+意大利语,Communication,0.862,curriculum,7
+意大利语,Cross-Cultural Communication,0.842,curriculum,6
+意大利语,Research Methods,0.758,curriculum,3
+意大利语,Editing/Proofreading,0.715,curriculum,2
+意大利语,Literature Research,0.715,curriculum,2
+意大利语,Routing/Switching,0.654,curriculum,1
+意大利语,Speaking,0.475,generic,0
+意大利语,Reading Comprehension,0.45,generic,0
+意大利语,Active Listening,0.425,generic,0
+意大利语,Active Learning,0.4,generic,0
+意大利语,Critical Thinking,0.4,generic,0
+意大利语,Learning Strategies,0.375,generic,0
+意大利语,Complex Problem Solving,0.35,generic,0
+意大利语,Social Perceptiveness,0.35,generic,0
+播音与主持艺术（中英双语）,Communication,1.0,curriculum,31
+播音与主持艺术（中英双语）,Writing,1.0,curriculum,30
+播音与主持艺术（中英双语）,International Relations,0.975,curriculum,16
+播音与主持艺术（中英双语）,Cross-Cultural Communication,0.923,curriculum,11
+播音与主持艺术（中英双语）,Translation,0.862,curriculum,7
+播音与主持艺术（中英双语）,CAT Tools,0.758,curriculum,3
+播音与主持艺术（中英双语）,Editing/Proofreading,0.758,curriculum,3
+播音与主持艺术（中英双语）,Instructional Design,0.758,curriculum,3
+播音与主持艺术（中英双语）,Content Marketing,0.654,curriculum,1
+播音与主持艺术（中英双语）,Data Analysis,0.654,curriculum,1
+播音与主持艺术（中英双语）,Legal Research,0.654,curriculum,1
+播音与主持艺术（中英双语）,Literature Research,0.654,curriculum,1
+播音与主持艺术（中英双语）,Project Management,0.654,curriculum,1
+播音与主持艺术（中英双语）,Statistics,0.654,curriculum,1
+播音与主持艺术（中英双语）,Speaking,0.49,generic,0
+播音与主持艺术（中英双语）,Reading Comprehension,0.425,generic,0
+播音与主持艺术（中英双语）,Active Listening,0.4,generic,0
+播音与主持艺术（中英双语）,Critical Thinking,0.4,generic,0
+播音与主持艺术（中英双语）,Persuasion,0.4,generic,0
+播音与主持艺术（中英双语）,Social Perceptiveness,0.4,generic,0
+播音与主持艺术（中英双语）,Active Learning,0.375,generic,0
+播音与主持艺术（中英双语）,Coordination,0.375,generic,0
+播音与主持艺术（中英双语）,Complex Problem Solving,0.35,generic,0
+数字媒体技术,Data Structures & Algorithms,0.999,curriculum,19
+数字媒体技术,Statistics,0.956,curriculum,14
+数字媒体技术,SQL,0.88,curriculum,8
+数字媒体技术,Machine Learning,0.819,curriculum,5
+数字媒体技术,Network Engineering,0.791,curriculum,4
+数字媒体技术,Python,0.791,curriculum,4
+数字媒体技术,Communication,0.758,curriculum,3
+数字媒体技术,NLP,0.758,curriculum,3
+数字媒体技术,Computer Vision,0.715,curriculum,2
+数字媒体技术,Data Visualization,0.715,curriculum,2
+数字媒体技术,Linux,0.715,curriculum,2
+数字媒体技术,Data Analysis,0.654,curriculum,1
+数字媒体技术,Legal Research,0.654,curriculum,1
+数字媒体技术,Software Engineering,0.654,curriculum,1
+数字媒体技术,Programming,0.475,generic,0
+数字媒体技术,Mathematics,0.425,generic,0
+数字媒体技术,Technology Design,0.425,generic,0
+数字媒体技术,Complex Problem Solving,0.4,generic,0
+数字媒体技术,Systems Analysis,0.375,generic,0
+数字媒体技术,Active Learning,0.35,generic,0
+数字媒体技术,Critical Thinking,0.35,generic,0
+数字媒体技术,Judgment and Decision Making,0.325,generic,0
+数据科学与大数据技术,Accounting,1.0,curriculum,21
+数据科学与大数据技术,Data Analysis,1.0,curriculum,31
+数据科学与大数据技术,Data Structures & Algorithms,1.0,curriculum,107
+数据科学与大数据技术,Data Visualization,1.0,curriculum,47
+数据科学与大数据技术,Deep Learning,1.0,curriculum,20
+数据科学与大数据技术,SQL,1.0,curriculum,44
+数据科学与大数据技术,Statistics,1.0,curriculum,86
+数据科学与大数据技术,NLP,0.999,curriculum,19
+数据科学与大数据技术,Linux,0.992,curriculum,18
+数据科学与大数据技术,Machine Learning,0.992,curriculum,18
+数据科学与大数据技术,Marketing,0.984,curriculum,17
+数据科学与大数据技术,Network Engineering,0.984,curriculum,17
+数据科学与大数据技术,Computer Vision,0.966,curriculum,15
+数据科学与大数据技术,Systems Analysis,0.923,curriculum,11
+数据科学与大数据技术,Editing/Proofreading,0.91,curriculum,10
+数据科学与大数据技术,HTML/CSS,0.91,curriculum,10
+数据科学与大数据技术,Python,0.88,curriculum,8
+数据科学与大数据技术,Software Engineering,0.88,curriculum,8
+数据科学与大数据技术,C,0.842,curriculum,6
+数据科学与大数据技术,Data Warehousing,0.842,curriculum,6
+数据科学与大数据技术,Java,0.819,curriculum,5
+数据科学与大数据技术,Project Management,0.819,curriculum,5
+数据科学与大数据技术,C++,0.791,curriculum,4
+数据科学与大数据技术,Budgeting,0.758,curriculum,3
+数据科学与大数据技术,Communication,0.758,curriculum,3
+数据科学与大数据技术,Programming,0.475,generic,0
+数据科学与大数据技术,Databases,0.45,generic,0
+数据科学与大数据技术,Mathematics,0.45,generic,0
+数据科学与大数据技术,Complex Problem Solving,0.425,generic,0
+数据科学与大数据技术,Critical Thinking,0.4,generic,0
+新闻学（国际出版）,Editing/Proofreading,1.0,curriculum,31
+新闻学（国际出版）,Marketing,1.0,curriculum,21
+新闻学（国际出版）,Research Methods,1.0,curriculum,22
+新闻学（国际出版）,Communication,0.895,curriculum,9
+新闻学（国际出版）,Writing,0.819,curriculum,5
+新闻学（国际出版）,Content Marketing,0.791,curriculum,4
+新闻学（国际出版）,Data Visualization,0.791,curriculum,4
+新闻学（国际出版）,HTML/CSS,0.791,curriculum,4
+新闻学（国际出版）,Translation,0.791,curriculum,4
+新闻学（国际出版）,JavaScript,0.715,curriculum,2
+新闻学（国际出版）,Legal Research,0.715,curriculum,2
+新闻学（国际出版）,Logistics,0.715,curriculum,2
+新闻学（国际出版）,Qualitative Research,0.715,curriculum,2
+新闻学（国际出版）,CRM,0.654,curriculum,1
+新闻学（国际出版）,Psychology,0.654,curriculum,1
+新闻学（国际出版）,Supply Chain,0.654,curriculum,1
+新闻学（国际出版）,Video Editing,0.654,curriculum,1
+新闻学（国际出版）,Critical Thinking,0.425,generic,0
+新闻学（国际出版）,Active Learning,0.4,generic,0
+新闻学（国际出版）,Complex Problem Solving,0.4,generic,0
+新闻学（国际出版）,Judgment and Decision Making,0.4,generic,0
+新闻学（国际出版）,Reading Comprehension,0.4,generic,0
+新闻学（国际出版）,Speaking,0.4,generic,0
+新闻学（国际出版）,Coordination,0.375,generic,0
+新闻学（国际出版）,Social Perceptiveness,0.375,generic,0
+新闻学（国际出版）,Learning Strategies,0.35,generic,0
+新闻学（国际新闻）,Communication,1.0,curriculum,21
+新闻学（国际新闻）,Editing/Proofreading,1.0,curriculum,29
+新闻学（国际新闻）,Writing,1.0,curriculum,23
+新闻学（国际新闻）,Research Methods,0.992,curriculum,18
+新闻学（国际新闻）,Content Marketing,0.842,curriculum,6
+新闻学（国际新闻）,International Relations,0.819,curriculum,5
+新闻学（国际新闻）,Legal Research,0.791,curriculum,4
+新闻学（国际新闻）,Translation,0.791,curriculum,4
+新闻学（国际新闻）,Education/Curriculum Design,0.758,curriculum,3
+新闻学（国际新闻）,Marketing,0.758,curriculum,3
+新闻学（国际新闻）,Cross-Cultural Communication,0.715,curriculum,2
+新闻学（国际新闻）,Data Visualization,0.715,curriculum,2
+新闻学（国际新闻）,Market Research,0.715,curriculum,2
+新闻学（国际新闻）,Qualitative Research,0.715,curriculum,2
+新闻学（国际新闻）,Video Editing,0.654,curriculum,1
+新闻学（国际新闻）,Critical Thinking,0.45,generic,0
+新闻学（国际新闻）,Speaking,0.425,generic,0
+新闻学（国际新闻）,Complex Problem Solving,0.4,generic,0
+新闻学（国际新闻）,Reading Comprehension,0.4,generic,0
+新闻学（国际新闻）,Social Perceptiveness,0.4,generic,0
+新闻学（国际新闻）,Active Learning,0.375,generic,0
+新闻学（国际新闻）,Active Listening,0.375,generic,0
+新闻学（国际新闻）,Persuasion,0.375,generic,0
+日语,Communication,1.0,curriculum,28
+日语,Interpretation,1.0,curriculum,32
+日语,Research Methods,1.0,curriculum,20
+日语,Writing,1.0,curriculum,77
+日语,Translation,0.999,curriculum,19
+日语,Cross-Cultural Communication,0.966,curriculum,15
+日语,Literature Research,0.758,curriculum,3
+日语,Legal Research,0.715,curriculum,2
+日语,Education/Curriculum Design,0.654,curriculum,1
+日语,Reading Comprehension,0.475,generic,0
+日语,Speaking,0.45,generic,0
+日语,Active Listening,0.425,generic,0
+日语,Complex Problem Solving,0.4,generic,0
+日语,Critical Thinking,0.4,generic,0
+日语,Active Learning,0.375,generic,0
+日语,Social Perceptiveness,0.375,generic,0
+日语,Coordination,0.35,generic,0
+日语,Learning Strategies,0.35,generic,0
+日语专业（日英复语）,Communication,1.0,curriculum,27
+日语专业（日英复语）,Interpretation,1.0,curriculum,32
+日语专业（日英复语）,Translation,1.0,curriculum,25
+日语专业（日英复语）,Writing,1.0,curriculum,80
+日语专业（日英复语）,Research Methods,0.999,curriculum,19
+日语专业（日英复语）,Cross-Cultural Communication,0.966,curriculum,15
+日语专业（日英复语）,Literature Research,0.791,curriculum,4
+日语专业（日英复语）,Legal Research,0.715,curriculum,2
+日语专业（日英复语）,Education/Curriculum Design,0.654,curriculum,1
+日语专业（日英复语）,Reading Comprehension,0.475,generic,0
+日语专业（日英复语）,Active Listening,0.45,generic,0
+日语专业（日英复语）,Speaking,0.45,generic,0
+日语专业（日英复语）,Critical Thinking,0.425,generic,0
+日语专业（日英复语）,Active Learning,0.4,generic,0
+日语专业（日英复语）,Complex Problem Solving,0.4,generic,0
+日语专业（日英复语）,Social Perceptiveness,0.4,generic,0
+日语专业（日英复语）,Learning Strategies,0.375,generic,0
+日语专业（日英复语）,Persuasion,0.35,generic,0
+朝鲜语专业（韩国语）,Translation,1.0,curriculum,32
+朝鲜语专业（韩国语）,Writing,1.0,curriculum,31
+朝鲜语专业（韩国语）,Interpretation,0.966,curriculum,15
+朝鲜语专业（韩国语）,Communication,0.758,curriculum,3
+朝鲜语专业（韩国语）,Reading Comprehension,0.45,generic,0
+朝鲜语专业（韩国语）,Speaking,0.45,generic,0
+朝鲜语专业（韩国语）,Active Listening,0.425,generic,0
+朝鲜语专业（韩国语）,Critical Thinking,0.375,generic,0
+朝鲜语专业（韩国语）,Active Learning,0.35,generic,0
+朝鲜语专业（韩国语）,Social Perceptiveness,0.35,generic,0
+朝鲜语专业（韩国语）,Learning Strategies,0.325,generic,0
+朝鲜语专业（韩国语）,Persuasion,0.325,generic,0
+朝鲜语专业（韩国语）,Complex Problem Solving,0.3,generic,0
+汉语国际教育,Education/Curriculum Design,1.0,curriculum,32
+汉语国际教育,Psychology,1.0,curriculum,21
+汉语国际教育,Research Methods,1.0,curriculum,38
+汉语国际教育,Writing,1.0,curriculum,61
+汉语国际教育,Instructional Design,0.975,curriculum,16
+汉语国际教育,Literature Research,0.966,curriculum,15
+汉语国际教育,Legal Research,0.956,curriculum,14
+汉语国际教育,Archival Research,0.946,curriculum,13
+汉语国际教育,Policy Analysis,0.946,curriculum,13
+汉语国际教育,Communication,0.923,curriculum,11
+汉语国际教育,Cross-Cultural Communication,0.895,curriculum,9
+汉语国际教育,Business Analysis,0.715,curriculum,2
+汉语国际教育,Cybersecurity,0.715,curriculum,2
+汉语国际教育,Qualitative Research,0.715,curriculum,2
+汉语国际教育,SQL,0.715,curriculum,2
+汉语国际教育,Data Analysis,0.654,curriculum,1
+汉语国际教育,Editing/Proofreading,0.654,curriculum,1
+汉语国际教育,HTML/CSS,0.654,curriculum,1
+汉语国际教育,QuickBooks/Sage,0.654,curriculum,1
+汉语国际教育,Routing/Switching,0.654,curriculum,1
+汉语国际教育,Instructing,0.475,generic,0
+汉语国际教育,Speaking,0.475,generic,0
+汉语国际教育,Reading Comprehension,0.425,generic,0
+汉语国际教育,Social Perceptiveness,0.425,generic,0
+汉语国际教育,Active Learning,0.4,generic,0
+汉语国际教育,Active Listening,0.4,generic,0
+汉语国际教育,Learning Strategies,0.4,generic,0
+汉语国际教育,Complex Problem Solving,0.375,generic,0
+汉语国际教育,Critical Thinking,0.375,generic,0
+汉语言文学,Literature Research,1.0,curriculum,27
+汉语言文学,Research Methods,1.0,curriculum,23
+汉语言文学,Writing,1.0,curriculum,55
+汉语言文学,Legal Research,0.966,curriculum,15
+汉语言文学,Archival Research,0.923,curriculum,11
+汉语言文学,Communication,0.91,curriculum,10
+汉语言文学,Cross-Cultural Communication,0.862,curriculum,7
+汉语言文学,Cybersecurity,0.715,curriculum,2
+汉语言文学,SQL,0.715,curriculum,2
+汉语言文学,Content Marketing,0.654,curriculum,1
+汉语言文学,Data Analysis,0.654,curriculum,1
+汉语言文学,Education/Curriculum Design,0.654,curriculum,1
+汉语言文学,Reading Comprehension,0.45,generic,0
+汉语言文学,Speaking,0.425,generic,0
+汉语言文学,Critical Thinking,0.4,generic,0
+汉语言文学,Active Learning,0.375,generic,0
+汉语言文学,Judgment and Decision Making,0.35,generic,0
+汉语言文学,Learning Strategies,0.35,generic,0
+汉语言文学,Time Management,0.3,generic,0
+法语,Translation,1.0,curriculum,23
+法语,Writing,1.0,curriculum,23
+法语,Interpretation,0.862,curriculum,7
+法语,Communication,0.819,curriculum,5
+法语,Research Methods,0.819,curriculum,5
+法语,Statistics,0.819,curriculum,5
+法语,Editing/Proofreading,0.758,curriculum,3
+法语,Logistics,0.758,curriculum,3
+法语,Cross-Cultural Communication,0.715,curriculum,2
+法语,Legal Research,0.715,curriculum,2
+法语,AutoCAD,0.654,curriculum,1
+法语,Instructional Design,0.654,curriculum,1
+法语,International Relations,0.654,curriculum,1
+法语,Photography,0.654,curriculum,1
+法语,Project Management,0.654,curriculum,1
+法语,Python,0.654,curriculum,1
+法语,Training & Development,0.654,curriculum,1
+法语,Speaking,0.475,generic,0
+法语,Reading Comprehension,0.45,generic,0
+法语,Active Listening,0.425,generic,0
+法语,Active Learning,0.375,generic,0
+法语,Critical Thinking,0.35,generic,0
+法语,Learning Strategies,0.35,generic,0
+法语,Social Perceptiveness,0.35,generic,0
+法语,Complex Problem Solving,0.325,generic,0
+法语专业（涉外化工人才实验班）,Writing,0.88,curriculum,8
+法语专业（涉外化工人才实验班）,Translation,0.819,curriculum,5
+法语专业（涉外化工人才实验班）,Communication,0.791,curriculum,4
+法语专业（涉外化工人才实验班）,Statistics,0.758,curriculum,3
+法语专业（涉外化工人才实验班）,Editing/Proofreading,0.715,curriculum,2
+法语专业（涉外化工人才实验班）,AutoCAD,0.654,curriculum,1
+法语专业（涉外化工人才实验班）,Counseling,0.654,curriculum,1
+法语专业（涉外化工人才实验班）,Cross-Cultural Communication,0.654,curriculum,1
+法语专业（涉外化工人才实验班）,Instructional Design,0.654,curriculum,1
+法语专业（涉外化工人才实验班）,International Relations,0.654,curriculum,1
+法语专业（涉外化工人才实验班）,Operations Management,0.654,curriculum,1
+法语专业（涉外化工人才实验班）,Project Management,0.654,curriculum,1
+法语专业（涉外化工人才实验班）,Python,0.654,curriculum,1
+法语专业（涉外化工人才实验班）,Research Methods,0.654,curriculum,1
+法语专业（涉外化工人才实验班）,Speaking,0.45,generic,0
+法语专业（涉外化工人才实验班）,Complex Problem Solving,0.425,generic,0
+法语专业（涉外化工人才实验班）,Reading Comprehension,0.425,generic,0
+法语专业（涉外化工人才实验班）,Science,0.425,generic,0
+法语专业（涉外化工人才实验班）,Mathematics,0.4,generic,0
+法语专业（涉外化工人才实验班）,Coordination,0.375,generic,0
+法语专业（涉外化工人才实验班）,Critical Thinking,0.375,generic,0
+法语专业（涉外化工人才实验班）,Operations Analysis,0.375,generic,0
+法语专业（涉外化工人才实验班）,Active Listening,0.35,generic,0
+经济学（经济金融统计与分析）,Accounting,1.0,curriculum,38
+经济学（经济金融统计与分析）,Statistics,1.0,curriculum,140
+经济学（经济金融统计与分析）,Data Analysis,0.966,curriculum,15
+经济学（经济金融统计与分析）,Research Methods,0.923,curriculum,11
+经济学（经济金融统计与分析）,Forecasting,0.91,curriculum,10
+经济学（经济金融统计与分析）,Legal Research,0.91,curriculum,10
+经济学（经济金融统计与分析）,Writing,0.91,curriculum,10
+经济学（经济金融统计与分析）,Investment Analysis,0.862,curriculum,7
+经济学（经济金融统计与分析）,Communication,0.842,curriculum,6
+经济学（经济金融统计与分析）,Data Structures & Algorithms,0.842,curriculum,6
+经济学（经济金融统计与分析）,International Relations,0.842,curriculum,6
+经济学（经济金融统计与分析）,Financial Analysis,0.819,curriculum,5
+经济学（经济金融统计与分析）,Risk Management,0.819,curriculum,5
+经济学（经济金融统计与分析）,SQL,0.819,curriculum,5
+经济学（经济金融统计与分析）,Marketing,0.791,curriculum,4
+经济学（经济金融统计与分析）,Python,0.791,curriculum,4
+经济学（经济金融统计与分析）,Budgeting,0.758,curriculum,3
+经济学（经济金融统计与分析）,Business Analysis,0.758,curriculum,3
+经济学（经济金融统计与分析）,Data Warehousing,0.758,curriculum,3
+经济学（经济金融统计与分析）,Cloud Computing,0.715,curriculum,2
+经济学（经济金融统计与分析）,Leadership,0.715,curriculum,2
+经济学（经济金融统计与分析）,Cross-Cultural Communication,0.654,curriculum,1
+经济学（经济金融统计与分析）,Cybersecurity,0.654,curriculum,1
+经济学（经济金融统计与分析）,Database Design,0.654,curriculum,1
+经济学（经济金融统计与分析）,Financial Modeling,0.654,curriculum,1
+经济学（经济金融统计与分析）,Mathematics,0.475,generic,0
+经济学（经济金融统计与分析）,Critical Thinking,0.425,generic,0
+经济学（经济金融统计与分析）,Complex Problem Solving,0.4,generic,0
+经济学（经济金融统计与分析）,Programming,0.375,generic,0
+经济学（经济金融统计与分析）,Judgment and Decision Making,0.35,generic,0
+经济学（经济金融统计与分析）,Systems Analysis,0.325,generic,0
+经济学（经济金融统计与分析）,Active Learning,0.3,generic,0
+经济学（经济金融统计与分析）,Systems Evaluation,0.3,generic,0
+绘画,Counseling,1.0,curriculum,20
+绘画,Writing,0.842,curriculum,6
+绘画,Education/Curriculum Design,0.791,curriculum,4
+绘画,Research Methods,0.715,curriculum,2
+绘画,Communication,0.654,curriculum,1
+绘画,Photography,0.654,curriculum,1
+绘画,Critical Thinking,0.425,generic,0
+绘画,Active Learning,0.4,generic,0
+绘画,Judgment and Decision Making,0.375,generic,0
+绘画,Monitoring,0.35,generic,0
+绘画,Time Management,0.325,generic,0
+绘画,Speaking,0.3,generic,0
+绘画,Reading Comprehension,0.275,generic,0
+绘画,Instructing,0.25,generic,0
+绘画,Social Perceptiveness,0.225,generic,0
+网络与新媒体专业（智能媒体）,Content Marketing,1.0,curriculum,37
+网络与新媒体专业（智能媒体）,Research Methods,1.0,curriculum,22
+网络与新媒体专业（智能媒体）,Writing,0.999,curriculum,19
+网络与新媒体专业（智能媒体）,Communication,0.984,curriculum,17
+网络与新媒体专业（智能媒体）,Editing/Proofreading,0.88,curriculum,8
+网络与新媒体专业（智能媒体）,Marketing,0.819,curriculum,5
+网络与新媒体专业（智能媒体）,Translation,0.819,curriculum,5
+网络与新媒体专业（智能媒体）,International Relations,0.791,curriculum,4
+网络与新媒体专业（智能媒体）,Legal Research,0.791,curriculum,4
+网络与新媒体专业（智能媒体）,Data Visualization,0.758,curriculum,3
+网络与新媒体专业（智能媒体）,Education/Curriculum Design,0.758,curriculum,3
+网络与新媒体专业（智能媒体）,Cross-Cultural Communication,0.715,curriculum,2
+网络与新媒体专业（智能媒体）,Interpretation,0.715,curriculum,2
+网络与新媒体专业（智能媒体）,Literature Research,0.715,curriculum,2
+网络与新媒体专业（智能媒体）,Market Research,0.715,curriculum,2
+网络与新媒体专业（智能媒体）,Project Management,0.715,curriculum,2
+网络与新媒体专业（智能媒体）,Qualitative Research,0.715,curriculum,2
+网络与新媒体专业（智能媒体）,Statistics,0.654,curriculum,1
+网络与新媒体专业（智能媒体）,Video Editing,0.654,curriculum,1
+网络与新媒体专业（智能媒体）,Complex Problem Solving,0.425,generic,0
+网络与新媒体专业（智能媒体）,Critical Thinking,0.425,generic,0
+网络与新媒体专业（智能媒体）,Speaking,0.425,generic,0
+网络与新媒体专业（智能媒体）,Active Learning,0.4,generic,0
+网络与新媒体专业（智能媒体）,Judgment and Decision Making,0.4,generic,0
+网络与新媒体专业（智能媒体）,Reading Comprehension,0.4,generic,0
+网络与新媒体专业（智能媒体）,Social Perceptiveness,0.4,generic,0
+网络与新媒体专业（智能媒体）,Coordination,0.375,generic,0
+网络与新媒体专业（智能媒体）,Persuasion,0.375,generic,0
+翻译专业（本地化）,Legal Research,1.0,curriculum,33
+翻译专业（本地化）,Translation,1.0,curriculum,138
+翻译专业（本地化）,Data Structures & Algorithms,0.975,curriculum,16
+翻译专业（本地化）,C++,0.923,curriculum,11
+翻译专业（本地化）,Communication,0.91,curriculum,10
+翻译专业（本地化）,SQL,0.895,curriculum,9
+翻译专业（本地化）,Cross-Cultural Communication,0.88,curriculum,8
+翻译专业（本地化）,Java,0.862,curriculum,7
+翻译专业（本地化）,Writing,0.819,curriculum,5
+翻译专业（本地化）,Statistics,0.791,curriculum,4
+翻译专业（本地化）,CAT Tools,0.758,curriculum,3
+翻译专业（本地化）,NLP,0.758,curriculum,3
+翻译专业（本地化）,Network Engineering,0.715,curriculum,2
+翻译专业（本地化）,Python,0.654,curriculum,1
+翻译专业（本地化）,Routing/Switching,0.654,curriculum,1
+翻译专业（本地化）,Programming,0.45,generic,0
+翻译专业（本地化）,Reading Comprehension,0.45,generic,0
+翻译专业（本地化）,Active Learning,0.4,generic,0
+翻译专业（本地化）,Complex Problem Solving,0.4,generic,0
+翻译专业（本地化）,Critical Thinking,0.4,generic,0
+翻译专业（本地化）,Speaking,0.4,generic,0
+翻译专业（本地化）,Active Listening,0.35,generic,0
+翻译专业（本地化）,Judgment and Decision Making,0.35,generic,0
+翻译专业（本地化）,Technology Design,0.35,generic,0
+翻译专业（汉英法）,Interpretation,1.0,curriculum,44
+翻译专业（汉英法）,Translation,1.0,curriculum,213
+翻译专业（汉英法）,Communication,0.946,curriculum,13
+翻译专业（汉英法）,Writing,0.935,curriculum,12
+翻译专业（汉英法）,Cross-Cultural Communication,0.923,curriculum,11
+翻译专业（汉英法）,Editing/Proofreading,0.758,curriculum,3
+翻译专业（汉英法）,Legal Research,0.715,curriculum,2
+翻译专业（汉英法）,Statistics,0.715,curriculum,2
+翻译专业（汉英法）,Deep Learning,0.654,curriculum,1
+翻译专业（汉英法）,NLP,0.654,curriculum,1
+翻译专业（汉英法）,Reading Comprehension,0.475,generic,0
+翻译专业（汉英法）,Speaking,0.45,generic,0
+翻译专业（汉英法）,Active Listening,0.425,generic,0
+翻译专业（汉英法）,Critical Thinking,0.4,generic,0
+翻译专业（汉英法）,Active Learning,0.375,generic,0
+翻译专业（汉英法）,Complex Problem Solving,0.35,generic,0
+翻译专业（汉英法）,Judgment and Decision Making,0.35,generic,0
+翻译专业（汉英法）,Learning Strategies,0.35,generic,0
+翻译专业（汉英法）,Social Perceptiveness,0.35,generic,0
+翻译专业（英语）,Communication,1.0,curriculum,26
+翻译专业（英语）,Interpretation,1.0,curriculum,42
+翻译专业（英语）,Legal Research,1.0,curriculum,24
+翻译专业（英语）,Translation,1.0,curriculum,206
+翻译专业（英语）,Writing,1.0,curriculum,39
+翻译专业（英语）,Cross-Cultural Communication,0.88,curriculum,8
+翻译专业（英语）,CAT Tools,0.715,curriculum,2
+翻译专业（英语）,Statistics,0.715,curriculum,2
+翻译专业（英语）,Deep Learning,0.654,curriculum,1
+翻译专业（英语）,Editing/Proofreading,0.654,curriculum,1
+翻译专业（英语）,Literature Research,0.654,curriculum,1
+翻译专业（英语）,Reading Comprehension,0.45,generic,0
+翻译专业（英语）,Speaking,0.45,generic,0
+翻译专业（英语）,Active Listening,0.4,generic,0
+翻译专业（英语）,Critical Thinking,0.4,generic,0
+翻译专业（英语）,Active Learning,0.35,generic,0
+翻译专业（英语）,Complex Problem Solving,0.35,generic,0
+翻译专业（英语）,Judgment and Decision Making,0.35,generic,0
+翻译专业（英语）,Social Perceptiveness,0.35,generic,0
+英语,Communication,1.0,curriculum,31
+英语,Translation,1.0,curriculum,67
+英语,Writing,1.0,curriculum,37
+英语,Interpretation,0.956,curriculum,14
+英语,Cross-Cultural Communication,0.862,curriculum,7
+英语,Legal Research,0.791,curriculum,4
+英语,Research Methods,0.791,curriculum,4
+英语,Literature Research,0.758,curriculum,3
+英语,Psychology,0.715,curriculum,2
+英语,Archival Research,0.654,curriculum,1
+英语,CAT Tools,0.654,curriculum,1
+英语,International Relations,0.654,curriculum,1
+英语,Operations Management,0.654,curriculum,1
+英语,Reading Comprehension,0.475,generic,0
+英语,Speaking,0.45,generic,0
+英语,Critical Thinking,0.425,generic,0
+英语,Active Listening,0.4,generic,0
+英语,Active Learning,0.375,generic,0
+英语,Learning Strategies,0.375,generic,0
+英语,Persuasion,0.35,generic,0
+英语,Social Perceptiveness,0.35,generic,0
+英语专业（英西复语）,Writing,1.0,curriculum,27
+英语专业（英西复语）,Translation,0.975,curriculum,16
+英语专业（英西复语）,Communication,0.956,curriculum,14
+英语专业（英西复语）,Cross-Cultural Communication,0.758,curriculum,3
+英语专业（英西复语）,Interpretation,0.758,curriculum,3
+英语专业（英西复语）,Literature Research,0.715,curriculum,2
+英语专业（英西复语）,Archival Research,0.654,curriculum,1
+英语专业（英西复语）,CAT Tools,0.654,curriculum,1
+英语专业（英西复语）,Research Methods,0.654,curriculum,1
+英语专业（英西复语）,Reading Comprehension,0.475,generic,0
+英语专业（英西复语）,Speaking,0.475,generic,0
+英语专业（英西复语）,Active Listening,0.425,generic,0
+英语专业（英西复语）,Critical Thinking,0.425,generic,0
+英语专业（英西复语）,Active Learning,0.4,generic,0
+英语专业（英西复语）,Learning Strategies,0.375,generic,0
+英语专业（英西复语）,Persuasion,0.35,generic,0
+英语专业（英西复语）,Social Perceptiveness,0.35,generic,0
+英语专业（英西复语）,Complex Problem Solving,0.325,generic,0
+葡萄牙语,Translation,1.0,curriculum,39
+葡萄牙语,Writing,0.923,curriculum,11
+葡萄牙语,Interpretation,0.862,curriculum,7
+葡萄牙语,Communication,0.758,curriculum,3
+葡萄牙语,Archival Research,0.715,curriculum,2
+葡萄牙语,Research Methods,0.715,curriculum,2
+葡萄牙语,Reading Comprehension,0.45,generic,0
+葡萄牙语,Speaking,0.45,generic,0
+葡萄牙语,Active Listening,0.4,generic,0
+葡萄牙语,Active Learning,0.35,generic,0
+葡萄牙语,Critical Thinking,0.35,generic,0
+葡萄牙语,Social Perceptiveness,0.35,generic,0
+葡萄牙语,Learning Strategies,0.325,generic,0
+葡萄牙语,Complex Problem Solving,0.3,generic,0
+葡萄牙语,Persuasion,0.3,generic,0
+西班牙语,Translation,1.0,curriculum,30
+西班牙语,Writing,1.0,curriculum,35
+西班牙语,Interpretation,0.895,curriculum,9
+西班牙语,International Relations,0.862,curriculum,7
+西班牙语,Statistics,0.758,curriculum,3
+西班牙语,Communication,0.715,curriculum,2
+西班牙语,AutoCAD,0.654,curriculum,1
+西班牙语,Instructional Design,0.654,curriculum,1
+西班牙语,Reading Comprehension,0.475,generic,0
+西班牙语,Speaking,0.45,generic,0
+西班牙语,Active Listening,0.425,generic,0
+西班牙语,Active Learning,0.4,generic,0
+西班牙语,Critical Thinking,0.375,generic,0
+西班牙语,Learning Strategies,0.375,generic,0
+西班牙语,Social Perceptiveness,0.35,generic,0
+西班牙语,Complex Problem Solving,0.325,generic,0
+西班牙语,Persuasion,0.3,generic,0
+西班牙语专业（涉外矿产资源人才实验班）,Communication,0.758,curriculum,3
+西班牙语专业（涉外矿产资源人才实验班）,Cross-Cultural Communication,0.758,curriculum,3
+西班牙语专业（涉外矿产资源人才实验班）,Editing/Proofreading,0.758,curriculum,3
+西班牙语专业（涉外矿产资源人才实验班）,Statistics,0.758,curriculum,3
+西班牙语专业（涉外矿产资源人才实验班）,Translation,0.758,curriculum,3
+西班牙语专业（涉外矿产资源人才实验班）,AutoCAD,0.715,curriculum,2
+西班牙语专业（涉外矿产资源人才实验班）,Writing,0.715,curriculum,2
+西班牙语专业（涉外矿产资源人才实验班）,Instructional Design,0.654,curriculum,1
+西班牙语专业（涉外矿产资源人才实验班）,International Relations,0.654,curriculum,1
+西班牙语专业（涉外矿产资源人才实验班）,Logistics,0.654,curriculum,1
+西班牙语专业（涉外矿产资源人才实验班）,Operations Management,0.654,curriculum,1
+西班牙语专业（涉外矿产资源人才实验班）,Speaking,0.45,generic,0
+西班牙语专业（涉外矿产资源人才实验班）,Complex Problem Solving,0.425,generic,0
+西班牙语专业（涉外矿产资源人才实验班）,Reading Comprehension,0.425,generic,0
+西班牙语专业（涉外矿产资源人才实验班）,Coordination,0.4,generic,0
+西班牙语专业（涉外矿产资源人才实验班）,Critical Thinking,0.4,generic,0
+西班牙语专业（涉外矿产资源人才实验班）,Judgment and Decision Making,0.4,generic,0
+西班牙语专业（涉外矿产资源人才实验班）,Active Listening,0.375,generic,0
+西班牙语专业（涉外矿产资源人才实验班）,Operations Analysis,0.375,generic,0
+西班牙语专业（涉外矿产资源人才实验班）,Systems Analysis,0.375,generic,0
+计算机科学与技术,Data Structures & Algorithms,0.935,curriculum,12
+计算机科学与技术,Statistics,0.935,curriculum,12
+计算机科学与技术,Network Engineering,0.91,curriculum,10
+计算机科学与技术,SQL,0.91,curriculum,10
+计算机科学与技术,Data Visualization,0.842,curriculum,6
+计算机科学与技术,Computer Vision,0.819,curriculum,5
+计算机科学与技术,Deep Learning,0.819,curriculum,5
+计算机科学与技术,NLP,0.819,curriculum,5
+计算机科学与技术,Data Analysis,0.791,curriculum,4
+计算机科学与技术,Java,0.791,curriculum,4
+计算机科学与技术,Linux,0.791,curriculum,4
+计算机科学与技术,Machine Learning,0.791,curriculum,4
+计算机科学与技术,Python,0.791,curriculum,4
+计算机科学与技术,Software Engineering,0.791,curriculum,4
+计算机科学与技术,Systems Analysis,0.758,curriculum,3
+计算机科学与技术,Communication,0.715,curriculum,2
+计算机科学与技术,HTML/CSS,0.715,curriculum,2
+计算机科学与技术,Legal Research,0.715,curriculum,2
+计算机科学与技术,Archival Research,0.654,curriculum,1
+计算机科学与技术,Programming,0.475,generic,0
+计算机科学与技术,Complex Problem Solving,0.45,generic,0
+计算机科学与技术,Databases,0.425,generic,0
+计算机科学与技术,Mathematics,0.425,generic,0
+计算机科学与技术,Critical Thinking,0.4,generic,0
+计算机科学与技术,Technology Design,0.375,generic,0
+计算机科学与技术,Troubleshooting,0.375,generic,0
+语言学,Statistics,0.999,curriculum,19
+语言学,Writing,0.966,curriculum,15
+语言学,Communication,0.956,curriculum,14
+语言学,Research Methods,0.895,curriculum,9
+语言学,Legal Research,0.88,curriculum,8
+语言学,NLP,0.791,curriculum,4
+语言学,Psychology,0.758,curriculum,3
+语言学,R,0.758,curriculum,3
+语言学,Deep Learning,0.715,curriculum,2
+语言学,Data Visualization,0.654,curriculum,1
+语言学,Literature Research,0.654,curriculum,1
+语言学,Machine Learning,0.654,curriculum,1
+语言学,Translation,0.654,curriculum,1
+语言学,Reading Comprehension,0.45,generic,0
+语言学,Critical Thinking,0.425,generic,0
+语言学,Active Learning,0.4,generic,0
+语言学,Speaking,0.4,generic,0
+语言学,Complex Problem Solving,0.375,generic,0
+语言学,Data Analysis,0.375,generic,0
+语言学,Active Listening,0.35,generic,0
+语言学,Learning Strategies,0.35,generic,0
+金融学,Accounting,1.0,curriculum,33
+金融学,Marketing,1.0,curriculum,22
+金融学,Risk Management,1.0,curriculum,24
+金融学,Statistics,1.0,curriculum,49
+金融学,Legal Research,0.966,curriculum,15
+金融学,Financial Analysis,0.91,curriculum,10
+金融学,Investment Analysis,0.91,curriculum,10
+金融学,Writing,0.91,curriculum,10
+金融学,Research Methods,0.895,curriculum,9
+金融学,Communication,0.88,curriculum,8
+金融学,Data Analysis,0.88,curriculum,8
+金融学,Data Structures & Algorithms,0.819,curriculum,5
+金融学,Forecasting,0.819,curriculum,5
+金融学,Project Management,0.819,curriculum,5
+金融学,SQL,0.819,curriculum,5
+金融学,Budgeting,0.791,curriculum,4
+金融学,Python,0.791,curriculum,4
+金融学,Data Warehousing,0.758,curriculum,3
+金融学,Cloud Computing,0.715,curriculum,2
+金融学,Financial Modeling,0.715,curriculum,2
+金融学,Logistics,0.715,curriculum,2
+金融学,Tax,0.715,curriculum,2
+金融学,CRM,0.654,curriculum,1
+金融学,Cross-Cultural Communication,0.654,curriculum,1
+金融学,Cybersecurity,0.654,curriculum,1
+金融学,Mathematics,0.45,generic,0
+金融学,Complex Problem Solving,0.4,generic,0
+金融学,Critical Thinking,0.4,generic,0
+金融学,Judgment and Decision Making,0.4,generic,0
+金融学,Reading Comprehension,0.35,generic,0
+金融学,Speaking,0.35,generic,0
+金融学,Systems Analysis,0.35,generic,0
+金融学,Systems Evaluation,0.35,generic,0
+阿拉伯语,Translation,1.0,curriculum,21
+阿拉伯语,Writing,0.992,curriculum,18
+阿拉伯语,Communication,0.715,curriculum,2
+阿拉伯语,Interpretation,0.715,curriculum,2
+阿拉伯语,Data Analysis,0.654,curriculum,1
+阿拉伯语,Literature Research,0.654,curriculum,1
+阿拉伯语,Photography,0.654,curriculum,1
+阿拉伯语,Statistics,0.654,curriculum,1
+阿拉伯语,Survey Design,0.654,curriculum,1
+阿拉伯语,Reading Comprehension,0.475,generic,0
+阿拉伯语,Speaking,0.475,generic,0
+阿拉伯语,Active Listening,0.45,generic,0
+阿拉伯语,Active Learning,0.375,generic,0
+阿拉伯语,Critical Thinking,0.35,generic,0
+阿拉伯语,Learning Strategies,0.35,generic,0
+阿拉伯语,Social Perceptiveness,0.35,generic,0
+阿拉伯语,Complex Problem Solving,0.325,generic,0
+阿拉伯语,Persuasion,0.3,generic,0
+阿拉伯语专业（涉外石油人才实验班）,Writing,0.842,curriculum,6
+阿拉伯语专业（涉外石油人才实验班）,Communication,0.791,curriculum,4
+阿拉伯语专业（涉外石油人才实验班）,Translation,0.758,curriculum,3
+阿拉伯语专业（涉外石油人才实验班）,Editing/Proofreading,0.715,curriculum,2
+阿拉伯语专业（涉外石油人才实验班）,Statistics,0.715,curriculum,2
+阿拉伯语专业（涉外石油人才实验班）,Cross-Cultural Communication,0.654,curriculum,1
+阿拉伯语专业（涉外石油人才实验班）,Data Analysis,0.654,curriculum,1
+阿拉伯语专业（涉外石油人才实验班）,Interpretation,0.654,curriculum,1
+阿拉伯语专业（涉外石油人才实验班）,Research Methods,0.654,curriculum,1
+阿拉伯语专业（涉外石油人才实验班）,Survey Design,0.654,curriculum,1
+阿拉伯语专业（涉外石油人才实验班）,Speaking,0.45,generic,0
+阿拉伯语专业（涉外石油人才实验班）,Active Listening,0.425,generic,0
+阿拉伯语专业（涉外石油人才实验班）,Reading Comprehension,0.425,generic,0
+阿拉伯语专业（涉外石油人才实验班）,Complex Problem Solving,0.4,generic,0
+阿拉伯语专业（涉外石油人才实验班）,Coordination,0.375,generic,0
+阿拉伯语专业（涉外石油人才实验班）,Critical Thinking,0.375,generic,0
+阿拉伯语专业（涉外石油人才实验班）,Operations Analysis,0.375,generic,0
+阿拉伯语专业（涉外石油人才实验班）,Science,0.375,generic,0
+阿拉伯语专业（涉外石油人才实验班）,Social Perceptiveness,0.35,generic,0
+音乐学（音乐国际教育与传播）,Communication,1.0,curriculum,23
+音乐学（音乐国际教育与传播）,Writing,1.0,curriculum,51
+音乐学（音乐国际教育与传播）,Cross-Cultural Communication,0.984,curriculum,17
+音乐学（音乐国际教育与传播）,Research Methods,0.956,curriculum,14
+音乐学（音乐国际教育与传播）,Accounting,0.923,curriculum,11
+音乐学（音乐国际教育与传播）,Education/Curriculum Design,0.895,curriculum,9
+音乐学（音乐国际教育与传播）,International Relations,0.895,curriculum,9
+音乐学（音乐国际教育与传播）,SQL,0.895,curriculum,9
+音乐学（音乐国际教育与传播）,Translation,0.895,curriculum,9
+音乐学（音乐国际教育与传播）,Marketing,0.88,curriculum,8
+音乐学（音乐国际教育与传播）,Psychology,0.842,curriculum,6
+音乐学（音乐国际教育与传播）,Statistics,0.819,curriculum,5
+音乐学（音乐国际教育与传播）,Financial Analysis,0.791,curriculum,4
+音乐学（音乐国际教育与传播）,Interpretation,0.791,curriculum,4
+音乐学（音乐国际教育与传播）,Literature Research,0.791,curriculum,4
+音乐学（音乐国际教育与传播）,Python,0.791,curriculum,4
+音乐学（音乐国际教育与传播）,Content Marketing,0.715,curriculum,2
+音乐学（音乐国际教育与传播）,Counseling,0.715,curriculum,2
+音乐学（音乐国际教育与传播）,Data Structures & Algorithms,0.715,curriculum,2
+音乐学（音乐国际教育与传播）,Investment Analysis,0.715,curriculum,2
+音乐学（音乐国际教育与传播）,Agile/Scrum,0.654,curriculum,1
+音乐学（音乐国际教育与传播）,Editing/Proofreading,0.654,curriculum,1
+音乐学（音乐国际教育与传播）,Forecasting,0.654,curriculum,1
+音乐学（音乐国际教育与传播）,Legal Research,0.654,curriculum,1
+音乐学（音乐国际教育与传播）,Network Engineering,0.654,curriculum,1
+音乐学（音乐国际教育与传播）,Speaking,0.45,generic,0
+音乐学（音乐国际教育与传播）,Instructing,0.425,generic,0
+音乐学（音乐国际教育与传播）,Active Listening,0.4,generic,0
+音乐学（音乐国际教育与传播）,Social Perceptiveness,0.4,generic,0
+音乐学（音乐国际教育与传播）,Active Learning,0.35,generic,0
+音乐学（音乐国际教育与传播）,Coordination,0.35,generic,0
+音乐学（音乐国际教育与传播）,Critical Thinking,0.35,generic,0
+音乐学（音乐国际教育与传播）,Persuasion,0.35,generic,0
+音乐学（音乐国际教育与传播）,Reading Comprehension,0.35,generic,0

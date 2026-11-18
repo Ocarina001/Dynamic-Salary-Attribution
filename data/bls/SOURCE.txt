@@ -1,0 +1,51 @@
+File: us_wages_by_occupation_national_2024.csv
+Source: https://github.com/Contrite42/us-wage-data-2024
+Underlying data: U.S. Bureau of Labor Statistics, OEWS, May 2024 national release
+License: CC0 / public domain
+Rows: 831 detailed occupations, national level
+Note: BLS is the original source; this repository is a cleaned national extract.
+
+# =============================================================================
+# data/bls/ 说明（本目录只有两个文件：SOURCE.txt + us_wages_by_occupation_national_2024.csv）
+#
+# 用途：
+#   给项目的 29 个目标岗位附上“参考薪资”。薪资不参与技能匹配打分或排名，
+#   只作为参考列附在输出表中（见 reports/skill_upgrade_report.md：
+#   “排名只使用 fit_score、core_coverage 和路径长度；薪资只作为参考列”）。
+#
+# 数据来源：
+#   - 原始数据：美国劳工部 BLS OEWS（Occupational Employment and Wage Statistics）
+#     2024 年 5 月全国发布版（May 2024 national release）
+#   - 本文件是 GitHub 社区清洗版（Contrite42/us-wage-data-2024）的全国提取，
+#     不是 BLS 官网原始下载包；BLS 仍是原始来源
+#   - 许可：CC0 / public domain，可自由使用
+#
+# CSV 列说明（us_wages_by_occupation_national_2024.csv）：
+#   Occupation Code       BLS SOC 职业代码（如 13-2011），项目里截前 6 位作为 SOC6 匹配键
+#   Occupation Title      职业名称（英文）
+#   Employment            全国就业人数
+#   Hourly Median         中位数时薪（美元/小时）
+#   Annual 10th Pctl      年薪第 10 百分位
+#   Annual 25th Pctl      年薪第 25 百分位
+#   Annual Median         年薪中位数
+#   Annual Mean           年薪均值
+#   Annual 75th Pctl      年薪第 75 百分位
+#   Annual 90th Pctl      年薪第 90 百分位
+#   注意：部分职业（如 Actors）只有时薪、没有年薪百分位（空值），这是 BLS 原始数据的正常情况。
+#
+# 数据流（消费方：build_job_salary.py）：
+#   config.yaml 的 jobs（29 个显示名 -> O*NET 职业名）
+#     -> onet/occupation_data.csv（O*NET 职业名 -> O*NET-SOC Code）
+#     -> 本 CSV（SOC6 -> 全国薪资）
+#     -> 输出 job_soc.csv / job_salary.csv / job_features_salary.csv
+#        + reports/job_salary_coverage.csv / job_salary_summary.csv / job_salary_scatter.png
+#   - 读取时按 OCC_CODE 匹配，保留 detailed / cross-industry 行；
+#     缺年薪时用“时薪 x 2080 小时”折算
+#   - 29 个岗位只用到本文件 831 行中的 29 行，其余行不被项目消费
+#   - 若本文件缺失或覆盖不全，可用 --salary-csv 传入手工薪资表补齐
+#
+# 使用边界：
+#   - 全国层面平均薪资，非地区化（不是某州/城市工资）；要做地区化需另换数据源
+#   - 831 个详细职业中项目只取 29 个目标岗位对应的行
+#   - 勿在 CSV 里加注释行（会破坏 pandas 解析）；所有说明写在本文件
+# =============================================================================

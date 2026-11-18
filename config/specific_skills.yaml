@@ -1,0 +1,540 @@
+# =============================================================================
+# specific_skills.yaml
+# 具体工具 / 领域技能词表 + 29 个岗位的核心技能种子
+# 唯一读取方：Module_A_PathSearch/build_specific_skills.py（SPEC -> SKILL_ALIASES / JOB_SEEDS）
+#
+# 用途:
+#   1) 从 O*NET software_skills.csv 的工具名中匹配具体技能，生成 onet/job_skills_specific.csv
+#   2) 从中文培养方案 onet/bylu_curricula/*.txt 中匹配专业侧具体技能，生成
+#      onet/major_skills_specific.csv 和 onet/major_skill_map_specific.txt
+#   3) 下游：build_unified_specific.py 合并技能表 + 建岗位相似度 -> path_search.py 建图寻路
+#
+# ---- 这个文件是怎么来的（设计背景，先读这段） ----
+#   不是 O*NET 官方清单，也不是外部标准词表，而是为“专业 -> 岗位匹配”手工设计的
+#   规范化技能词表：把 29 个岗位的工具/技术 + 44 个专业培养方案的课程词汇 + 岗位
+#   职能常识，统一成同一套规范技能名（如 Python / SQL / Statistics / Compensation），
+#   这样中文专业侧和英文 O*NET 岗位侧才能按同名技能对齐。
+#
+#   三个构造原料：
+#     a) O*NET 工具/技术名：英文别名多与 software_skills.csv 的 Workplace Example 同名
+#     b) 培养方案课程词汇：191 条中文别名里约 74% 在 44 份培养方案文本中逐字出现
+#        （如「数据库原理」「数理统计」「同声传译」）
+#     c) 岗位职能/领域常识：O*NET 工具列与课程文本都没有的概念
+#        （如 Compensation / Benefits / Labor Law / Financial Modeling）
+#
+#   设计动机（见 reports/skill_upgrade_report.md）：
+#     旧版只有 O*NET 35 项通用能力 + 5 项领域技能，skill_gap 挤在 0.39~0.55、
+#     标准差仅 0.03，推荐被微小差异带偏；换成具体技能后区分度约翻倍
+#     （std 0.030 -> 0.061，范围 0.163 -> 0.281）。
+#
+#   规模现状（当前数据实测，仅作说明，代码不读取这些数字）：
+#     - 140 个技能、430 条别名（平均 3.1 条/技能，最多 16 条）、34 个 category
+#     - 109 个技能进入岗位技能表（其中 87 个有真实 O*NET 工具证据、84 个被种子引用）
+#     - 80 个技能在培养方案文本中命中（专业侧）
+#     - 12 个技能目前在任何输出中都未命中（前瞻性预留，非同义词写错也非数据错误）：
+#       Brand Management, Copywriting, Google Cloud, Jupyter, MLflow, Premiere,
+#       PyTorch, SEM/Google Ads, SuccessFactors, TensorFlow, TypeScript, scikit-learn
+#
+# ---- 字段与匹配规则 ----
+#   - 技能名（键）：全项目统一标识，会写入下游 CSV / 建图节点；改名必须重跑管道
+#   - category：仅供人阅读的领域标签（代码完全不读），不是 O*NET 官方分类
+#   - aliases：实际参与文本匹配的别名；全部小写，中文别名直接写中文
+#       纯英文单词 -> 按 \b 词边界正则匹配（如 java 不会误命中 javascript）
+#       含空格/符号/中文 -> 按子串出现次数统计（如 "pl/sql"、"c++"、"数据库"）
+#   - 别名设计有防御性：C 只用中文别名（避免裸字母 c 满屏误命中），
+#     R 用 r语言/rstudio/tidyverse（避免裸字母 r），SQL 收录 snowflake/redshift 等产品名
+#   - 已知别名重叠（同一段文本会同时给两个技能记分，多为刻意）：
+#     jupyter（Python/Jupyter）、snowflake（SQL/Snowflake）、
+#     跨文化交际（Communication/Cross-Cultural Communication）
+#
+# ---- 维护铁律 ----
+#   1) 新增/改名技能后必须依次重跑：build_specific_skills.py -> build_unified_specific.py
+#      -> path_search.py --export，否则词典与下游 CSV 不一致
+#   2) aliases 保持小写；job_seed 里只能写 skills 中存在的规范名
+#   3) category 不影响计算，只是整理标签；本词表不等于专家验证的职业技能标准
+#
+# ---- 词表排列（大致按领域分段，便于查找） ----
+#   ① 通用编程与工程（Python → Kubernetes）
+#   ② 云 / 安全 / 网络（AWS → Routing/Switching）
+#   ③ 大数据与数据工程（Spark → NoSQL）
+#   ④ AI / 数据分析 / BI / 统计软件（Machine Learning → Jupyter）
+#   ⑤ 金融 / ERP / 管理与运营（Financial Analysis → Minitab）
+#   ⑥ HR / 教育 / 软技能（HRIS → Leadership）
+#   ⑦ 营销（Marketing → Brand Management）
+#   ⑧ 语言 / 人文 / 研究 / 政策 / 设计（Translation → Photography）
+# =============================================================================
+
+# 规范技能词表：键 = 全项目统一技能名；category = 仅供人读的领域标签（代码不读）；
+# aliases = 匹配别名（小写；纯英文按词边界、含符号/空格/中文按子串匹配）。
+skills:
+  # ① 通用编程与工程 ---------------------------------------------------------
+  Python:
+    category: programming
+    aliases: [python, python3, jupyter, anaconda, pycharm, spyder, "python语言", "python程序设计"]
+  R:
+    category: programming
+    aliases: ["r语言", rstudio, tidyverse, "r software", "r programming"]
+  SQL:
+    category: database
+    aliases: [sql, mysql, postgresql, postgres, sqlite, "pl/sql", "t-sql", snowflake, redshift, bigquery, "oracle database", "sql server", "数据库", "关系数据库", "数据库原理", "数据库系统"]
+  Java:
+    category: programming
+    aliases: [java, "java语言", "java程序设计"]
+  C++:
+    category: programming
+    aliases: ["c++", "c＋＋", cpp]
+  C#:
+    category: programming
+    aliases: ["c#", "c sharp", csharp]
+  C:
+    category: programming
+    aliases: ["c语言", "c程序设计"]
+  JavaScript:
+    category: programming
+    aliases: [javascript, js, ecmascript]
+  TypeScript:
+    category: programming
+    aliases: [typescript]
+  HTML/CSS:
+    category: web
+    aliases: [html, css, html5, css3, "网页设计", "前端开发"]
+  React:
+    category: web
+    aliases: [react, "react.js", reactjs]
+  Node.js:
+    category: web
+    aliases: ["node.js", nodejs]
+  .NET:
+    category: programming
+    aliases: [.net, "asp.net", ".net framework"]
+  Data Structures & Algorithms:
+    category: cs_core
+    aliases: ["数据结构", "算法", "算法设计", "data structures", "algorithms"]
+  Software Engineering:
+    category: cs_core
+    aliases: ["软件工程", "software engineering"]
+  Software Testing:
+    category: qa
+    aliases: ["软件测试", "测试用例", "software testing", "qa"]
+  Test Automation:
+    category: qa
+    aliases: [selenium, appium, cypress, "自动化测试", "test automation"]
+  Git:
+    category: devops
+    aliases: [git, github, gitlab, "版本控制"]
+  Linux:
+    category: systems
+    aliases: [linux, unix, shell, "操作系统"]
+  Docker:
+    category: devops
+    aliases: [docker, "容器"]
+  Kubernetes:
+    category: devops
+    aliases: [kubernetes, k8s]
+  # ② 云 / 安全 / 网络 -------------------------------------------------------
+  AWS:
+    category: cloud
+    aliases: [aws, "amazon web services", ec2, s3, "aws lambda"]
+  Azure:
+    category: cloud
+    aliases: [azure, "microsoft azure"]
+  Google Cloud:
+    category: cloud
+    aliases: [gcp, "google cloud", "google cloud platform"]
+  Cloud Computing:
+    category: cloud
+    aliases: ["云计算", "云平台", "cloud computing"]
+  Systems Analysis:
+    category: cs_core
+    aliases: ["系统分析", "系统设计", "systems analysis", "systems design"]
+  Cybersecurity:
+    category: security
+    aliases: ["网络安全", "信息安全", "cybersecurity", "information security", "渗透测试"]
+  Incident Response:
+    category: security
+    aliases: ["事件响应", "应急响应", "incident response", siem, splunk]
+  Network Engineering:
+    category: network
+    aliases: ["计算机网络", "网络工程", "网络架构", "networking", "tcp/ip"]
+  Cisco:
+    category: network
+    aliases: [cisco, "思科"]
+  Routing/Switching:
+    category: network
+    aliases: ["路由", "交换", "routing", "switching"]
+  # ③ 大数据与数据工程 -------------------------------------------------------
+  Spark:
+    category: bigdata
+    aliases: [spark, pyspark, "apache spark"]
+  Hadoop:
+    category: bigdata
+    aliases: [hadoop, hive, hdfs, mapreduce]
+  Kafka:
+    category: bigdata
+    aliases: [kafka]
+  Airflow:
+    category: bigdata
+    aliases: [airflow]
+  Snowflake:
+    category: database
+    aliases: [snowflake]
+  ETL:
+    category: data_engineering
+    aliases: [etl, "data pipeline", "数据集成", "数据管道"]
+  Data Warehousing:
+    category: data_engineering
+    aliases: ["数据仓库", "data warehouse", "data warehousing"]
+  Database Design:
+    category: database
+    aliases: ["数据库设计", "数据建模", "data modeling", "database design"]
+  NoSQL:
+    category: database
+    aliases: [mongodb, nosql, cassandra, dynamodb, redis, hbase]
+  # ④ AI / 数据分析 / BI / 统计软件 ----------------------------------------
+  Machine Learning:
+    category: ai
+    aliases: ["机器学习", "machine learning", "统计学习"]
+  Deep Learning:
+    category: ai
+    aliases: ["深度学习", "deep learning", "神经网络", "neural network"]
+  TensorFlow:
+    category: ai
+    aliases: [tensorflow]
+  PyTorch:
+    category: ai
+    aliases: [pytorch]
+  scikit-learn:
+    category: ai
+    aliases: [scikit-learn, sklearn]
+  MLflow:
+    category: ai
+    aliases: [mlflow, mlops]
+  NLP:
+    category: ai
+    aliases: ["自然语言处理", nlp, "natural language processing"]
+  Computer Vision:
+    category: ai
+    aliases: ["计算机视觉", "computer vision", opencv]
+  Statistics:
+    category: data
+    aliases: ["统计学", "统计", "概率论", "数理统计", "statistics", "statistical analysis"]
+  Data Analysis:
+    category: data
+    aliases: ["数据分析", "数据处理", "data analysis", "data analytics"]
+  Data Visualization:
+    category: data
+    aliases: ["数据可视化", "可视化", "data visualization"]
+  Tableau:
+    category: bi
+    aliases: [tableau]
+  Power BI:
+    category: bi
+    aliases: ["power bi", powerbi]
+  Excel:
+    category: office
+    aliases: [excel, "电子表格", "办公软件", spreadsheet]
+  SAS:
+    category: stats_software
+    aliases: [sas]
+  SPSS:
+    category: stats_software
+    aliases: [spss]
+  Stata:
+    category: stats_software
+    aliases: [stata]
+  MATLAB:
+    category: stats_software
+    aliases: [matlab]
+  Alteryx:
+    category: data
+    aliases: [alteryx]
+  Jupyter:
+    category: data
+    aliases: [jupyter, notebook]
+  # ⑤ 金融 / ERP / 管理与运营 ------------------------------------------------
+  Financial Analysis:
+    category: finance
+    aliases: ["财务分析", "金融分析", "投资分析", "financial analysis"]
+  Financial Modeling:
+    category: finance
+    aliases: ["财务建模", "金融建模", "估值", "financial modeling", valuation]
+  Accounting:
+    category: finance
+    aliases: ["会计", "财务会计", "管理会计", accounting]
+  Auditing:
+    category: finance
+    aliases: ["审计", auditing]
+  Tax:
+    category: finance
+    aliases: ["税法", "税务", tax]
+  Budgeting:
+    category: finance
+    aliases: ["预算", "预算管理", "预算分析", budgeting]
+  Forecasting:
+    category: finance
+    aliases: ["预测", forecasting]
+  Bloomberg:
+    category: finance
+    aliases: [bloomberg]
+  SAP/ERP:
+    category: erp
+    aliases: [sap, erp, "企业资源计划", "oracle erp", "财务软件"]
+  QuickBooks/Sage:
+    category: finance
+    aliases: [quickbooks, sage, "用友", "金蝶"]
+  Investment Analysis:
+    category: finance
+    aliases: ["投资学", "证券投资", "investment analysis"]
+  Risk Management:
+    category: management
+    aliases: ["风险管理", "risk management"]
+  Business Analysis:
+    category: management
+    aliases: ["商业分析", "需求分析", "business analysis"]
+  Project Management:
+    category: management
+    aliases: ["项目管理", "project management", pmbok]
+  Agile/Scrum:
+    category: management
+    aliases: ["敏捷", scrum, agile]
+  Jira:
+    category: management
+    aliases: [jira, confluence]
+  Operations Management:
+    category: operations
+    aliases: ["运营管理", "生产管理", "operations management"]
+  Supply Chain:
+    category: operations
+    aliases: ["供应链", "supply chain"]
+  Logistics:
+    category: operations
+    aliases: ["物流", "运输", "配送", logistics]
+  Inventory Management:
+    category: operations
+    aliases: ["库存管理", "仓储", inventory]
+  Quality Control:
+    category: quality
+    aliases: ["质量控制", "质量管理", "quality control", "quality assurance"]
+  Lean/Six Sigma:
+    category: quality
+    aliases: ["精益", "六西格玛", lean, "six sigma"]
+  Industrial Engineering:
+    category: engineering
+    aliases: ["工业工程", "人因工程", "industrial engineering"]
+  AutoCAD:
+    category: engineering
+    aliases: [autocad, cad, "制图"]
+  SolidWorks:
+    category: engineering
+    aliases: [solidworks, "solid works"]
+  Minitab:
+    category: quality
+    aliases: [minitab]
+  # ⑥ HR / 教育 / 软技能 ------------------------------------------------------
+  HRIS:
+    category: hr
+    aliases: [hris, "人力资源信息系统", "人事系统"]
+  Workday:
+    category: hr
+    aliases: [workday]
+  ADP:
+    category: hr
+    aliases: [adp]
+  PeopleSoft:
+    category: hr
+    aliases: [peoplesoft]
+  SuccessFactors:
+    category: hr
+    aliases: [successfactors]
+  Recruitment:
+    category: hr
+    aliases: ["招聘", "人才招聘", recruitment, "talent acquisition"]
+  Compensation:
+    category: hr
+    aliases: ["薪酬", "薪酬管理", compensation]
+  Benefits:
+    category: hr
+    aliases: ["福利", "员工福利", benefits]
+  Labor Law:
+    category: hr
+    aliases: ["劳动法", "劳动合同", "劳动关系", "labor law"]
+  Training & Development:
+    category: hr
+    aliases: ["培训", "员工培训", "培训与开发", training]
+  Instructional Design:
+    category: education
+    aliases: ["教学设计", "课程设计", "instructional design"]
+  LMS:
+    category: hr
+    aliases: [lms, moodle, blackboard, canvas, "学习管理系统"]
+  Performance Management:
+    category: hr
+    aliases: ["绩效管理", "绩效考核", "performance management"]
+  Communication:
+    category: soft
+    aliases: ["沟通", "跨文化交际", "演讲", communication]
+  Leadership:
+    category: soft
+    aliases: ["领导力", "团队管理", leadership]
+  # ⑦ 营销 -------------------------------------------------------------------
+  Marketing:
+    category: marketing
+    aliases: ["市场营销", "营销", marketing]
+  Market Research:
+    category: marketing
+    aliases: ["市场调研", "市场研究", "消费者行为", "market research"]
+  SEO:
+    category: marketing
+    aliases: [seo, "搜索引擎优化"]
+  SEM/Google Ads:
+    category: marketing
+    aliases: [sem, "google ads", "竞价广告", "搜索引擎营销"]
+  Google Analytics:
+    category: marketing
+    aliases: ["google analytics", "网站分析"]
+  CRM:
+    category: marketing
+    aliases: [crm, "客户关系管理"]
+  Salesforce:
+    category: marketing
+    aliases: [salesforce]
+  HubSpot:
+    category: marketing
+    aliases: [hubspot]
+  Content Marketing:
+    category: marketing
+    aliases: ["内容营销", "新媒体", "社交媒体", "content marketing"]
+  Social Media Marketing:
+    category: marketing
+    aliases: ["社交媒体营销", "新媒体运营", "social media"]
+  Copywriting:
+    category: marketing
+    aliases: ["文案", "广告文案", copywriting]
+  Brand Management:
+    category: marketing
+    aliases: ["品牌管理", "brand management"]
+  # ⑧ 语言 / 人文 / 研究 / 政策 / 设计 --------------------------------------
+  Translation:
+    category: language
+    aliases: ["翻译", "笔译", "英译汉", "汉译英", translation]
+  Interpretation:
+    category: language
+    aliases: ["口译", "同声传译", interpretation]
+  CAT Tools:
+    category: language
+    aliases: [trados, memoq, "计算机辅助翻译", "cat tools"]
+  Writing:
+    category: language
+    aliases: ["写作", "公文写作", "学术写作", writing]
+  Editing/Proofreading:
+    category: language
+    aliases: ["编辑", "校对", editing, proofreading]
+  Cross-Cultural Communication:
+    category: language
+    aliases: ["跨文化交际", "跨文化沟通", "cross-cultural"]
+  Literature Research:
+    category: humanities
+    aliases: ["文学研究", "文献学", "古典文献", literature]
+  Archival Research:
+    category: humanities
+    aliases: ["档案", "文献检索", archival]
+  Qualitative Research:
+    category: research
+    aliases: ["质性研究", "定性研究", "qualitative research"]
+  Survey Design:
+    category: research
+    aliases: ["问卷设计", "社会调查", "survey design"]
+  Legal Research:
+    category: law
+    aliases: ["法律检索", "法学", "法律", "legal research"]
+  Policy Analysis:
+    category: policy
+    aliases: ["政策分析", "公共政策", "policy analysis"]
+  International Relations:
+    category: policy
+    aliases: ["国际关系", "国际政治", "国际事务", "international relations"]
+  Psychology:
+    category: social_science
+    aliases: ["心理学", "心理统计", "实验心理学", psychology]
+  Psychological Assessment:
+    category: social_science
+    aliases: ["心理测评", "心理测量", "psychological assessment"]
+  Counseling:
+    category: social_science
+    aliases: ["心理咨询", "辅导", counseling]
+  Research Methods:
+    category: research
+    aliases: ["研究方法", "实证研究", "research methods"]
+  Education/Curriculum Design:
+    category: education
+    aliases: ["教育学", "课程与教学", "教育技术", curriculum]
+  Photoshop:
+    category: design
+    aliases: [photoshop]
+  Illustrator:
+    category: design
+    aliases: [illustrator]
+  InDesign:
+    category: design
+    aliases: [indesign]
+  Premiere:
+    category: design
+    aliases: [premiere]
+  After Effects:
+    category: design
+    aliases: ["after effects"]
+  Figma:
+    category: design
+    aliases: [figma]
+  UI/UX Design:
+    category: design
+    aliases: [ui, ux, "用户体验", "交互设计", "ui/ux"]
+  Video Editing:
+    category: design
+    aliases: ["视频剪辑", "影视后期", "video editing"]
+  Photography:
+    category: design
+    aliases: ["摄影", photography]
+
+# -----------------------------------------------------------------------------
+# 岗位种子：29 个目标岗位（与 config.yaml 的 jobs 显示名一一对应）的核心技能。
+# 作用：O*NET 工具证据在各岗位间分布不均（技术岗工具多、HR/管理岗工具少），
+#       种子作为“保底核心技能”，强制权重 4.0（高于任何工具证据算出的 2~4），
+#       截断时永不丢弃。每岗位 6~12 个。
+# 计算规则（build_specific_skills.py 的 build_job_specific）：
+#   - 工具证据权重：raw = 1.0*hot_count + 0.3*cold_count
+#                   w   = 2.0 + 2.0*raw/(raw+4.0)   -> [2, 4) 饱和曲线
+#   - 与种子 4.0 取 max；整体截断为每岗位最多 30 个技能
+# 注意：这里只能写 skills 段中存在的规范名，否则该技能只会以种子身份出现、
+#       永远不会参与文本匹配。
+# -----------------------------------------------------------------------------
+job_seed:
+  Data Scientist: [Python, R, SQL, Statistics, Machine Learning, Deep Learning, Data Analysis, Data Visualization, Spark, Cloud Computing, Git]
+  Software Developer: [Java, Python, C++, C#, JavaScript, Data Structures & Algorithms, Software Engineering, Software Testing, Git, SQL, Linux, Docker]
+  Computer Research Scientist: [Python, C++, Data Structures & Algorithms, Machine Learning, Deep Learning, Statistics, Research Methods, Linux, Git]
+  Computer Systems Analyst: [SQL, Business Analysis, Systems Analysis, Project Management, Excel, Tableau, Cloud Computing, Software Engineering]
+  Operations Research Analyst: [Python, R, SQL, Statistics, Data Analysis, Data Visualization, MATLAB, Excel, Machine Learning]
+  Database Architect: [SQL, Database Design, Data Warehousing, ETL, Cloud Computing, Python, Linux, NoSQL]
+  Database Administrator: [SQL, Database Design, Linux, Cloud Computing, Python, NoSQL, ETL]
+  Data Warehousing Specialist: [SQL, ETL, Data Warehousing, Database Design, Cloud Computing, Python, Spark, Snowflake]
+  Statistician: [R, Python, SAS, SPSS, Stata, Statistics, Data Analysis, Data Visualization, Survey Design, Research Methods]
+  Marketing Manager: [Marketing, Market Research, SEO, Google Analytics, CRM, Content Marketing, Social Media Marketing, Excel, Tableau, Project Management]
+  Management Analyst: [Business Analysis, Excel, SQL, Tableau, Project Management, Statistics, Operations Management, SAP/ERP]
+  Computer Programmer: [Java, Python, C++, C#, JavaScript, SQL, Git, Data Structures & Algorithms, Software Testing]
+  Web Developer: [JavaScript, HTML/CSS, React, Node.js, SQL, Git, UI/UX Design, Software Testing, Cloud Computing]
+  Business Intelligence Analyst: [SQL, Tableau, Power BI, Excel, Data Analysis, Data Visualization, ETL, Statistics, Python]
+  Financial Analyst: [Excel, Financial Modeling, Financial Analysis, Accounting, SQL, Tableau, Bloomberg, Statistics, Python]
+  Financial Manager: [Financial Analysis, Financial Modeling, Accounting, Budgeting, Forecasting, Risk Management, Excel, SAP/ERP, Leadership]
+  HR Specialist: [Recruitment, HRIS, Excel, Labor Law, Compensation, Benefits, Communication, Training & Development]
+  HR Manager: [HRIS, Recruitment, Compensation, Benefits, Labor Law, Performance Management, Training & Development, Leadership, Excel]
+  Project Manager: [Project Management, Agile/Scrum, Jira, Excel, Communication, Risk Management, Budgeting, Leadership]
+  Market Research Analyst: [Market Research, Statistics, SPSS, Excel, Tableau, Survey Design, Data Analysis, Marketing, Python, R]
+  Operations Manager: [Operations Management, Supply Chain, SAP/ERP, Excel, Project Management, Quality Control, Budgeting, Leadership]
+  Info Security Analyst: [Cybersecurity, Linux, Python, SQL, Risk Management, Cloud Computing, Incident Response, Network Engineering]
+  Network Architect: [Network Engineering, Cloud Computing, Cybersecurity, Linux, SQL, Python, Cisco, Routing/Switching]
+  QA Analyst: [Software Testing, Test Automation, SQL, Python, Jira, Quality Control, Agile/Scrum]
+  Industrial Engineer: [Industrial Engineering, Lean/Six Sigma, Quality Control, AutoCAD, MATLAB, Statistics, Operations Management, Supply Chain]
+  Logistics Analyst: [Logistics, Supply Chain, SAP/ERP, Excel, SQL, Data Analysis, Inventory Management, Tableau]
+  Budget Analyst: [Budgeting, Financial Analysis, Accounting, Forecasting, Excel, SAP/ERP, Data Analysis]
+  Compensation Specialist: [Compensation, Benefits, HRIS, Excel, Statistics, Labor Law, Performance Management]
+  Training Specialist: [Training & Development, Instructional Design, LMS, Communication, Education/Curriculum Design, Excel]

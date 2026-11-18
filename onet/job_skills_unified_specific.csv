@@ -1,0 +1,1864 @@
+job,skill,weight,source
+Statistician,Mathematics,4.88,onet
+Computer Programmer,Programming,4.75,onet
+Operations Research Analyst,Mathematics,4.5,onet
+HR Manager,Active Listening,4.38,onet
+Training Specialist,Instructing,4.38,onet
+Training Specialist,Speaking,4.38,onet
+Financial Analyst,Mathematics,4.38,onet
+Data Scientist,Mathematics,4.38,onet
+HR Manager,Speaking,4.25,onet
+HR Manager,Reading Comprehension,4.25,onet
+HR Manager,Management of Personnel Resources,4.25,onet
+Data Scientist,Critical Thinking,4.25,onet
+Operations Research Analyst,Complex Problem Solving,4.12,onet
+HR Manager,Coordination,4.12,onet
+HR Specialist,Speaking,4.12,onet
+HR Manager,Writing,4.12,onet
+Financial Analyst,Critical Thinking,4.12,onet
+Management Analyst,Reading Comprehension,4.12,onet
+Network Architect,Critical Thinking,4.12,onet
+Management Analyst,Active Listening,4.12,onet
+Management Analyst,Critical Thinking,4.12,onet
+Training Specialist,Learning Strategies,4.12,onet
+Marketing Manager,Active Listening,4.12,onet
+Web Developer,Programming,4.12,onet
+Database Architect,Databases,4.09,domain
+Database Administrator,Databases,4.07,domain
+Software Developer,Databases,4.06,domain
+Business Intelligence Analyst,Databases,4.02,domain
+Data Warehousing Specialist,Databases,4.01,domain
+Logistics Analyst,Data Analysis,4.0,seed
+Logistics Analyst,Inventory Management,4.0,seed+onet_tool
+Logistics Analyst,Tableau,4.0,seed+onet_tool
+Network Architect,Cybersecurity,4.0,seed+onet_tool
+Network Architect,SQL,4.0,seed+onet_tool
+Network Architect,Python,4.0,seed+onet_tool
+Network Architect,Cisco,4.0,seed+onet_tool
+Network Architect,Routing/Switching,4.0,seed+onet_tool
+QA Analyst,Software Testing,4.0,seed
+QA Analyst,Test Automation,4.0,seed+onet_tool
+QA Analyst,SQL,4.0,seed+onet_tool
+QA Analyst,Python,4.0,seed+onet_tool
+QA Analyst,Jira,4.0,seed+onet_tool
+QA Analyst,Quality Control,4.0,seed
+QA Analyst,Agile/Scrum,4.0,seed
+Software Developer,Programming,4.0,onet
+Industrial Engineer,Industrial Engineering,4.0,seed
+Industrial Engineer,Lean/Six Sigma,4.0,seed
+Operations Manager,Project Management,4.0,seed
+Operations Manager,Quality Control,4.0,seed
+Operations Manager,Budgeting,4.0,seed
+Operations Manager,Leadership,4.0,seed
+Info Security Analyst,Cybersecurity,4.0,seed+onet_tool
+Info Security Analyst,Linux,4.0,seed+onet_tool
+Info Security Analyst,Python,4.0,seed+onet_tool
+Info Security Analyst,SQL,4.0,seed+onet_tool
+Info Security Analyst,Risk Management,4.0,seed+onet_tool
+Info Security Analyst,Cloud Computing,4.0,seed+onet_tool
+Info Security Analyst,Incident Response,4.0,seed+onet_tool
+Info Security Analyst,Network Engineering,4.0,seed+onet_tool
+Network Architect,Network Engineering,4.0,seed+onet_tool
+Network Architect,Cloud Computing,4.0,seed+onet_tool
+Market Research Analyst,Statistics,4.0,domain+seed+onet_tool
+Market Research Analyst,SPSS,4.0,seed+onet_tool
+Market Research Analyst,Excel,4.0,seed+onet_tool
+Market Research Analyst,Tableau,4.0,seed+onet_tool
+Market Research Analyst,Survey Design,4.0,seed
+Market Research Analyst,Data Analysis,4.0,seed+onet_tool
+Market Research Analyst,Marketing,4.0,seed+onet_tool
+Market Research Analyst,Python,4.0,seed
+Market Research Analyst,R,4.0,seed+onet_tool
+Computer Research Scientist,Critical Thinking,4.0,onet
+Operations Manager,Operations Management,4.0,seed
+Operations Manager,Supply Chain,4.0,seed
+Operations Manager,SAP/ERP,4.0,seed+onet_tool
+Operations Manager,Excel,4.0,seed+onet_tool
+HR Manager,Leadership,4.0,seed
+HR Manager,Excel,4.0,seed+onet_tool
+Project Manager,Project Management,4.0,seed
+Project Manager,Agile/Scrum,4.0,seed
+Project Manager,Jira,4.0,seed+onet_tool
+Project Manager,Excel,4.0,seed+onet_tool
+Project Manager,Communication,4.0,seed
+Project Manager,Risk Management,4.0,seed
+Project Manager,Budgeting,4.0,seed
+Project Manager,Leadership,4.0,seed
+Computer Research Scientist,Complex Problem Solving,4.0,onet
+Computer Research Scientist,Judgment and Decision Making,4.0,onet
+Market Research Analyst,Market Research,4.0,seed
+Financial Manager,Speaking,4.0,onet
+Financial Manager,Critical Thinking,4.0,onet
+HR Specialist,Reading Comprehension,4.0,onet
+HR Specialist,Active Listening,4.0,onet
+HR Specialist,Benefits,4.0,seed
+HR Specialist,Communication,4.0,seed
+HR Specialist,Training & Development,4.0,seed
+HR Manager,HRIS,4.0,seed+onet_tool
+HR Manager,Recruitment,4.0,seed
+HR Manager,Compensation,4.0,seed
+Computer Systems Analyst,Speaking,4.0,onet
+HR Manager,Benefits,4.0,seed+onet_tool
+HR Manager,Labor Law,4.0,seed
+HR Manager,Performance Management,4.0,seed
+HR Manager,Training & Development,4.0,seed+onet_tool
+HR Manager,Critical Thinking,4.0,onet
+HR Manager,Active Learning,4.0,onet
+HR Manager,Monitoring,4.0,onet
+HR Manager,Social Perceptiveness,4.0,onet
+Financial Analyst,Statistics,4.0,domain+seed+onet_tool
+Financial Analyst,Python,4.0,seed+onet_tool
+Financial Manager,Financial Analysis,4.0,seed
+Financial Manager,Financial Modeling,4.0,seed
+Financial Manager,Accounting,4.0,seed+onet_tool
+Financial Manager,Budgeting,4.0,seed
+Financial Manager,Forecasting,4.0,seed
+Financial Manager,Risk Management,4.0,seed
+Financial Manager,Excel,4.0,seed+onet_tool
+Financial Manager,SAP/ERP,4.0,seed+onet_tool
+Financial Manager,Leadership,4.0,seed
+HR Specialist,Recruitment,4.0,seed+onet_tool
+HR Specialist,HRIS,4.0,seed+onet_tool
+HR Specialist,Excel,4.0,seed+onet_tool
+HR Specialist,Labor Law,4.0,seed
+HR Specialist,Compensation,4.0,seed
+Business Intelligence Analyst,Data Visualization,4.0,domain+seed
+Business Intelligence Analyst,ETL,4.0,seed
+Business Intelligence Analyst,Statistics,4.0,domain+seed+onet_tool
+Business Intelligence Analyst,Python,4.0,seed+onet_tool
+Computer Systems Analyst,Databases,4.0,domain
+Operations Research Analyst,Reading Comprehension,4.0,onet
+Financial Analyst,Excel,4.0,seed+onet_tool
+Financial Analyst,Financial Modeling,4.0,seed
+Financial Analyst,Financial Analysis,4.0,seed
+Financial Analyst,Accounting,4.0,seed
+Financial Analyst,SQL,4.0,seed+onet_tool
+Financial Analyst,Tableau,4.0,seed+onet_tool
+Financial Analyst,Bloomberg,4.0,seed+onet_tool
+Web Developer,Git,4.0,seed+onet_tool
+Web Developer,UI/UX Design,4.0,seed+onet_tool
+Web Developer,Software Testing,4.0,seed
+Web Developer,Cloud Computing,4.0,seed
+Operations Research Analyst,Active Listening,4.0,onet
+Operations Research Analyst,Writing,4.0,onet
+Operations Research Analyst,Speaking,4.0,onet
+Operations Research Analyst,Critical Thinking,4.0,onet
+Business Intelligence Analyst,SQL,4.0,seed+onet_tool
+Business Intelligence Analyst,Tableau,4.0,seed+onet_tool
+Business Intelligence Analyst,Power BI,4.0,seed+onet_tool
+Business Intelligence Analyst,Excel,4.0,seed+onet_tool
+Business Intelligence Analyst,Data Analysis,4.0,domain+seed
+Computer Programmer,C++,4.0,seed+onet_tool
+Computer Programmer,C#,4.0,seed+onet_tool
+Computer Programmer,JavaScript,4.0,seed+onet_tool
+Computer Programmer,SQL,4.0,seed+onet_tool
+Computer Programmer,Git,4.0,seed+onet_tool
+Computer Programmer,Data Structures & Algorithms,4.0,seed
+Computer Programmer,Software Testing,4.0,seed
+Web Developer,JavaScript,4.0,seed+onet_tool
+Web Developer,HTML/CSS,4.0,seed+onet_tool
+Web Developer,React,4.0,seed+onet_tool
+Web Developer,Node.js,4.0,seed+onet_tool
+Web Developer,SQL,4.0,seed+onet_tool
+Marketing Manager,Social Media Marketing,4.0,seed+onet_tool
+Marketing Manager,Excel,4.0,seed+onet_tool
+Marketing Manager,Tableau,4.0,seed+onet_tool
+Marketing Manager,Project Management,4.0,seed
+Management Analyst,Business Analysis,4.0,seed
+Management Analyst,Excel,4.0,seed+onet_tool
+Management Analyst,SQL,4.0,seed+onet_tool
+Management Analyst,Tableau,4.0,seed+onet_tool
+Management Analyst,Project Management,4.0,seed
+Management Analyst,Statistics,4.0,domain+seed+onet_tool
+Management Analyst,Operations Management,4.0,seed
+Management Analyst,SAP/ERP,4.0,seed+onet_tool
+Computer Programmer,Java,4.0,seed+onet_tool
+Computer Programmer,Python,4.0,seed+onet_tool
+HR Manager,Complex Problem Solving,4.0,onet
+HR Manager,Judgment and Decision Making,4.0,onet
+HR Manager,Time Management,4.0,onet
+Network Architect,Linux,4.0,seed+onet_tool
+Statistician,Python,4.0,seed+onet_tool
+Statistician,SAS,4.0,seed+onet_tool
+Statistician,SPSS,4.0,seed+onet_tool
+Statistician,Stata,4.0,seed+onet_tool
+Statistician,Statistics,4.0,domain+seed+onet_tool
+Statistician,Data Analysis,4.0,domain+seed
+Statistician,Data Visualization,4.0,domain+seed
+Statistician,Survey Design,4.0,seed
+Statistician,Research Methods,4.0,seed
+Marketing Manager,Marketing,4.0,seed+onet_tool
+Marketing Manager,Market Research,4.0,seed
+Marketing Manager,SEO,4.0,seed
+Marketing Manager,Google Analytics,4.0,seed+onet_tool
+Marketing Manager,CRM,4.0,seed+onet_tool
+Marketing Manager,Content Marketing,4.0,seed
+Database Administrator,NoSQL,4.0,seed+onet_tool
+Database Administrator,ETL,4.0,seed+onet_tool
+Data Warehousing Specialist,SQL,4.0,seed+onet_tool
+Data Warehousing Specialist,ETL,4.0,seed+onet_tool
+Data Warehousing Specialist,Data Warehousing,4.0,seed
+Data Warehousing Specialist,Database Design,4.0,seed
+Data Warehousing Specialist,Cloud Computing,4.0,seed
+Data Warehousing Specialist,Python,4.0,seed+onet_tool
+Data Warehousing Specialist,Spark,4.0,seed+onet_tool
+Data Warehousing Specialist,Snowflake,4.0,seed
+Training Specialist,Excel,4.0,seed+onet_tool
+Statistician,R,4.0,seed
+Market Research Analyst,Reading Comprehension,4.0,onet
+Market Research Analyst,Active Listening,4.0,onet
+Market Research Analyst,Writing,4.0,onet
+Market Research Analyst,Critical Thinking,4.0,onet
+Operations Manager,Reading Comprehension,4.0,onet
+Operations Manager,Active Listening,4.0,onet
+Operations Manager,Speaking,4.0,onet
+Management Analyst,Judgment and Decision Making,4.0,onet
+Operations Research Analyst,Machine Learning,4.0,seed
+Database Architect,SQL,4.0,seed+onet_tool
+Database Architect,Database Design,4.0,seed+onet_tool
+Database Architect,Data Warehousing,4.0,seed+onet_tool
+Database Architect,ETL,4.0,seed+onet_tool
+Database Architect,Cloud Computing,4.0,seed+onet_tool
+Database Architect,Python,4.0,seed+onet_tool
+Database Architect,Linux,4.0,seed+onet_tool
+Database Architect,NoSQL,4.0,seed+onet_tool
+Database Administrator,SQL,4.0,seed+onet_tool
+Database Administrator,Database Design,4.0,seed+onet_tool
+Database Administrator,Linux,4.0,seed+onet_tool
+Database Administrator,Cloud Computing,4.0,seed+onet_tool
+Database Administrator,Python,4.0,seed+onet_tool
+Computer Systems Analyst,Business Analysis,4.0,seed
+Computer Systems Analyst,Systems Analysis,4.0,onet+seed
+Computer Systems Analyst,Project Management,4.0,seed
+Computer Systems Analyst,Excel,4.0,seed+onet_tool
+Computer Systems Analyst,Tableau,4.0,seed+onet_tool
+Computer Systems Analyst,Cloud Computing,4.0,seed+onet_tool
+Computer Systems Analyst,Software Engineering,4.0,seed
+Operations Research Analyst,Python,4.0,seed+onet_tool
+Operations Research Analyst,R,4.0,seed
+Operations Research Analyst,SQL,4.0,seed+onet_tool
+Operations Research Analyst,Statistics,4.0,domain+seed+onet_tool
+Operations Research Analyst,Data Analysis,4.0,domain+seed
+Operations Research Analyst,Data Visualization,4.0,domain+seed
+Operations Research Analyst,MATLAB,4.0,seed+onet_tool
+Operations Research Analyst,Excel,4.0,seed+onet_tool
+Software Developer,SQL,4.0,seed+onet_tool
+Software Developer,Linux,4.0,seed+onet_tool
+Software Developer,Docker,4.0,seed+onet_tool
+Training Specialist,Education/Curriculum Design,4.0,seed+onet_tool
+Computer Research Scientist,C++,4.0,seed+onet_tool
+Computer Research Scientist,Data Structures & Algorithms,4.0,seed
+Computer Research Scientist,Machine Learning,4.0,domain+seed
+Computer Research Scientist,Deep Learning,4.0,seed
+Computer Research Scientist,Statistics,4.0,domain+seed+onet_tool
+Computer Research Scientist,Research Methods,4.0,seed
+Computer Research Scientist,Linux,4.0,seed+onet_tool
+Computer Research Scientist,Git,4.0,seed+onet_tool
+Industrial Engineer,Quality Control,4.0,seed+onet_tool
+Computer Systems Analyst,SQL,4.0,seed+onet_tool
+Data Scientist,Data Analysis,4.0,domain+seed
+Data Scientist,Data Visualization,4.0,domain+seed
+Data Scientist,Spark,4.0,seed+onet_tool
+Data Scientist,Cloud Computing,4.0,seed
+Data Scientist,Git,4.0,seed+onet_tool
+Software Developer,Java,4.0,seed+onet_tool
+Software Developer,Python,4.0,seed+onet_tool
+Software Developer,C++,4.0,seed+onet_tool
+Software Developer,C#,4.0,seed+onet_tool
+Software Developer,JavaScript,4.0,seed+onet_tool
+Software Developer,Data Structures & Algorithms,4.0,seed
+Software Developer,Software Engineering,4.0,seed
+Software Developer,Software Testing,4.0,seed
+Software Developer,Git,4.0,seed+onet_tool
+Operations Manager,Monitoring,4.0,onet
+Management Analyst,Complex Problem Solving,4.0,onet
+Info Security Analyst,Reading Comprehension,4.0,onet
+Compensation Specialist,Performance Management,4.0,seed
+Financial Analyst,Reading Comprehension,4.0,onet
+Statistician,Reading Comprehension,4.0,onet
+Financial Manager,Active Listening,4.0,onet
+Data Scientist,Python,4.0,seed+onet_tool
+Data Scientist,R,4.0,seed+onet_tool
+Data Scientist,SQL,4.0,seed+onet_tool
+Data Scientist,Statistics,4.0,domain+seed+onet_tool
+Data Scientist,Machine Learning,4.0,domain+seed
+Data Scientist,Deep Learning,4.0,seed
+Network Architect,Reading Comprehension,4.0,onet
+Industrial Engineer,AutoCAD,4.0,seed+onet_tool
+Computer Research Scientist,Python,4.0,seed+onet_tool
+Industrial Engineer,MATLAB,4.0,seed+onet_tool
+Management Analyst,Writing,4.0,onet
+Management Analyst,Speaking,4.0,onet
+Industrial Engineer,Statistics,4.0,domain+seed
+Training Specialist,Active Listening,4.0,onet
+Statistician,Critical Thinking,4.0,onet
+Industrial Engineer,Operations Management,4.0,seed
+Industrial Engineer,Supply Chain,4.0,seed+onet_tool
+Logistics Analyst,Logistics,4.0,seed+onet_tool
+QA Analyst,Reading Comprehension,4.0,onet
+Industrial Engineer,Reading Comprehension,4.0,onet
+Industrial Engineer,Active Listening,4.0,onet
+Industrial Engineer,Critical Thinking,4.0,onet
+Logistics Analyst,Supply Chain,4.0,seed
+Marketing Manager,Speaking,4.0,onet
+Logistics Analyst,Reading Comprehension,4.0,onet
+Logistics Analyst,Critical Thinking,4.0,onet
+Logistics Analyst,SAP/ERP,4.0,seed+onet_tool
+Logistics Analyst,Excel,4.0,seed+onet_tool
+Training Specialist,Training & Development,4.0,seed+onet_tool
+Training Specialist,Instructional Design,4.0,seed
+Training Specialist,LMS,4.0,seed+onet_tool
+Training Specialist,Communication,4.0,seed
+Financial Manager,Reading Comprehension,4.0,onet
+Logistics Analyst,SQL,4.0,seed+onet_tool
+Business Intelligence Analyst,Reading Comprehension,4.0,onet
+Budget Analyst,Budgeting,4.0,seed+onet_tool
+Budget Analyst,Financial Analysis,4.0,seed
+Budget Analyst,Accounting,4.0,seed+onet_tool
+Budget Analyst,Forecasting,4.0,seed+onet_tool
+Budget Analyst,Excel,4.0,seed+onet_tool
+Budget Analyst,SAP/ERP,4.0,seed+onet_tool
+Budget Analyst,Data Analysis,4.0,seed
+Compensation Specialist,Compensation,4.0,seed+onet_tool
+Compensation Specialist,Benefits,4.0,seed+onet_tool
+Compensation Specialist,HRIS,4.0,seed+onet_tool
+Compensation Specialist,Excel,4.0,seed+onet_tool
+Compensation Specialist,Statistics,4.0,domain+seed+onet_tool
+Compensation Specialist,Labor Law,4.0,seed
+Training Specialist,Social Perceptiveness,4.0,onet
+QA Analyst,Databases,3.99,domain
+Web Developer,Databases,3.98,domain
+Computer Programmer,Databases,3.98,domain
+Info Security Analyst,Databases,3.92,domain
+Network Architect,Databases,3.92,domain
+Management Analyst,Databases,3.92,domain
+Computer Research Scientist,Databases,3.92,domain
+Compensation Specialist,Reading Comprehension,3.88,onet
+Business Intelligence Analyst,Active Listening,3.88,onet
+Business Intelligence Analyst,Speaking,3.88,onet
+Marketing Manager,Critical Thinking,3.88,onet
+Marketing Manager,Judgment and Decision Making,3.88,onet
+Industrial Engineer,Speaking,3.88,onet
+Industrial Engineer,Complex Problem Solving,3.88,onet
+Marketing Manager,Monitoring,3.88,onet
+Marketing Manager,Complex Problem Solving,3.88,onet
+QA Analyst,Speaking,3.88,onet
+Logistics Analyst,Complex Problem Solving,3.88,onet
+Marketing Manager,Active Learning,3.88,onet
+Marketing Manager,Reading Comprehension,3.88,onet
+QA Analyst,Critical Thinking,3.88,onet
+Operations Manager,Critical Thinking,3.88,onet
+Data Warehousing Specialist,Reading Comprehension,3.88,onet
+Info Security Analyst,Critical Thinking,3.88,onet
+Marketing Manager,Systems Evaluation,3.88,onet
+Training Specialist,Judgment and Decision Making,3.88,onet
+QA Analyst,Active Listening,3.88,onet
+Training Specialist,Active Learning,3.88,onet
+Network Architect,Complex Problem Solving,3.88,onet
+Compensation Specialist,Active Listening,3.88,onet
+Statistician,Active Listening,3.88,onet
+Statistician,Speaking,3.88,onet
+Training Specialist,Reading Comprehension,3.88,onet
+Training Specialist,Writing,3.88,onet
+Network Architect,Systems Evaluation,3.88,onet
+Statistician,Complex Problem Solving,3.88,onet
+Training Specialist,Critical Thinking,3.88,onet
+Marketing Manager,Persuasion,3.88,onet
+Budget Analyst,Critical Thinking,3.88,onet
+Logistics Analyst,Active Listening,3.88,onet
+Budget Analyst,Mathematics,3.88,onet
+Business Intelligence Analyst,Critical Thinking,3.88,onet
+Operations Research Analyst,Systems Evaluation,3.88,onet
+HR Manager,Systems Evaluation,3.88,onet
+Computer Systems Analyst,Reading Comprehension,3.88,onet
+Operations Research Analyst,Systems Analysis,3.88,onet
+HR Specialist,Writing,3.88,onet
+HR Specialist,Critical Thinking,3.88,onet
+Operations Research Analyst,Judgment and Decision Making,3.88,onet
+Operations Research Analyst,Active Learning,3.88,onet
+Database Architect,Reading Comprehension,3.88,onet
+Database Architect,Critical Thinking,3.88,onet
+HR Manager,Negotiation,3.88,onet
+HR Manager,Instructing,3.88,onet
+Financial Analyst,Complex Problem Solving,3.88,onet
+Data Scientist,Reading Comprehension,3.88,onet
+Business Intelligence Analyst,Active Learning,3.88,onet
+Software Developer,Critical Thinking,3.88,onet
+Database Architect,Complex Problem Solving,3.88,onet
+Database Architect,Judgment and Decision Making,3.88,onet
+Management Analyst,Coordination,3.88,onet
+Training Specialist,Monitoring,3.88,onet
+Management Analyst,Social Perceptiveness,3.88,onet
+Database Administrator,Critical Thinking,3.88,onet
+Management Analyst,Systems Evaluation,3.88,onet
+Market Research Analyst,Speaking,3.88,onet
+Operations Manager,Coordination,3.88,onet
+Data Warehousing Specialist,Critical Thinking,3.88,onet
+Database Administrator,Complex Problem Solving,3.88,onet
+Network Architect,Programming,3.88,onet
+Compensation Specialist,Speaking,3.88,onet
+Management Analyst,Monitoring,3.88,onet
+Budget Analyst,Judgment and Decision Making,3.75,onet
+Data Scientist,Programming,3.75,onet
+Financial Analyst,Speaking,3.75,onet
+Financial Analyst,Judgment and Decision Making,3.75,onet
+Computer Research Scientist,Active Listening,3.75,onet
+Financial Analyst,Active Learning,3.75,onet
+Computer Research Scientist,Systems Analysis,3.75,onet
+Budget Analyst,Speaking,3.75,onet
+Marketing Manager,Coordination,3.75,onet
+Industrial Engineer,Writing,3.75,onet
+Logistics Analyst,Systems Evaluation,3.75,onet
+Budget Analyst,Reading Comprehension,3.75,onet
+Budget Analyst,Active Listening,3.75,onet
+Logistics Analyst,Systems Analysis,3.75,onet
+Logistics Analyst,Speaking,3.75,onet
+Logistics Analyst,Monitoring,3.75,onet
+Budget Analyst,Complex Problem Solving,3.75,onet
+Marketing Manager,Social Perceptiveness,3.75,onet
+Data Scientist,Complex Problem Solving,3.75,onet
+Business Intelligence Analyst,Writing,3.75,onet
+Marketing Manager,Negotiation,3.75,onet
+Statistician,Writing,3.75,onet
+Database Administrator,Judgment and Decision Making,3.75,onet
+Management Analyst,Systems Analysis,3.75,onet
+Market Research Analyst,Complex Problem Solving,3.75,onet
+Compensation Specialist,Critical Thinking,3.75,onet
+Training Specialist,Coordination,3.75,onet
+Network Architect,Judgment and Decision Making,3.75,onet
+Network Architect,Systems Analysis,3.75,onet
+QA Analyst,Writing,3.75,onet
+Network Architect,Active Listening,3.75,onet
+Marketing Manager,Time Management,3.75,onet
+Info Security Analyst,Complex Problem Solving,3.75,onet
+Statistician,Active Learning,3.75,onet
+Info Security Analyst,Active Listening,3.75,onet
+Operations Manager,Social Perceptiveness,3.75,onet
+Data Warehousing Specialist,Programming,3.75,onet
+Operations Manager,Management of Personnel Resources,3.75,onet
+Computer Programmer,Complex Problem Solving,3.75,onet
+Financial Manager,Monitoring,3.75,onet
+Computer Systems Analyst,Critical Thinking,3.75,onet
+Web Developer,Critical Thinking,3.75,onet
+Computer Research Scientist,Reading Comprehension,3.75,onet
+Financial Analyst,Active Listening,3.75,onet
+Financial Manager,Writing,3.75,onet
+Database Architect,Systems Analysis,3.75,onet
+Market Research Analyst,Judgment and Decision Making,3.75,onet
+Database Administrator,Reading Comprehension,3.75,onet
+Database Administrator,Active Listening,3.75,onet
+Market Research Analyst,Active Learning,3.75,onet
+Computer Systems Analyst,Active Listening,3.75,onet
+HR Manager,Learning Strategies,3.75,onet
+HR Manager,Persuasion,3.75,onet
+Project Manager,Critical Thinking,3.75,onet
+HR Manager,Service Orientation,3.75,onet
+Operations Research Analyst,Operations Analysis,3.75,onet
+Computer Systems Analyst,Systems Evaluation,3.75,onet
+Computer Programmer,Active Listening,3.75,onet
+Project Manager,Active Listening,3.75,onet
+Computer Programmer,Critical Thinking,3.75,onet
+Data Scientist,Databases,3.71,domain
+Marketing Manager,Databases,3.69,domain
+Data Scientist,Active Learning,3.62,onet
+Logistics Analyst,Judgment and Decision Making,3.62,onet
+Data Scientist,Speaking,3.62,onet
+QA Analyst,Programming,3.62,onet
+QA Analyst,Monitoring,3.62,onet
+Operations Manager,Time Management,3.62,onet
+Training Specialist,Service Orientation,3.62,onet
+Operations Manager,Persuasion,3.62,onet
+Operations Manager,Complex Problem Solving,3.62,onet
+Operations Manager,Active Learning,3.62,onet
+Data Warehousing Specialist,Complex Problem Solving,3.62,onet
+Network Architect,Writing,3.62,onet
+Training Specialist,Time Management,3.62,onet
+Info Security Analyst,Speaking,3.62,onet
+Operations Manager,Judgment and Decision Making,3.62,onet
+Project Manager,Writing,3.62,onet
+Project Manager,Monitoring,3.62,onet
+Project Manager,Judgment and Decision Making,3.62,onet
+HR Manager,Systems Analysis,3.62,onet
+Computer Systems Analyst,Active Learning,3.62,onet
+Computer Systems Analyst,Judgment and Decision Making,3.62,onet
+Computer Research Scientist,Systems Evaluation,3.62,onet
+Financial Manager,Social Perceptiveness,3.62,onet
+Financial Manager,Complex Problem Solving,3.62,onet
+Web Developer,Reading Comprehension,3.62,onet
+Financial Manager,Time Management,3.62,onet
+Financial Manager,Judgment and Decision Making,3.62,onet
+Financial Manager,Management of Personnel Resources,3.62,onet
+Financial Manager,Service Orientation,3.62,onet
+Financial Manager,Coordination,3.62,onet
+Computer Research Scientist,Programming,3.62,onet
+Web Developer,Operations Analysis,3.62,onet
+Software Developer,Judgment and Decision Making,3.62,onet
+Web Developer,Complex Problem Solving,3.62,onet
+Business Intelligence Analyst,Judgment and Decision Making,3.62,onet
+Data Scientist,Active Listening,3.5,onet
+Software Developer,Active Learning,3.5,onet
+Data Scientist,Writing,3.5,onet
+Software Developer,Reading Comprehension,3.5,onet
+Computer Research Scientist,Speaking,3.5,onet
+Network Architect,Speaking,3.5,onet
+Business Intelligence Analyst,Mathematics,3.5,onet
+Network Architect,Coordination,3.5,onet
+Management Analyst,Persuasion,3.5,onet
+Financial Manager,Mathematics,3.5,onet
+Info Security Analyst,Writing,3.5,onet
+Financial Analyst,Writing,3.5,onet
+Computer Research Scientist,Active Learning,3.5,onet
+Software Developer,Systems Analysis,3.5,onet
+Project Manager,Speaking,3.5,onet
+Project Manager,Reading Comprehension,3.5,onet
+Operations Manager,Writing,3.5,onet
+Statistician,Science,3.5,onet
+Database Architect,Speaking,3.5,onet
+Data Warehousing Specialist,Systems Analysis,3.5,onet
+Database Architect,Active Listening,3.5,onet
+Web Developer,Active Listening,3.5,onet
+Financial Manager,Active Learning,3.5,onet
+Database Administrator,Active Learning,3.5,onet
+Web Developer,Active Learning,3.5,onet
+Project Manager,Time Management,3.5,onet
+Data Warehousing Specialist,Active Listening,3.5,onet
+Computer Programmer,Quality Control Analysis,3.5,onet
+Project Manager,Active Learning,3.5,onet
+Project Manager,Coordination,3.5,onet
+Operations Manager,Negotiation,3.5,onet
+Operations Research Analyst,Databases,3.45,domain
+Logistics Analyst,Writing,3.38,onet
+Info Security Analyst,Judgment and Decision Making,3.38,onet
+Info Security Analyst,Monitoring,3.38,onet
+Info Security Analyst,Systems Analysis,3.38,onet
+Computer Research Scientist,Writing,3.38,onet
+Computer Research Scientist,Mathematics,3.38,onet
+Computer Systems Analyst,Writing,3.38,onet
+Software Developer,Active Listening,3.38,onet
+Statistician,Judgment and Decision Making,3.38,onet
+Budget Analyst,Management of Financial Resources,3.38,onet
+Computer Systems Analyst,Complex Problem Solving,3.38,onet
+Computer Systems Analyst,Monitoring,3.38,onet
+Financial Manager,Persuasion,3.38,onet
+Compensation Specialist,Writing,3.38,onet
+Compensation Specialist,Active Learning,3.38,onet
+HR Specialist,Service Orientation,3.38,onet
+Data Warehousing Specialist,Judgment and Decision Making,3.38,onet
+Computer Programmer,Systems Analysis,3.38,onet
+Training Specialist,Systems Evaluation,3.38,onet
+Project Manager,Management of Personnel Resources,3.38,onet
+HR Specialist,Social Perceptiveness,3.38,onet
+Market Research Analyst,Databases,3.38,domain
+Industrial Engineer,Monitoring,3.38,onet
+Software Developer,Systems Evaluation,3.38,onet
+Computer Research Scientist,Time Management,3.38,onet
+Data Scientist,Judgment and Decision Making,3.38,onet
+QA Analyst,Quality Control Analysis,3.38,onet
+QA Analyst,Complex Problem Solving,3.38,onet
+Software Developer,Technology Design,3.38,onet
+Web Developer,Judgment and Decision Making,3.38,onet
+Business Intelligence Analyst,Complex Problem Solving,3.38,onet
+Software Developer,Complex Problem Solving,3.38,onet
+Database Administrator,Speaking,3.38,onet
+Computer Programmer,Reading Comprehension,3.38,onet
+Project Manager,Social Perceptiveness,3.38,onet
+Database Administrator,Programming,3.38,onet
+Project Manager,Complex Problem Solving,3.38,onet
+Database Architect,Programming,3.38,onet
+Data Warehousing Specialist,Speaking,3.38,onet
+Computer Research Scientist,SQL,3.33,onet_tool
+Software Developer,Data Visualization,3.26,domain
+Software Developer,Operations Analysis,3.25,onet
+Data Scientist,Monitoring,3.25,onet
+Database Administrator,Monitoring,3.25,onet
+Network Architect,Quality Control Analysis,3.25,onet
+Project Manager,Persuasion,3.25,onet
+Marketing Manager,Management of Personnel Resources,3.25,onet
+Info Security Analyst,Active Learning,3.25,onet
+Management Analyst,Active Learning,3.25,onet
+Financial Analyst,Systems Analysis,3.25,onet
+Financial Analyst,Systems Evaluation,3.25,onet
+Software Developer,Writing,3.25,onet
+Project Manager,Negotiation,3.25,onet
+Marketing Manager,Writing,3.25,onet
+Database Administrator,Writing,3.25,onet
+Project Manager,Systems Analysis,3.25,onet
+HR Specialist,Active Learning,3.25,onet
+Database Architect,Systems Evaluation,3.25,onet
+Data Warehousing Specialist,Writing,3.25,onet
+Computer Programmer,Judgment and Decision Making,3.25,onet
+Computer Programmer,Writing,3.25,onet
+Management Analyst,Time Management,3.25,onet
+Training Specialist,Complex Problem Solving,3.25,onet
+Database Architect,Active Learning,3.25,onet
+HR Specialist,Judgment and Decision Making,3.25,onet
+Data Warehousing Specialist,Systems Evaluation,3.25,onet
+Industrial Engineer,Systems Evaluation,3.25,onet
+Industrial Engineer,Systems Analysis,3.25,onet
+Computer Systems Analyst,Programming,3.25,onet
+Logistics Analyst,Time Management,3.25,onet
+Budget Analyst,Active Learning,3.25,onet
+Network Architect,Active Learning,3.25,onet
+QA Analyst,Systems Evaluation,3.25,onet
+Marketing Manager,Systems Analysis,3.25,onet
+Industrial Engineer,Mathematics,3.25,onet
+Industrial Engineer,Active Learning,3.25,onet
+Marketing Manager,Learning Strategies,3.25,onet
+Management Analyst,Service Orientation,3.25,onet
+Management Analyst,Instructing,3.25,onet
+Operations Manager,Service Orientation,3.25,onet
+Operations Research Analyst,Science,3.25,onet
+Web Developer,Speaking,3.25,onet
+Statistician,Databases,3.24,domain
+Marketing Manager,SQL,3.2,onet_tool
+Operations Manager,Databases,3.19,domain
+Computer Programmer,Linux,3.14,onet_tool
+Software Developer,NoSQL,3.14,onet_tool
+Network Architect,Technology Design,3.12,onet
+Business Intelligence Analyst,Systems Evaluation,3.12,onet
+Network Architect,Monitoring,3.12,onet
+Marketing Manager,Operations Analysis,3.12,onet
+Business Intelligence Analyst,Systems Analysis,3.12,onet
+Software Developer,Speaking,3.12,onet
+Business Intelligence Analyst,Monitoring,3.12,onet
+Business Intelligence Analyst,Time Management,3.12,onet
+Info Security Analyst,Time Management,3.12,onet
+Industrial Engineer,Coordination,3.12,onet
+Computer Research Scientist,Science,3.12,onet
+Computer Research Scientist,Monitoring,3.12,onet
+Software Developer,Time Management,3.12,onet
+Industrial Engineer,Judgment and Decision Making,3.12,onet
+Computer Research Scientist,Operations Analysis,3.12,onet
+Computer Research Scientist,Technology Design,3.12,onet
+Budget Analyst,Systems Analysis,3.12,onet
+Budget Analyst,Monitoring,3.12,onet
+Operations Manager,Systems Evaluation,3.12,onet
+Operations Manager,Systems Analysis,3.12,onet
+Operations Manager,Management of Material Resources,3.12,onet
+Budget Analyst,Writing,3.12,onet
+Financial Analyst,Persuasion,3.12,onet
+Logistics Analyst,Active Learning,3.12,onet
+Training Specialist,Negotiation,3.12,onet
+Training Specialist,Persuasion,3.12,onet
+Database Architect,Monitoring,3.12,onet
+Market Research Analyst,Systems Evaluation,3.12,onet
+Statistician,Learning Strategies,3.12,onet
+HR Specialist,Instructing,3.12,onet
+Compensation Specialist,Judgment and Decision Making,3.12,onet
+Computer Systems Analyst,Social Perceptiveness,3.12,onet
+Computer Systems Analyst,Coordination,3.12,onet
+Computer Systems Analyst,Learning Strategies,3.12,onet
+Management Analyst,Negotiation,3.12,onet
+Computer Systems Analyst,Time Management,3.12,onet
+Financial Manager,Negotiation,3.12,onet
+Compensation Specialist,Mathematics,3.12,onet
+Web Developer,Writing,3.12,onet
+Compensation Specialist,Complex Problem Solving,3.12,onet
+Compensation Specialist,Monitoring,3.12,onet
+Financial Manager,Management of Financial Resources,3.12,onet
+Operations Research Analyst,Coordination,3.12,onet
+Computer Programmer,Time Management,3.12,onet
+Training Specialist,Operations Analysis,3.12,onet
+Computer Systems Analyst,Troubleshooting,3.12,onet
+Database Architect,Writing,3.12,onet
+HR Specialist,Complex Problem Solving,3.12,onet
+Training Specialist,Management of Personnel Resources,3.12,onet
+Market Research Analyst,Mathematics,3.12,onet
+Training Specialist,Systems Analysis,3.12,onet
+Operations Research Analyst,Time Management,3.12,onet
+Compensation Specialist,Systems Evaluation,3.12,onet
+Compensation Specialist,Systems Analysis,3.12,onet
+Market Research Analyst,Social Perceptiveness,3.12,onet
+Market Research Analyst,Monitoring,3.12,onet
+Computer Programmer,Operations Analysis,3.12,onet
+Database Architect,Operations Analysis,3.12,onet
+Market Research Analyst,Persuasion,3.12,onet
+Data Warehousing Specialist,Coordination,3.12,onet
+Project Manager,Service Orientation,3.12,onet
+Project Manager,Systems Evaluation,3.12,onet
+Computer Programmer,Mathematics,3.12,onet
+Computer Programmer,Speaking,3.12,onet
+Computer Programmer,Systems Evaluation,3.12,onet
+Database Administrator,Operations Analysis,3.12,onet
+Project Manager,Instructing,3.12,onet
+Database Administrator,Systems Evaluation,3.12,onet
+HR Manager,Management of Financial Resources,3.12,onet
+Computer Programmer,Active Learning,3.12,onet
+Database Administrator,Systems Analysis,3.12,onet
+Computer Programmer,Social Perceptiveness,3.12,onet
+QA Analyst,Operations Analysis,3.12,onet
+QA Analyst,Judgment and Decision Making,3.12,onet
+QA Analyst,Systems Analysis,3.12,onet
+QA Analyst,Active Learning,3.12,onet
+Network Architect,Time Management,3.12,onet
+Web Developer,Systems Analysis,3.12,onet
+Computer Systems Analyst,Linux,3.11,onet_tool
+Data Warehousing Specialist,Linux,3.11,onet_tool
+Web Developer,Linux,3.11,onet_tool
+Computer Research Scientist,NoSQL,3.11,onet_tool
+Web Developer,NoSQL,3.11,onet_tool
+Business Intelligence Analyst,Linux,3.11,onet_tool
+QA Analyst,Linux,3.11,onet_tool
+Management Analyst,Data Visualization,3.09,domain
+Computer Systems Analyst,SAP/ERP,3.05,onet_tool
+Data Warehousing Specialist,NoSQL,3.04,onet_tool
+QA Analyst,NoSQL,3.04,onet_tool
+Data Warehousing Specialist,Data Visualization,3.02,domain
+Computer Systems Analyst,Data Visualization,3.02,domain
+Software Developer,SAP/ERP,3.01,onet_tool
+QA Analyst,Operations Monitoring,3.0,onet
+Software Developer,Monitoring,3.0,onet
+Business Intelligence Analyst,Coordination,3.0,onet
+Data Warehousing Specialist,Social Perceptiveness,3.0,onet
+Financial Manager,Systems Analysis,3.0,onet
+Financial Manager,Systems Evaluation,3.0,onet
+Market Research Analyst,Time Management,3.0,onet
+Market Research Analyst,Systems Analysis,3.0,onet
+Financial Manager,Databases,3.0,domain
+HR Specialist,Learning Strategies,3.0,onet
+Database Architect,Coordination,3.0,onet
+Database Architect,Social Perceptiveness,3.0,onet
+Management Analyst,Linux,3.0,onet_tool
+Database Architect,Technology Design,3.0,onet
+Data Warehousing Specialist,Mathematics,3.0,onet
+Computer Systems Analyst,NoSQL,3.0,onet_tool
+Database Administrator,Instructing,3.0,onet
+Computer Programmer,Monitoring,3.0,onet
+Database Administrator,Mathematics,3.0,onet
+Project Manager,Learning Strategies,3.0,onet
+Project Manager,Management of Financial Resources,3.0,onet
+Data Warehousing Specialist,Active Learning,3.0,onet
+HR Specialist,Databases,3.0,domain
+HR Specialist,Monitoring,3.0,onet
+Project Manager,Management of Material Resources,3.0,onet
+Database Architect,Mathematics,3.0,onet
+HR Manager,Mathematics,3.0,onet
+HR Specialist,Time Management,3.0,onet
+Database Administrator,Coordination,3.0,onet
+Computer Programmer,Coordination,3.0,onet
+Market Research Analyst,Coordination,3.0,onet
+Database Architect,Service Orientation,3.0,onet
+Operations Research Analyst,Linux,3.0,onet_tool
+Database Architect,Time Management,3.0,onet
+Logistics Analyst,Service Orientation,3.0,onet
+Info Security Analyst,Coordination,3.0,onet
+Computer Programmer,NoSQL,3.0,onet_tool
+Operations Research Analyst,Instructing,3.0,onet
+Budget Analyst,Systems Evaluation,3.0,onet
+Computer Systems Analyst,Quality Control Analysis,3.0,onet
+Operations Manager,Instructing,3.0,onet
+Operations Manager,Learning Strategies,3.0,onet
+Statistician,Systems Evaluation,3.0,onet
+Statistician,Time Management,3.0,onet
+Management Analyst,Operations Analysis,3.0,onet
+Market Research Analyst,SQL,3.0,onet_tool
+Statistician,Systems Analysis,3.0,onet
+Statistician,Programming,3.0,onet
+Computer Systems Analyst,Mathematics,3.0,onet
+Management Analyst,Learning Strategies,3.0,onet
+Computer Systems Analyst,Service Orientation,3.0,onet
+Budget Analyst,Time Management,3.0,onet
+HR Specialist,Negotiation,3.0,onet
+Statistician,Monitoring,3.0,onet
+Compensation Specialist,Service Orientation,3.0,onet
+Operations Research Analyst,Learning Strategies,3.0,onet
+Compensation Specialist,Social Perceptiveness,3.0,onet
+Compensation Specialist,Coordination,3.0,onet
+Compensation Specialist,Persuasion,3.0,onet
+Compensation Specialist,Negotiation,3.0,onet
+HR Specialist,Coordination,3.0,onet
+Compensation Specialist,Time Management,3.0,onet
+Management Analyst,Management of Personnel Resources,3.0,onet
+Business Intelligence Analyst,Instructing,3.0,onet
+Data Scientist,Time Management,3.0,onet
+Database Administrator,Learning Strategies,3.0,onet
+Web Developer,Systems Evaluation,3.0,onet
+Software Developer,Coordination,3.0,onet
+Web Developer,Time Management,3.0,onet
+QA Analyst,Coordination,3.0,onet
+QA Analyst,Time Management,3.0,onet
+Marketing Manager,Service Orientation,3.0,onet
+Marketing Manager,Instructing,3.0,onet
+Network Architect,Persuasion,3.0,onet
+Network Architect,NoSQL,3.0,onet_tool
+Network Architect,Instructing,3.0,onet
+Network Architect,Negotiation,3.0,onet
+Marketing Manager,Mathematics,3.0,onet
+Industrial Engineer,Social Perceptiveness,3.0,onet
+Network Architect,Operations Monitoring,3.0,onet
+Computer Research Scientist,Learning Strategies,3.0,onet
+Computer Research Scientist,Social Perceptiveness,3.0,onet
+Info Security Analyst,Quality Control Analysis,3.0,onet
+Web Developer,Monitoring,3.0,onet
+Industrial Engineer,Instructing,3.0,onet
+Financial Analyst,Social Perceptiveness,3.0,onet
+Info Security Analyst,Operations Monitoring,3.0,onet
+Logistics Analyst,Mathematics,3.0,onet
+Management Analyst,Mathematics,3.0,onet
+Industrial Engineer,Time Management,3.0,onet
+Computer Research Scientist,Instructing,3.0,onet
+Web Developer,Coordination,3.0,onet
+Info Security Analyst,Systems Evaluation,3.0,onet
+Financial Analyst,Instructing,3.0,onet
+Financial Analyst,Monitoring,3.0,onet
+Financial Analyst,Learning Strategies,3.0,onet
+Logistics Analyst,Coordination,3.0,onet
+Logistics Analyst,Social Perceptiveness,3.0,onet
+Financial Manager,Learning Strategies,3.0,onet
+Business Intelligence Analyst,NoSQL,3.0,onet_tool
+Financial Analyst,Coordination,3.0,onet
+Business Intelligence Analyst,Learning Strategies,3.0,onet
+Logistics Analyst,Management of Personnel Resources,3.0,onet
+Computer Systems Analyst,Operations Analysis,3.0,onet
+Operations Manager,Management of Financial Resources,3.0,onet
+Budget Analyst,Social Perceptiveness,3.0,onet
+Financial Analyst,Time Management,3.0,onet
+Computer Systems Analyst,Operations Monitoring,3.0,onet
+Network Architect,Service Orientation,3.0,onet
+Operations Manager,SQL,3.0,onet_tool
+Network Architect,Learning Strategies,3.0,onet
+Network Architect,Social Perceptiveness,3.0,onet
+Network Architect,Mathematics,3.0,onet
+Computer Research Scientist,Coordination,3.0,onet
+Info Security Analyst,NoSQL,3.0,onet_tool
+Computer Systems Analyst,JavaScript,2.95,onet_tool
+Database Administrator,JavaScript,2.95,onet_tool
+QA Analyst,JavaScript,2.95,onet_tool
+Database Architect,JavaScript,2.95,onet_tool
+Management Analyst,JavaScript,2.95,onet_tool
+Business Intelligence Analyst,SAP/ERP,2.93,onet_tool
+Database Architect,SAP/ERP,2.92,onet_tool
+Network Architect,AWS,2.9,onet_tool
+Computer Research Scientist,AWS,2.9,onet_tool
+Database Architect,AWS,2.9,onet_tool
+Computer Systems Analyst,AWS,2.9,onet_tool
+Web Developer,AWS,2.9,onet_tool
+Software Developer,AWS,2.9,onet_tool
+Computer Programmer,R,2.9,onet_tool
+Computer Programmer,AWS,2.9,onet_tool
+Database Administrator,AWS,2.9,onet_tool
+QA Analyst,AWS,2.9,onet_tool
+Network Architect,JavaScript,2.9,onet_tool
+Info Security Analyst,AWS,2.9,onet_tool
+QA Analyst,.NET,2.89,onet_tool
+Database Architect,.NET,2.89,onet_tool
+Database Administrator,.NET,2.89,onet_tool
+Software Developer,.NET,2.89,onet_tool
+HR Specialist,Management of Personnel Resources,2.88,onet
+Data Warehousing Specialist,Time Management,2.88,onet
+HR Specialist,Systems Analysis,2.88,onet
+Database Architect,Learning Strategies,2.88,onet
+QA Analyst,Troubleshooting,2.88,onet
+Network Architect,Troubleshooting,2.88,onet
+Data Scientist,Coordination,2.88,onet
+Data Scientist,Social Perceptiveness,2.88,onet
+Database Administrator,Social Perceptiveness,2.88,onet
+Business Intelligence Analyst,Persuasion,2.88,onet
+Business Intelligence Analyst,Service Orientation,2.88,onet
+Software Developer,Service Orientation,2.88,onet
+Software Developer,Social Perceptiveness,2.88,onet
+Market Research Analyst,Learning Strategies,2.88,onet
+Database Architect,Persuasion,2.88,onet
+Database Architect,Instructing,2.88,onet
+Data Warehousing Specialist,Monitoring,2.88,onet
+Database Administrator,Service Orientation,2.88,onet
+Database Administrator,Time Management,2.88,onet
+Software Developer,Instructing,2.88,onet
+Statistician,Coordination,2.88,onet
+HR Specialist,Persuasion,2.88,onet
+Compensation Specialist,Management of Personnel Resources,2.88,onet
+Statistician,Operations Analysis,2.88,onet
+Statistician,Instructing,2.88,onet
+Logistics Analyst,Instructing,2.88,onet
+Info Security Analyst,Learning Strategies,2.88,onet
+Info Security Analyst,Service Orientation,2.88,onet
+Info Security Analyst,Instructing,2.88,onet
+Computer Systems Analyst,Technology Design,2.88,onet
+Financial Analyst,Management of Financial Resources,2.88,onet
+Budget Analyst,Coordination,2.88,onet
+Computer Research Scientist,Management of Personnel Resources,2.88,onet
+Computer Systems Analyst,Management of Personnel Resources,2.88,onet
+Financial Manager,Instructing,2.88,onet
+Operations Research Analyst,Persuasion,2.88,onet
+Operations Research Analyst,Social Perceptiveness,2.88,onet
+Compensation Specialist,Instructing,2.88,onet
+Operations Research Analyst,Monitoring,2.88,onet
+Compensation Specialist,Learning Strategies,2.88,onet
+Computer Systems Analyst,Instructing,2.88,onet
+Marketing Manager,Management of Financial Resources,2.88,onet
+Marketing Manager,Management of Material Resources,2.88,onet
+Web Developer,Learning Strategies,2.88,onet
+Industrial Engineer,Management of Personnel Resources,2.88,onet
+Financial Analyst,Negotiation,2.88,onet
+Web Developer,Service Orientation,2.88,onet
+Web Developer,Persuasion,2.88,onet
+Web Developer,Social Perceptiveness,2.88,onet
+Logistics Analyst,Persuasion,2.88,onet
+Financial Analyst,Service Orientation,2.88,onet
+Logistics Analyst,Negotiation,2.88,onet
+Info Security Analyst,Management of Personnel Resources,2.88,onet
+Business Intelligence Analyst,Social Perceptiveness,2.88,onet
+Network Architect,Operations Analysis,2.88,onet
+QA Analyst,Learning Strategies,2.88,onet
+QA Analyst,Social Perceptiveness,2.88,onet
+QA Analyst,Data Visualization,2.87,domain
+QA Analyst,SAP/ERP,2.87,onet_tool
+Data Warehousing Specialist,SAP/ERP,2.87,onet_tool
+Database Administrator,SAP/ERP,2.87,onet_tool
+Industrial Engineer,Linux,2.86,onet_tool
+QA Analyst,Git,2.86,onet_tool
+Computer Research Scientist,Data Visualization,2.86,domain
+HR Specialist,SQL,2.86,onet_tool
+Financial Manager,SQL,2.86,onet_tool
+Database Architect,Data Visualization,2.86,domain
+Logistics Analyst,Data Visualization,2.86,domain
+Database Administrator,Data Visualization,2.86,domain
+Data Scientist,Linux,2.86,onet_tool
+Data Scientist,NoSQL,2.86,onet_tool
+Market Research Analyst,Data Visualization,2.86,domain
+Statistician,SQL,2.86,onet_tool
+Management Analyst,NoSQL,2.86,onet_tool
+Info Security Analyst,JavaScript,2.86,onet_tool
+Marketing Manager,Data Visualization,2.86,domain
+Computer Systems Analyst,.NET,2.84,onet_tool
+Computer Programmer,.NET,2.84,onet_tool
+Web Developer,.NET,2.84,onet_tool
+Computer Programmer,SAP/ERP,2.82,onet_tool
+Data Scientist,AWS,2.79,onet_tool
+Financial Analyst,Data Visualization,2.76,domain
+Database Architect,Statistics,2.76,domain+onet_tool
+Network Architect,Management of Personnel Resources,2.75,onet
+Computer Systems Analyst,Persuasion,2.75,onet
+Software Developer,Machine Learning,2.75,domain
+Software Developer,Quality Control Analysis,2.75,onet
+Computer Research Scientist,Persuasion,2.75,onet
+QA Analyst,Mathematics,2.75,onet
+Software Developer,Operations Monitoring,2.75,onet
+QA Analyst,Science,2.75,onet
+Operations Research Analyst,Service Orientation,2.75,onet
+Web Developer,Quality Control Analysis,2.75,onet
+Web Developer,Instructing,2.75,onet
+Data Scientist,Learning Strategies,2.75,onet
+Logistics Analyst,Databases,2.75,domain
+Info Security Analyst,Social Perceptiveness,2.75,onet
+Web Developer,Mathematics,2.75,onet
+Computer Programmer,Technology Design,2.75,onet
+Computer Programmer,Science,2.75,onet
+Database Administrator,Operations Monitoring,2.75,onet
+Project Manager,Mathematics,2.75,onet
+Data Scientist,Instructing,2.75,onet
+Data Warehousing Specialist,Persuasion,2.75,onet
+Data Warehousing Specialist,Operations Analysis,2.75,onet
+Software Developer,Mathematics,2.75,onet
+Market Research Analyst,Service Orientation,2.75,onet
+Statistician,Social Perceptiveness,2.75,onet
+Database Administrator,Management of Personnel Resources,2.75,onet
+Logistics Analyst,Learning Strategies,2.75,onet
+Computer Research Scientist,Service Orientation,2.75,onet
+Industrial Engineer,Learning Strategies,2.75,onet
+Web Developer,Negotiation,2.75,onet
+Industrial Engineer,Service Orientation,2.75,onet
+Financial Analyst,Databases,2.75,domain
+Software Developer,Persuasion,2.75,onet
+Data Scientist,Systems Analysis,2.75,onet
+Data Scientist,Systems Evaluation,2.75,onet
+Data Scientist,Persuasion,2.75,onet
+Business Intelligence Analyst,JavaScript,2.73,onet_tool
+Data Warehousing Specialist,AWS,2.73,onet_tool
+Management Analyst,.NET,2.73,onet_tool
+Data Scientist,Hadoop,2.73,onet_tool
+Computer Programmer,HTML/CSS,2.73,onet_tool
+Network Architect,.NET,2.73,onet_tool
+QA Analyst,Java,2.73,onet_tool
+Operations Research Analyst,SAP/ERP,2.71,onet_tool
+HR Specialist,SAP/ERP,2.71,onet_tool
+QA Analyst,Hadoop,2.67,onet_tool
+Business Intelligence Analyst,Hadoop,2.67,onet_tool
+Business Intelligence Analyst,Jira,2.67,onet_tool
+Business Intelligence Analyst,Git,2.67,onet_tool
+Financial Analyst,Linux,2.67,onet_tool
+Business Intelligence Analyst,.NET,2.67,onet_tool
+Business Intelligence Analyst,AWS,2.67,onet_tool
+Network Architect,Hadoop,2.67,onet_tool
+Project Manager,Git,2.67,onet_tool
+Market Research Analyst,Hadoop,2.67,onet_tool
+Info Security Analyst,Hadoop,2.67,onet_tool
+Info Security Analyst,Jira,2.67,onet_tool
+Info Security Analyst,Git,2.67,onet_tool
+Info Security Analyst,.NET,2.67,onet_tool
+Computer Research Scientist,JavaScript,2.67,onet_tool
+Computer Systems Analyst,Java,2.67,onet_tool
+Marketing Manager,Hadoop,2.67,onet_tool
+Statistician,Linux,2.67,onet_tool
+Database Administrator,Git,2.67,onet_tool
+Database Administrator,HTML/CSS,2.67,onet_tool
+Computer Research Scientist,Hadoop,2.67,onet_tool
+Computer Research Scientist,Java,2.67,onet_tool
+Market Research Analyst,HTML/CSS,2.67,onet_tool
+Operations Manager,Jira,2.67,onet_tool
+Network Architect,Jira,2.67,onet_tool
+Industrial Engineer,SQL,2.67,onet_tool
+QA Analyst,HTML/CSS,2.67,onet_tool
+Network Architect,Git,2.67,onet_tool
+Network Architect,HTML/CSS,2.67,onet_tool
+Compensation Specialist,SQL,2.67,onet_tool
+Data Scientist,Jira,2.67,onet_tool
+Software Developer,Jira,2.67,onet_tool
+Training Specialist,SQL,2.67,onet_tool
+Computer Systems Analyst,Hadoop,2.67,onet_tool
+Computer Systems Analyst,HTML/CSS,2.67,onet_tool
+Data Scientist,JavaScript,2.67,onet_tool
+Software Developer,Hadoop,2.67,onet_tool
+Software Developer,HTML/CSS,2.67,onet_tool
+Computer Systems Analyst,Jira,2.67,onet_tool
+Operations Research Analyst,Hadoop,2.67,onet_tool
+Database Architect,Jira,2.67,onet_tool
+Database Architect,Hadoop,2.67,onet_tool
+Computer Systems Analyst,Git,2.67,onet_tool
+Database Architect,HTML/CSS,2.67,onet_tool
+Database Architect,Git,2.67,onet_tool
+Database Administrator,Jira,2.67,onet_tool
+Data Warehousing Specialist,Hadoop,2.67,onet_tool
+Database Administrator,Hadoop,2.67,onet_tool
+Management Analyst,Hadoop,2.67,onet_tool
+Marketing Manager,HTML/CSS,2.67,onet_tool
+Management Analyst,HTML/CSS,2.67,onet_tool
+Marketing Manager,NoSQL,2.67,onet_tool
+Marketing Manager,Jira,2.67,onet_tool
+Management Analyst,AWS,2.67,onet_tool
+Management Analyst,Jira,2.67,onet_tool
+Computer Programmer,Jira,2.67,onet_tool
+Computer Programmer,Hadoop,2.67,onet_tool
+Web Developer,Java,2.67,onet_tool
+Web Developer,Jira,2.67,onet_tool
+Web Developer,Hadoop,2.67,onet_tool
+Management Analyst,Git,2.67,onet_tool
+Database Administrator,Statistics,2.66,domain+onet_tool
+Computer Programmer,Statistics,2.66,domain+onet_tool
+Data Warehousing Specialist,Statistics,2.66,domain+onet_tool
+Operations Manager,Statistics,2.66,domain+onet_tool
+QA Analyst,Statistics,2.66,domain
+Software Developer,Statistics,2.66,domain
+Marketing Manager,Statistics,2.66,domain+onet_tool
+Computer Systems Analyst,Statistics,2.66,domain
+Market Research Analyst,SAP/ERP,2.64,onet_tool
+Compensation Specialist,SAP/ERP,2.64,onet_tool
+Web Developer,SAP/ERP,2.64,onet_tool
+Software Developer,Negotiation,2.62,onet
+QA Analyst,Technology Design,2.62,onet
+Network Architect,Equipment Selection,2.62,onet
+Network Architect,Operation and Control,2.62,onet
+Software Developer,Learning Strategies,2.62,onet
+QA Analyst,R,2.62,onet_tool
+QA Analyst,Instructing,2.62,onet
+Financial Analyst,Programming,2.62,onet
+Financial Analyst,Management of Personnel Resources,2.62,onet
+HR Manager,ADP,2.62,onet_tool
+Info Security Analyst,Negotiation,2.62,onet
+Info Security Analyst,Programming,2.62,onet
+Software Developer,Troubleshooting,2.62,onet
+Computer Research Scientist,Operations Monitoring,2.62,onet
+Industrial Engineer,Persuasion,2.62,onet
+Data Warehousing Specialist,Technology Design,2.62,onet
+Market Research Analyst,Operations Analysis,2.62,onet
+Market Research Analyst,Management of Personnel Resources,2.62,onet
+Data Warehousing Specialist,Negotiation,2.62,onet
+Data Warehousing Specialist,Service Orientation,2.62,onet
+Market Research Analyst,Negotiation,2.62,onet
+Data Warehousing Specialist,Instructing,2.62,onet
+Data Warehousing Specialist,Learning Strategies,2.62,onet
+Operations Research Analyst,Management of Personnel Resources,2.62,onet
+Database Administrator,Persuasion,2.62,onet
+Computer Programmer,Persuasion,2.62,onet
+Operations Research Analyst,Programming,2.62,onet
+Budget Analyst,Negotiation,2.62,onet
+Logistics Analyst,Management of Material Resources,2.62,onet
+Operations Manager,Mathematics,2.62,onet
+Database Architect,Negotiation,2.62,onet
+Budget Analyst,Instructing,2.62,onet
+Info Security Analyst,Persuasion,2.62,onet
+Computer Programmer,Management of Personnel Resources,2.62,onet
+Budget Analyst,Persuasion,2.62,onet
+HR Manager,SAP/ERP,2.57,onet_tool
+Project Manager,SAP/ERP,2.57,onet_tool
+HR Specialist,PeopleSoft,2.57,onet_tool
+HR Manager,QuickBooks/Sage,2.57,onet_tool
+Marketing Manager,SAP/ERP,2.57,onet_tool
+Software Developer,React,2.57,onet_tool
+Operations Manager,QuickBooks/Sage,2.57,onet_tool
+Info Security Analyst,Data Visualization,2.56,domain
+Web Developer,Data Visualization,2.56,domain
+Network Architect,Data Visualization,2.56,domain
+Financial Manager,Data Visualization,2.56,domain
+Operations Manager,Data Visualization,2.56,domain
+HR Specialist,Data Visualization,2.56,domain
+Computer Programmer,Data Visualization,2.56,domain
+Network Architect,R,2.55,onet_tool
+HR Specialist,Statistics,2.54,domain+onet_tool
+Computer Research Scientist,Negotiation,2.5,onet
+Computer Research Scientist,Management of Financial Resources,2.5,onet
+Computer Systems Analyst,Operation and Control,2.5,onet
+Industrial Engineer,Operations Analysis,2.5,onet
+Business Intelligence Analyst,Negotiation,2.5,onet
+Business Intelligence Analyst,Programming,2.5,onet
+QA Analyst,Service Orientation,2.5,onet
+QA Analyst,Persuasion,2.5,onet
+Network Architect,Management of Financial Resources,2.5,onet
+Web Developer,Technology Design,2.5,onet
+Industrial Engineer,Management of Material Resources,2.5,onet
+Logistics Analyst,Management of Financial Resources,2.5,onet
+Info Security Analyst,Operations Analysis,2.5,onet
+Computer Systems Analyst,Negotiation,2.5,onet
+Compensation Specialist,Operations Analysis,2.5,onet
+Budget Analyst,Service Orientation,2.5,onet
+Database Architect,Management of Personnel Resources,2.5,onet
+Operations Manager,Operations Analysis,2.5,onet
+Budget Analyst,Learning Strategies,2.5,onet
+Statistician,Persuasion,2.5,onet
+Computer Programmer,Instructing,2.5,onet
+Database Administrator,Troubleshooting,2.5,onet
+Database Administrator,Quality Control Analysis,2.5,onet
+Data Warehousing Specialist,Operations Monitoring,2.5,onet
+Market Research Analyst,Instructing,2.5,onet
+Data Scientist,Service Orientation,2.5,onet
+Data Scientist,Science,2.5,onet
+Computer Systems Analyst,C#,2.49,onet_tool
+QA Analyst,Cisco,2.49,onet_tool
+QA Analyst,C#,2.49,onet_tool
+Training Specialist,PeopleSoft,2.49,onet_tool
+Software Developer,Salesforce,2.49,onet_tool
+Software Developer,PeopleSoft,2.49,onet_tool
+Database Architect,SAS,2.49,onet_tool
+Database Architect,PeopleSoft,2.49,onet_tool
+Computer Research Scientist,C#,2.49,onet_tool
+HR Specialist,QuickBooks/Sage,2.49,onet_tool
+Database Architect,Cisco,2.49,onet_tool
+Software Developer,Azure,2.49,onet_tool
+Software Developer,Cisco,2.49,onet_tool
+Training Specialist,JavaScript,2.49,onet_tool
+Database Architect,C#,2.49,onet_tool
+Network Architect,Java,2.49,onet_tool
+Computer Systems Analyst,Python,2.49,onet_tool
+Computer Systems Analyst,Cisco,2.49,onet_tool
+QA Analyst,Salesforce,2.49,onet_tool
+QA Analyst,PeopleSoft,2.49,onet_tool
+QA Analyst,Azure,2.49,onet_tool
+Financial Manager,PeopleSoft,2.49,onet_tool
+Financial Manager,QuickBooks/Sage,2.49,onet_tool
+Computer Systems Analyst,Salesforce,2.49,onet_tool
+Computer Systems Analyst,PeopleSoft,2.49,onet_tool
+Business Intelligence Analyst,Salesforce,2.49,onet_tool
+Business Intelligence Analyst,PeopleSoft,2.49,onet_tool
+Business Intelligence Analyst,Marketing,2.49,onet_tool
+Data Warehousing Specialist,SAS,2.49,onet_tool
+Database Administrator,Salesforce,2.49,onet_tool
+Database Administrator,PeopleSoft,2.49,onet_tool
+Database Administrator,Azure,2.49,onet_tool
+Database Administrator,C#,2.49,onet_tool
+Database Administrator,Spark,2.49,onet_tool
+Statistician,SAP/ERP,2.49,onet_tool
+Web Developer,Salesforce,2.49,onet_tool
+Web Developer,Python,2.49,onet_tool
+Web Developer,C#,2.49,onet_tool
+Logistics Analyst,PeopleSoft,2.49,onet_tool
+Computer Programmer,PeopleSoft,2.49,onet_tool
+Management Analyst,PeopleSoft,2.49,onet_tool
+Management Analyst,Python,2.49,onet_tool
+Info Security Analyst,SAP/ERP,2.49,onet_tool
+Info Security Analyst,PeopleSoft,2.49,onet_tool
+Marketing Manager,Salesforce,2.49,onet_tool
+Marketing Manager,PeopleSoft,2.49,onet_tool
+Marketing Manager,Python,2.49,onet_tool
+Marketing Manager,QuickBooks/Sage,2.49,onet_tool
+Management Analyst,Salesforce,2.49,onet_tool
+Operations Manager,Salesforce,2.49,onet_tool
+Operations Manager,PeopleSoft,2.49,onet_tool
+Software Developer,R,2.46,onet_tool
+Budget Analyst,QuickBooks/Sage,2.46,onet_tool
+Project Manager,Data Visualization,2.42,domain
+HR Manager,SPSS,2.4,onet_tool
+HR Manager,Statistics,2.4,domain+onet_tool
+Training Specialist,Databases,2.4,domain
+Data Scientist,Excel,2.4,onet_tool
+Data Scientist,PyTorch,2.4,onet_tool
+Data Scientist,Java,2.4,onet_tool
+Data Scientist,Power BI,2.4,onet_tool
+Software Developer,Alteryx,2.4,onet_tool
+HR Specialist,Workday,2.4,onet_tool
+HR Specialist,Tableau,2.4,onet_tool
+HR Specialist,SAS,2.4,onet_tool
+HR Specialist,Salesforce,2.4,onet_tool
+HR Specialist,Marketing,2.4,onet_tool
+HR Specialist,SPSS,2.4,onet_tool
+HR Specialist,HTML/CSS,2.4,onet_tool
+Compensation Specialist,PeopleSoft,2.4,onet_tool
+Compensation Specialist,SPSS,2.4,onet_tool
+Budget Analyst,SQL,2.4,onet_tool
+Industrial Engineer,SAS,2.4,onet_tool
+Software Developer,Photoshop,2.4,onet_tool
+Software Developer,InDesign,2.4,onet_tool
+Software Developer,Illustrator,2.4,onet_tool
+Software Developer,After Effects,2.4,onet_tool
+Computer Research Scientist,Kafka,2.4,onet_tool
+Computer Research Scientist,Airflow,2.4,onet_tool
+QA Analyst,Kafka,2.4,onet_tool
+QA Analyst,Spark,2.4,onet_tool
+Project Manager,Statistics,2.4,domain+onet_tool
+QA Analyst,Illustrator,2.4,onet_tool
+Web Developer,Statistics,2.4,domain
+QA Analyst,After Effects,2.4,onet_tool
+Computer Research Scientist,Node.js,2.4,onet_tool
+Computer Research Scientist,Power BI,2.4,onet_tool
+Computer Research Scientist,Excel,2.4,onet_tool
+Financial Manager,Workday,2.4,onet_tool
+Financial Manager,Tableau,2.4,onet_tool
+Financial Manager,SAS,2.4,onet_tool
+HR Specialist,Photoshop,2.4,onet_tool
+HR Specialist,InDesign,2.4,onet_tool
+HR Specialist,Illustrator,2.4,onet_tool
+Financial Manager,Salesforce,2.4,onet_tool
+Financial Manager,Marketing,2.4,onet_tool
+Financial Manager,SPSS,2.4,onet_tool
+Financial Manager,Statistics,2.4,domain+onet_tool
+Financial Manager,Alteryx,2.4,onet_tool
+Financial Analyst,MATLAB,2.4,onet_tool
+Financial Analyst,SAS,2.4,onet_tool
+Financial Analyst,Java,2.4,onet_tool
+Financial Analyst,Power BI,2.4,onet_tool
+Financial Analyst,Azure,2.4,onet_tool
+Financial Analyst,JavaScript,2.4,onet_tool
+Financial Analyst,SPSS,2.4,onet_tool
+QA Analyst,Photoshop,2.4,onet_tool
+QA Analyst,InDesign,2.4,onet_tool
+Computer Systems Analyst,Kafka,2.4,onet_tool
+Computer Systems Analyst,Photoshop,2.4,onet_tool
+Computer Systems Analyst,Illustrator,2.4,onet_tool
+Compensation Specialist,Databases,2.4,domain
+Computer Research Scientist,Azure,2.4,onet_tool
+Computer Research Scientist,Kubernetes,2.4,onet_tool
+Computer Research Scientist,SPSS,2.4,onet_tool
+Computer Research Scientist,Google Analytics,2.4,onet_tool
+Computer Research Scientist,Docker,2.4,onet_tool
+Computer Research Scientist,Spark,2.4,onet_tool
+Network Architect,SAP/ERP,2.4,onet_tool
+Network Architect,Node.js,2.4,onet_tool
+Network Architect,Excel,2.4,onet_tool
+Network Architect,Azure,2.4,onet_tool
+Network Architect,Docker,2.4,onet_tool
+Network Architect,SolidWorks,2.4,onet_tool
+Operations Research Analyst,Tableau,2.4,onet_tool
+Operations Research Analyst,Incident Response,2.4,onet_tool
+Computer Research Scientist,Snowflake,2.4,onet_tool
+Computer Research Scientist,SAS,2.4,onet_tool
+Computer Research Scientist,PyTorch,2.4,onet_tool
+Computer Systems Analyst,Docker,2.4,onet_tool
+Computer Systems Analyst,C++,2.4,onet_tool
+Computer Systems Analyst,Spark,2.4,onet_tool
+Operations Research Analyst,Git,2.4,onet_tool
+Operations Research Analyst,C++,2.4,onet_tool
+Project Manager,Tableau,2.4,onet_tool
+Project Manager,SAS,2.4,onet_tool
+Project Manager,Salesforce,2.4,onet_tool
+Project Manager,PeopleSoft,2.4,onet_tool
+Project Manager,SQL,2.4,onet_tool
+Project Manager,Azure,2.4,onet_tool
+Project Manager,Marketing,2.4,onet_tool
+Project Manager,Linux,2.4,onet_tool
+Project Manager,QuickBooks/Sage,2.4,onet_tool
+Project Manager,SPSS,2.4,onet_tool
+Financial Analyst,C#,2.4,onet_tool
+Financial Analyst,Hadoop,2.4,onet_tool
+Financial Analyst,AWS,2.4,onet_tool
+Business Intelligence Analyst,Azure,2.4,onet_tool
+Database Architect,C++,2.4,onet_tool
+Database Architect,Spark,2.4,onet_tool
+Database Architect,Kafka,2.4,onet_tool
+Database Architect,Airflow,2.4,onet_tool
+Network Architect,C++,2.4,onet_tool
+Operations Research Analyst,SAS,2.4,onet_tool
+Operations Research Analyst,Salesforce,2.4,onet_tool
+Operations Research Analyst,PeopleSoft,2.4,onet_tool
+Operations Research Analyst,Power BI,2.4,onet_tool
+Operations Research Analyst,Marketing,2.4,onet_tool
+Operations Research Analyst,SPSS,2.4,onet_tool
+Network Architect,C#,2.4,onet_tool
+Network Architect,AutoCAD,2.4,onet_tool
+Network Architect,Spark,2.4,onet_tool
+Network Architect,Kafka,2.4,onet_tool
+Network Architect,After Effects,2.4,onet_tool
+Database Architect,Excel,2.4,onet_tool
+Database Architect,Azure,2.4,onet_tool
+Business Intelligence Analyst,C#,2.4,onet_tool
+Business Intelligence Analyst,Spark,2.4,onet_tool
+Business Intelligence Analyst,Kafka,2.4,onet_tool
+Business Intelligence Analyst,Alteryx,2.4,onet_tool
+Training Specialist,InDesign,2.4,onet_tool
+Logistics Analyst,SPSS,2.4,onet_tool
+Data Scientist,Kubernetes,2.4,onet_tool
+Financial Analyst,C++,2.4,onet_tool
+Info Security Analyst,SAS,2.4,onet_tool
+Info Security Analyst,Salesforce,2.4,onet_tool
+Computer Programmer,Node.js,2.4,onet_tool
+Computer Programmer,Excel,2.4,onet_tool
+Computer Programmer,Azure,2.4,onet_tool
+Web Developer,Figma,2.4,onet_tool
+Web Developer,Docker,2.4,onet_tool
+Web Developer,Cisco,2.4,onet_tool
+Web Developer,C++,2.4,onet_tool
+Web Developer,Spark,2.4,onet_tool
+Web Developer,Kafka,2.4,onet_tool
+Web Developer,Photoshop,2.4,onet_tool
+Business Intelligence Analyst,SPSS,2.4,onet_tool
+Business Intelligence Analyst,HTML/CSS,2.4,onet_tool
+Business Intelligence Analyst,Google Analytics,2.4,onet_tool
+Business Intelligence Analyst,C++,2.4,onet_tool
+Data Warehousing Specialist,Jira,2.4,onet_tool
+Data Warehousing Specialist,Kafka,2.4,onet_tool
+Data Scientist,SPSS,2.4,onet_tool
+Database Architect,SPSS,2.4,onet_tool
+Database Architect,Google Analytics,2.4,onet_tool
+Database Architect,Docker,2.4,onet_tool
+Database Administrator,C++,2.4,onet_tool
+Database Administrator,Kafka,2.4,onet_tool
+Database Administrator,Airflow,2.4,onet_tool
+Data Scientist,Docker,2.4,onet_tool
+Data Scientist,C++,2.4,onet_tool
+Data Scientist,C#,2.4,onet_tool
+Data Scientist,Kafka,2.4,onet_tool
+Project Manager,Cisco,2.4,onet_tool
+Info Security Analyst,Test Automation,2.4,onet_tool
+Database Administrator,Google Analytics,2.4,onet_tool
+Database Administrator,Docker,2.4,onet_tool
+Database Administrator,Cisco,2.4,onet_tool
+Statistician,Hadoop,2.4,onet_tool
+Statistician,AWS,2.4,onet_tool
+Project Manager,AutoCAD,2.4,onet_tool
+Data Warehousing Specialist,MATLAB,2.4,onet_tool
+Info Security Analyst,Java,2.4,onet_tool
+Info Security Analyst,Node.js,2.4,onet_tool
+Info Security Analyst,Excel,2.4,onet_tool
+Data Warehousing Specialist,Azure,2.4,onet_tool
+Data Warehousing Specialist,.NET,2.4,onet_tool
+Data Warehousing Specialist,SPSS,2.4,onet_tool
+Data Warehousing Specialist,C++,2.4,onet_tool
+Data Warehousing Specialist,C#,2.4,onet_tool
+Data Warehousing Specialist,Power BI,2.4,onet_tool
+Data Warehousing Specialist,Excel,2.4,onet_tool
+Statistician,MATLAB,2.4,onet_tool
+Statistician,Tableau,2.4,onet_tool
+Market Research Analyst,Illustrator,2.4,onet_tool
+Market Research Analyst,After Effects,2.4,onet_tool
+Web Developer,InDesign,2.4,onet_tool
+Web Developer,Illustrator,2.4,onet_tool
+Web Developer,After Effects,2.4,onet_tool
+Project Manager,Photoshop,2.4,onet_tool
+Project Manager,InDesign,2.4,onet_tool
+Industrial Engineer,Databases,2.4,domain
+Database Administrator,Marketing,2.4,onet_tool
+Database Administrator,Kubernetes,2.4,onet_tool
+Database Administrator,SPSS,2.4,onet_tool
+Info Security Analyst,HTML/CSS,2.4,onet_tool
+Info Security Analyst,Docker,2.4,onet_tool
+Info Security Analyst,C++,2.4,onet_tool
+Computer Programmer,SPSS,2.4,onet_tool
+Market Research Analyst,Linux,2.4,onet_tool
+Market Research Analyst,PeopleSoft,2.4,onet_tool
+Market Research Analyst,JavaScript,2.4,onet_tool
+Market Research Analyst,HubSpot,2.4,onet_tool
+Market Research Analyst,Google Analytics,2.4,onet_tool
+Market Research Analyst,Photoshop,2.4,onet_tool
+Compensation Specialist,Workday,2.4,onet_tool
+Data Warehousing Specialist,Tableau,2.4,onet_tool
+Data Warehousing Specialist,Incident Response,2.4,onet_tool
+Data Warehousing Specialist,PeopleSoft,2.4,onet_tool
+Data Warehousing Specialist,Java,2.4,onet_tool
+Management Analyst,Marketing,2.4,onet_tool
+Management Analyst,SPSS,2.4,onet_tool
+Management Analyst,Google Analytics,2.4,onet_tool
+Management Analyst,Cisco,2.4,onet_tool
+Management Analyst,C++,2.4,onet_tool
+Computer Programmer,Google Analytics,2.4,onet_tool
+Computer Programmer,Docker,2.4,onet_tool
+Computer Programmer,Spark,2.4,onet_tool
+Computer Programmer,Kafka,2.4,onet_tool
+Computer Programmer,Photoshop,2.4,onet_tool
+Computer Programmer,Illustrator,2.4,onet_tool
+Compensation Specialist,SAS,2.4,onet_tool
+Statistician,Excel,2.4,onet_tool
+Statistician,C++,2.4,onet_tool
+Statistician,Spark,2.4,onet_tool
+Info Security Analyst,Azure,2.4,onet_tool
+Logistics Analyst,Statistics,2.4,domain+onet_tool
+Marketing Manager,Git,2.4,onet_tool
+Marketing Manager,SPSS,2.4,onet_tool
+Info Security Analyst,C#,2.4,onet_tool
+Info Security Analyst,Spark,2.4,onet_tool
+Info Security Analyst,Kafka,2.4,onet_tool
+Industrial Engineer,SAP/ERP,2.4,onet_tool
+Industrial Engineer,Python,2.4,onet_tool
+Operations Manager,MATLAB,2.4,onet_tool
+Operations Manager,Tableau,2.4,onet_tool
+Operations Manager,Incident Response,2.4,onet_tool
+Operations Manager,Linux,2.4,onet_tool
+Operations Manager,SAS,2.4,onet_tool
+Operations Manager,Marketing,2.4,onet_tool
+Operations Manager,SPSS,2.4,onet_tool
+Marketing Manager,Figma,2.4,onet_tool
+Management Analyst,C#,2.4,onet_tool
+Management Analyst,Spark,2.4,onet_tool
+Management Analyst,Kafka,2.4,onet_tool
+Management Analyst,Alteryx,2.4,onet_tool
+Market Research Analyst,InDesign,2.4,onet_tool
+Marketing Manager,AWS,2.4,onet_tool
+Marketing Manager,Photoshop,2.4,onet_tool
+Marketing Manager,InDesign,2.4,onet_tool
+Marketing Manager,Illustrator,2.4,onet_tool
+Marketing Manager,After Effects,2.4,onet_tool
+Industrial Engineer,Excel,2.4,onet_tool
+Industrial Engineer,Git,2.4,onet_tool
+Industrial Engineer,SolidWorks,2.4,onet_tool
+Industrial Engineer,C++,2.4,onet_tool
+QA Analyst,AutoCAD,2.4,onet_tool
+Budget Analyst,Power BI,2.4,onet_tool
+Operations Manager,HubSpot,2.4,onet_tool
+Operations Manager,Google Analytics,2.4,onet_tool
+Operations Manager,AutoCAD,2.4,onet_tool
+Operations Manager,Hadoop,2.4,onet_tool
+Operations Manager,AWS,2.4,onet_tool
+Operations Manager,Photoshop,2.4,onet_tool
+HR Specialist,Google Analytics,2.4,onet_tool
+HR Specialist,Git,2.4,onet_tool
+Market Research Analyst,MATLAB,2.4,onet_tool
+Market Research Analyst,SAS,2.4,onet_tool
+Market Research Analyst,Salesforce,2.4,onet_tool
+Marketing Manager,HubSpot,2.4,onet_tool
+Logistics Analyst,Power BI,2.4,onet_tool
+Data Scientist,Azure,2.4,onet_tool
+Training Specialist,Illustrator,2.4,onet_tool
+Training Specialist,After Effects,2.4,onet_tool
+HR Specialist,Cisco,2.4,onet_tool
+HR Manager,Workday,2.4,onet_tool
+Training Specialist,Photoshop,2.4,onet_tool
+Data Scientist,Airflow,2.4,onet_tool
+Data Scientist,Alteryx,2.4,onet_tool
+Training Specialist,SAP/ERP,2.4,onet_tool
+Training Specialist,SPSS,2.4,onet_tool
+Training Specialist,Statistics,2.4,domain+onet_tool
+Training Specialist,HTML/CSS,2.4,onet_tool
+Training Specialist,Cisco,2.4,onet_tool
+HR Manager,PeopleSoft,2.4,onet_tool
+Logistics Analyst,MATLAB,2.4,onet_tool
+Management Analyst,InDesign,2.4,onet_tool
+HR Specialist,Systems Evaluation,2.38,onet
+Web Developer,Management of Personnel Resources,2.38,onet
+Industrial Engineer,Operations Monitoring,2.38,onet
+Industrial Engineer,Negotiation,2.38,onet
+Financial Manager,Management of Material Resources,2.38,onet
+Database Administrator,Technology Design,2.38,onet
+Operations Manager,Quality Control Analysis,2.38,onet
+HR Manager,Operations Analysis,2.38,onet
+HR Manager,Management of Material Resources,2.38,onet
+Budget Analyst,Management of Personnel Resources,2.38,onet
+Training Specialist,Mathematics,2.38,onet
+Data Warehousing Specialist,Quality Control Analysis,2.38,onet
+Computer Programmer,Learning Strategies,2.38,onet
+Network Architect,Management of Material Resources,2.38,onet
+Computer Research Scientist,Quality Control Analysis,2.38,onet
+Data Scientist,Management of Personnel Resources,2.38,onet
+Computer Research Scientist,Troubleshooting,2.38,onet
+Operations Manager,CRM,2.37,onet_tool
+Budget Analyst,Data Visualization,2.27,domain
+Budget Analyst,PeopleSoft,2.26,onet_tool
+Operations Manager,Accounting,2.26,onet_tool
+HR Specialist,R,2.26,onet_tool
+Financial Manager,Tax,2.26,onet_tool
+Compensation Specialist,ADP,2.26,onet_tool
+Project Manager,LMS,2.26,onet_tool
+HR Specialist,.NET,2.26,onet_tool
+Budget Analyst,Performance Management,2.26,onet_tool
+Computer Programmer,Service Orientation,2.25,onet
+Web Developer,Operations Monitoring,2.25,onet
+Management Analyst,Management of Material Resources,2.25,onet
+Data Scientist,Negotiation,2.25,onet
+Computer Programmer,Troubleshooting,2.25,onet
+Training Specialist,Management of Financial Resources,2.25,onet
+Training Specialist,Management of Material Resources,2.25,onet
+Computer Research Scientist,Management of Material Resources,2.25,onet
+Industrial Engineer,Quality Control Analysis,2.25,onet
+Computer Systems Analyst,Science,2.25,onet
+Statistician,Service Orientation,2.25,onet
+Management Analyst,Management of Financial Resources,2.25,onet
+Computer Systems Analyst,Equipment Selection,2.25,onet
+Software Developer,Management of Personnel Resources,2.25,onet
+Info Security Analyst,Mathematics,2.25,onet
+Operations Manager,Operations Monitoring,2.25,onet
+Statistician,Management of Personnel Resources,2.25,onet
+Logistics Analyst,Quality Control Analysis,2.25,onet
+Industrial Engineer,Operation and Control,2.25,onet
+Computer Programmer,Operations Monitoring,2.25,onet
+Budget Analyst,Operations Analysis,2.25,onet
+Network Architect,Equipment Maintenance,2.25,onet
+Compensation Specialist,QuickBooks/Sage,2.14,onet_tool
+Industrial Engineer,Deep Learning,2.14,onet_tool
+HR Specialist,ADP,2.14,onet_tool
+Budget Analyst,.NET,2.14,onet_tool
+Financial Manager,HRIS,2.14,onet_tool
+Operations Research Analyst,Cloud Computing,2.14,onet_tool
+Operations Research Analyst,UI/UX Design,2.14,onet_tool
+Operations Research Analyst,Accounting,2.14,onet_tool
+Operations Research Analyst,Stata,2.14,onet_tool
+Statistician,Data Warehousing,2.14,onet_tool
+Statistician,Minitab,2.14,onet_tool
+Operations Manager,ADP,2.14,onet_tool
+Statistician,Translation,2.14,onet_tool
+Statistician,Forecasting,2.14,onet_tool
+Data Warehousing Specialist,UI/UX Design,2.14,onet_tool
+Statistician,Java,2.14,onet_tool
+Industrial Engineer,Java,2.14,onet_tool
+Market Research Analyst,SEM/Google Ads,2.14,onet_tool
+Market Research Analyst,Minitab,2.14,onet_tool
+Operations Research Analyst,Cisco,2.14,onet_tool
+Project Manager,Social Media Marketing,2.14,onet_tool
+Financial Analyst,R,2.14,onet_tool
+Operations Research Analyst,Minitab,2.14,onet_tool
+Operations Research Analyst,Java,2.14,onet_tool
+HR Manager,Social Media Marketing,2.14,onet_tool
+HR Manager,.NET,2.14,onet_tool
+HR Manager,Accounting,2.14,onet_tool
+HR Manager,Tax,2.14,onet_tool
+HR Manager,R,2.14,onet_tool
+Training Specialist,Cloud Computing,2.14,onet_tool
+Training Specialist,R,2.14,onet_tool
+Financial Manager,ADP,2.14,onet_tool
+Industrial Engineer,Minitab,2.14,onet_tool
+HR Specialist,LMS,2.14,onet_tool
+Industrial Engineer,Translation,2.14,onet_tool
+Logistics Analyst,Stata,2.14,onet_tool
+Market Research Analyst,Data Warehousing,2.14,onet_tool
+Market Research Analyst,Cybersecurity,2.14,onet_tool
+Logistics Analyst,Minitab,2.14,onet_tool
+Operations Research Analyst,Jupyter,2.14,onet_tool
+Project Manager,ADP,2.14,onet_tool
+Financial Analyst,Stata,2.14,onet_tool
+Network Architect,Science,2.12,onet
+Project Manager,Operations Analysis,2.12,onet
+Industrial Engineer,Management of Financial Resources,2.12,onet
+Data Warehousing Specialist,Management of Personnel Resources,2.12,onet
+Info Security Analyst,Troubleshooting,2.12,onet
+Project Manager,Quality Control Analysis,2.12,onet
+Computer Programmer,Negotiation,2.12,onet
+Network Architect,Repairing,2.12,onet
+Database Architect,Operations Monitoring,2.12,onet
+QA Analyst,Management of Personnel Resources,2.12,onet
+Management Analyst,Technology Design,2.12,onet
+Industrial Engineer,Science,2.12,onet
+Operations Research Analyst,Negotiation,2.12,onet
+QA Analyst,Negotiation,2.12,onet
+Logistics Analyst,Operations Monitoring,2.12,onet
+Industrial Engineer,Technology Design,2.12,onet
+Web Developer,Troubleshooting,2.12,onet
+Logistics Analyst,Operations Analysis,2.12,onet
+Software Developer,Equipment Selection,2.12,onet
+Info Security Analyst,Technology Design,2.12,onet
+Software Developer,Science,2.12,onet
+Computer Systems Analyst,Management of Financial Resources,2.12,onet
+Business Intelligence Analyst,Management of Personnel Resources,2.12,onet
+Computer Systems Analyst,Data Analysis,2.09,domain
+Web Developer,Data Analysis,2.09,domain
+Marketing Manager,Data Analysis,2.09,domain
+Computer Research Scientist,Data Analysis,2.09,domain
+QA Analyst,Data Analysis,2.09,domain
+Computer Programmer,Data Analysis,2.09,domain
+Management Analyst,Data Analysis,2.09,domain
+Database Administrator,Data Analysis,2.09,domain
+Database Architect,Data Analysis,2.09,domain
+Software Developer,Data Analysis,2.09,domain
+Web Developer,Science,2.0,onet
+Database Architect,Management of Material Resources,2.0,onet
+Computer Programmer,Management of Financial Resources,2.0,onet
+HR Specialist,Mathematics,2.0,onet
+QA Analyst,Installation,2.0,onet
+Logistics Analyst,Programming,2.0,onet
+Financial Analyst,Management of Material Resources,2.0,onet
+Statistician,Negotiation,2.0,onet
+Software Developer,Operation and Control,2.0,onet
+Compensation Specialist,Management of Financial Resources,2.0,onet
+Web Developer,Equipment Selection,2.0,onet
+Financial Analyst,Operations Monitoring,2.0,onet
+Database Administrator,Science,2.0,onet
+Computer Systems Analyst,Management of Material Resources,2.0,onet
+HR Manager,Programming,2.0,onet
+Database Administrator,Negotiation,2.0,onet
+Computer Research Scientist,Operation and Control,2.0,onet
+Industrial Engineer,Troubleshooting,2.0,onet
+Statistician,Quality Control Analysis,2.0,onet
+Budget Analyst,Management of Material Resources,2.0,onet
+Computer Programmer,Management of Material Resources,2.0,onet
+Financial Analyst,Operations Analysis,2.0,onet
+Database Architect,Management of Financial Resources,2.0,onet
+Database Architect,Quality Control Analysis,2.0,onet
+Training Specialist,Operations Monitoring,2.0,onet
+Market Research Analyst,Science,2.0,onet
+Market Research Analyst,Programming,2.0,onet
+Business Intelligence Analyst,Quality Control Analysis,2.0,onet
+Compensation Specialist,Data Visualization,1.91,domain
+Financial Analyst,Technology Design,1.88,onet
+Operations Manager,Operation and Control,1.88,onet
+Statistician,Operations Monitoring,1.88,onet
+Operations Research Analyst,Operations Monitoring,1.88,onet
+Info Security Analyst,Science,1.88,onet
+Management Analyst,Programming,1.88,onet
+Industrial Engineer,Programming,1.88,onet
+Financial Manager,Quality Control Analysis,1.88,onet
+HR Specialist,Management of Financial Resources,1.88,onet
+HR Specialist,Management of Material Resources,1.88,onet
+Database Architect,Troubleshooting,1.88,onet
+Marketing Manager,Quality Control Analysis,1.88,onet
+Market Research Analyst,Management of Financial Resources,1.88,onet
+QA Analyst,Operation and Control,1.88,onet
+Data Scientist,Operations Monitoring,1.88,onet
+Financial Manager,Machine Learning,1.88,domain
+Database Architect,Science,1.88,onet
+Operations Research Analyst,Management of Material Resources,1.88,onet
+Operations Research Analyst,Quality Control Analysis,1.88,onet
+Operations Research Analyst,Management of Financial Resources,1.88,onet
+Statistician,Management of Financial Resources,1.88,onet
+Marketing Manager,Operations Monitoring,1.88,onet
+Budget Analyst,Operations Monitoring,1.88,onet
+Computer Systems Analyst,Equipment Maintenance,1.88,onet
+Database Administrator,Management of Material Resources,1.88,onet
+Software Developer,Installation,1.88,onet
+Business Intelligence Analyst,Operations Analysis,1.88,onet
+Management Analyst,Machine Learning,1.88,domain
+Financial Manager,Programming,1.88,onet
+Marketing Manager,Technology Design,1.88,onet
+Network Architect,Data Analysis,1.88,domain
+Data Warehousing Specialist,Science,1.88,onet
+Business Intelligence Analyst,Machine Learning,1.88,domain
+Budget Analyst,Databases,1.88,domain
+Compensation Specialist,Science,1.88,onet
+Business Intelligence Analyst,Management of Financial Resources,1.88,onet
+Computer Systems Analyst,Repairing,1.88,onet
+Financial Analyst,Science,1.88,onet
+Financial Manager,Operations Monitoring,1.88,onet
+Financial Analyst,Data Analysis,1.88,domain
+Management Analyst,Science,1.88,onet
+Market Research Analyst,Management of Material Resources,1.88,onet
+Logistics Analyst,Technology Design,1.88,onet
+Project Manager,Technology Design,1.88,onet
+Training Specialist,Technology Design,1.88,onet
+Data Warehousing Specialist,Operation and Control,1.88,onet
+Project Manager,Databases,1.88,domain
+Project Manager,Programming,1.88,onet
+Training Specialist,Quality Control Analysis,1.88,onet
+Data Warehousing Specialist,Management of Material Resources,1.88,onet
+Data Warehousing Specialist,Data Analysis,1.88,domain
+Info Security Analyst,Statistics,1.88,domain
+Info Security Analyst,Data Analysis,1.88,domain
+Computer Research Scientist,Equipment Selection,1.88,onet
+Industrial Engineer,Data Analysis,1.88,domain
+Data Scientist,Quality Control Analysis,1.88,onet
+Logistics Analyst,Science,1.75,onet
+Operations Research Analyst,Technology Design,1.75,onet
+HR Specialist,Quality Control Analysis,1.75,onet
+Budget Analyst,Technology Design,1.75,onet
+Management Analyst,Operations Monitoring,1.75,onet
+Marketing Manager,Science,1.75,onet
+Info Security Analyst,Management of Material Resources,1.75,onet
+Financial Manager,Operations Analysis,1.75,onet
+Info Security Analyst,Equipment Selection,1.75,onet
+Info Security Analyst,Operation and Control,1.75,onet
+Financial Analyst,Quality Control Analysis,1.75,onet
+Info Security Analyst,Management of Financial Resources,1.75,onet
+Budget Analyst,Programming,1.75,onet
+Marketing Manager,Programming,1.75,onet
+Database Administrator,Management of Financial Resources,1.75,onet
+Management Analyst,Quality Control Analysis,1.75,onet
+Market Research Analyst,Technology Design,1.75,onet
+Market Research Analyst,Operations Monitoring,1.75,onet
+Web Developer,Management of Financial Resources,1.75,onet
+QA Analyst,Equipment Selection,1.75,onet
+Business Intelligence Analyst,Operations Monitoring,1.75,onet
+Business Intelligence Analyst,Management of Material Resources,1.75,onet
+Statistician,Management of Material Resources,1.75,onet
+Database Architect,Operation and Control,1.75,onet
+Network Architect,Installation,1.75,onet
+Software Developer,Management of Financial Resources,1.75,onet
+Web Developer,Management of Material Resources,1.75,onet
+Data Warehousing Specialist,Management of Financial Resources,1.75,onet
+Compensation Specialist,Management of Material Resources,1.75,onet
+HR Specialist,Technology Design,1.75,onet
+Operations Manager,Troubleshooting,1.75,onet
+HR Manager,Data Visualization,1.66,domain
+Financial Manager,Technology Design,1.62,onet
+Info Security Analyst,Equipment Maintenance,1.62,onet
+Data Scientist,Technology Design,1.62,onet
+Computer Systems Analyst,Installation,1.62,onet
+Project Manager,Troubleshooting,1.62,onet
+Business Intelligence Analyst,Technology Design,1.62,onet
+HR Manager,Quality Control Analysis,1.62,onet
+Statistician,Technology Design,1.62,onet
+Business Intelligence Analyst,Science,1.62,onet
+Web Developer,Operation and Control,1.62,onet
+Info Security Analyst,Repairing,1.62,onet
+Database Architect,Installation,1.62,onet
+HR Specialist,Programming,1.62,onet
+Data Warehousing Specialist,Troubleshooting,1.62,onet
+Training Specialist,Science,1.62,onet
+Compensation Specialist,Programming,1.62,onet
+Database Architect,Equipment Selection,1.62,onet
+Software Developer,Management of Material Resources,1.62,onet
+HR Specialist,Operations Monitoring,1.5,onet
+Logistics Analyst,Troubleshooting,1.5,onet
+Data Scientist,Management of Material Resources,1.5,onet
+Data Scientist,Operations Analysis,1.5,onet
+Info Security Analyst,Installation,1.5,onet
+Operations Manager,Programming,1.5,onet
+Compensation Specialist,Operations Monitoring,1.5,onet
+HR Manager,Technology Design,1.5,onet
+Compensation Specialist,Technology Design,1.5,onet
+QA Analyst,Management of Material Resources,1.5,onet
+Operations Manager,Science,1.5,onet
+Operations Manager,Technology Design,1.5,onet
+Data Warehousing Specialist,Equipment Selection,1.5,onet
+Training Specialist,Programming,1.5,onet
+Database Administrator,Equipment Selection,1.5,onet
+QA Analyst,Management of Financial Resources,1.5,onet
+Project Manager,Operations Monitoring,1.5,onet
+Market Research Analyst,Quality Control Analysis,1.5,onet
+HR Manager,Operations Monitoring,1.5,onet
+Database Administrator,Operation and Control,1.5,onet
+HR Manager,Science,1.5,onet
+Data Scientist,Management of Financial Resources,1.38,onet
+Project Manager,Science,1.38,onet
+Business Intelligence Analyst,Operation and Control,1.38,onet
+Database Administrator,Installation,1.38,onet
+Management Analyst,Operation and Control,1.38,onet
+Compensation Specialist,Quality Control Analysis,1.38,onet
+Data Scientist,Operation and Control,1.25,onet
+Financial Manager,Troubleshooting,1.25,onet
+Financial Manager,Science,1.25,onet
+Financial Manager,Equipment Selection,1.25,onet
+HR Manager,Operation and Control,1.25,onet
+Management Analyst,Troubleshooting,1.25,onet
+Software Developer,Equipment Maintenance,1.25,onet
+HR Specialist,Operations Analysis,1.25,onet
+Computer Programmer,Installation,1.25,onet
+Industrial Engineer,Equipment Selection,1.25,onet
+Web Developer,Installation,1.25,onet
+Budget Analyst,Science,1.25,onet
+Operations Research Analyst,Troubleshooting,1.25,onet
+Data Scientist,Troubleshooting,1.12,onet
+Data Scientist,Equipment Selection,1.12,onet
+Training Specialist,Operation and Control,1.12,onet
+Project Manager,Equipment Maintenance,1.12,onet
+Project Manager,Equipment Selection,1.12,onet
+Data Warehousing Specialist,Equipment Maintenance,1.12,onet
+Project Manager,Operation and Control,1.12,onet
+Training Specialist,Equipment Selection,1.12,onet
+Database Administrator,Repairing,1.12,onet
+Data Warehousing Specialist,Repairing,1.12,onet
+Computer Programmer,Operation and Control,1.12,onet
+Financial Analyst,Troubleshooting,1.12,onet
+Database Architect,Repairing,1.12,onet
+QA Analyst,Repairing,1.12,onet
+Database Architect,Equipment Maintenance,1.12,onet
+HR Specialist,Science,1.12,onet
+Software Developer,Repairing,1.12,onet
+HR Specialist,Operation and Control,1.12,onet
+Computer Research Scientist,Equipment Maintenance,1.12,onet
+Financial Manager,Operation and Control,1.12,onet
+Financial Analyst,Operation and Control,1.12,onet
+Management Analyst,Equipment Selection,1.12,onet
+Computer Research Scientist,Repairing,1.12,onet
+Budget Analyst,Quality Control Analysis,1.12,onet
+Operations Research Analyst,Operation and Control,1.12,onet
+Data Scientist,Installation,1.0,onet
+Data Scientist,Equipment Maintenance,1.0,onet
+Statistician,Troubleshooting,1.0,onet
+Statistician,Equipment Maintenance,1.0,onet
+Operations Research Analyst,Equipment Selection,1.0,onet
+Budget Analyst,Installation,1.0,onet
+Budget Analyst,Equipment Selection,1.0,onet
+Operations Research Analyst,Equipment Maintenance,1.0,onet
+Operations Research Analyst,Repairing,1.0,onet
+Logistics Analyst,Operation and Control,1.0,onet
+Logistics Analyst,Repairing,1.0,onet
+Industrial Engineer,Equipment Maintenance,1.0,onet
+Financial Analyst,Installation,1.0,onet
+Financial Analyst,Repairing,1.0,onet
+Industrial Engineer,Repairing,1.0,onet
+Logistics Analyst,Installation,1.0,onet
+Logistics Analyst,Equipment Selection,1.0,onet
+Financial Manager,Repairing,1.0,onet
+Financial Manager,Equipment Maintenance,1.0,onet
+Financial Manager,Installation,1.0,onet
+Logistics Analyst,Equipment Maintenance,1.0,onet
+Financial Analyst,Equipment Maintenance,1.0,onet
+Financial Analyst,Equipment Selection,1.0,onet
+Industrial Engineer,Installation,1.0,onet
+Computer Research Scientist,Installation,1.0,onet
+HR Specialist,Repairing,1.0,onet
+Statistician,Operation and Control,1.0,onet
+Management Analyst,Installation,1.0,onet
+Budget Analyst,Troubleshooting,1.0,onet
+Budget Analyst,Repairing,1.0,onet
+Operations Research Analyst,Installation,1.0,onet
+Budget Analyst,Operation and Control,1.0,onet
+Budget Analyst,Equipment Maintenance,1.0,onet
+Statistician,Repairing,1.0,onet
+Compensation Specialist,Repairing,1.0,onet
+Computer Programmer,Equipment Selection,1.0,onet
+Business Intelligence Analyst,Equipment Selection,1.0,onet
+Compensation Specialist,Installation,1.0,onet
+Business Intelligence Analyst,Installation,1.0,onet
+HR Manager,Troubleshooting,1.0,onet
+Compensation Specialist,Equipment Selection,1.0,onet
+Operations Manager,Repairing,1.0,onet
+Computer Programmer,Equipment Maintenance,1.0,onet
+Marketing Manager,Equipment Maintenance,1.0,onet
+HR Specialist,Equipment Maintenance,1.0,onet
+HR Specialist,Equipment Selection,1.0,onet
+HR Specialist,Installation,1.0,onet
+HR Specialist,Troubleshooting,1.0,onet
+Operations Manager,Equipment Maintenance,1.0,onet
+Marketing Manager,Operation and Control,1.0,onet
+Marketing Manager,Repairing,1.0,onet
+Operations Manager,Equipment Selection,1.0,onet
+Marketing Manager,Troubleshooting,1.0,onet
+Operations Manager,Installation,1.0,onet
+Business Intelligence Analyst,Equipment Maintenance,1.0,onet
+Compensation Specialist,Operation and Control,1.0,onet
+Compensation Specialist,Equipment Maintenance,1.0,onet
+Computer Programmer,Repairing,1.0,onet
+Business Intelligence Analyst,Troubleshooting,1.0,onet
+Business Intelligence Analyst,Repairing,1.0,onet
+QA Analyst,Equipment Maintenance,1.0,onet
+Compensation Specialist,Troubleshooting,1.0,onet
+HR Manager,Equipment Maintenance,1.0,onet
+Market Research Analyst,Equipment Selection,1.0,onet
+Market Research Analyst,Installation,1.0,onet
+HR Manager,Installation,1.0,onet
+HR Manager,Equipment Selection,1.0,onet
+HR Manager,Repairing,1.0,onet
+Management Analyst,Repairing,1.0,onet
+Management Analyst,Equipment Maintenance,1.0,onet
+Database Administrator,Equipment Maintenance,1.0,onet
+Marketing Manager,Installation,1.0,onet
+Marketing Manager,Equipment Selection,1.0,onet
+Project Manager,Repairing,1.0,onet
+Data Warehousing Specialist,Installation,1.0,onet
+Training Specialist,Installation,1.0,onet
+Project Manager,Installation,1.0,onet
+Statistician,Equipment Selection,1.0,onet
+Statistician,Installation,1.0,onet
+Training Specialist,Troubleshooting,1.0,onet
+Training Specialist,Equipment Maintenance,1.0,onet
+Market Research Analyst,Troubleshooting,1.0,onet
+Market Research Analyst,Equipment Maintenance,1.0,onet
+Market Research Analyst,Operation and Control,1.0,onet
+Training Specialist,Repairing,1.0,onet
+Web Developer,Equipment Maintenance,1.0,onet
+Market Research Analyst,Repairing,1.0,onet
+Web Developer,Repairing,1.0,onet
+Data Scientist,Repairing,1.0,onet

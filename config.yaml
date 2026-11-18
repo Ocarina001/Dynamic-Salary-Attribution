@@ -1,0 +1,123 @@
+# =============================================================================
+# config.yaml —— 全项目唯一手写配置源
+# 任何脚本都从这里读岗位清单 / 数据路径 / 权重 / 阈值，禁止再在 .py 里重复定义。
+#
+# 项目整体跑法（数据流）：
+#   build_specific_skills.py   : O*NET 软件工具 + 培养方案 -> 具体技能表
+#   build_unified_specific.py  : 合并新旧技能表 -> 统一技能表 + 岗位相似度矩阵
+#   path_search.py             : 建图、枚举专业->岗位路径、算 path_length/skill_gap/semantic，
+#                                导出 path_features_specific.csv
+#   recommend_major_jobs.py    : 基于路径特征给专业推荐岗位
+#   （待补）train_xgb_shap.py  : 用路径特征训练 XGBoost 并用 SHAP 解释，输出到 shap_dir
+#
+# 阅读顺序建议：paths（数据在哪）-> jobs（目标岗位）-> weights+graph（打分怎么算）
+#               -> model（模型怎么训）
+# 修改本文件即可调整全系统行为，不需要改代码。
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# 数据与产物路径：键名是脚本里的逻辑名，值是相对项目根目录的路径。
+# 各脚本会把这些路径拼成绝对路径使用（P = {k: ROOT / v ...}）。
+# -----------------------------------------------------------------------------
+paths:
+  onet_dir: onet                       # O*NET 原始数据目录（多数产出文件也写在这里）
+  curricula_dir: onet/bylu_curricula   # 44 个专业的培养方案文本，专业侧技能从这里提取
+  unified_skills: onet/job_skills_unified_specific.csv  # 岗位×技能权重表，路径搜索的岗位侧输入（build_unified_specific.py 生成）
+  software_raw: onet/software_skills.csv  # O*NET 软件工具原始表，build_specific_skills.py 用它把工具名归并成具体技能
+  occupation: onet/occupation_data.csv    # O*NET 职业主表（SOC 代码、职业名、描述等）
+  major_map: onet/major_skill_map_specific.txt  # 专业 -> 具体技能映射，path_search.py 建图时读取（build_specific_skills.py 生成）
+  sim_matrix: Module_B_SemanticMatch/job_similarity_matrix_specific.csv  # 岗位两两相似度矩阵，决定岗位间"跳板"边（build_unified_specific.py 生成）
+  path_features: path_features_specific.csv  # 路径特征导出文件（path_search.py --export 的输出），也是 XGBoost 训练的输入
+  model_dir: models/bge-small-zh-v1.5   # 本地中文 embedding 模型，算"专业名 vs 岗位名"的语义相似度（离线加载）
+  shap_dir: reports                     # SHAP 归因图/报告输出目录，模型解释阶段使用
+
+# -----------------------------------------------------------------------------
+# 29 个目标岗位：左边是显示名（项目内部统一称谓，全项目都用它当键），
+# 右边是 O*NET 官方职业名（用于去 O*NET 表里查技能权重）。
+#
+# 原则：每个岗位必须有 O*NET-SOC 代码，技能权重只来自 O*NET IM 官方分数；
+#       不设任何手工虚构岗位（Kaggle 中不在 O*NET 的标题，统一在
+#       config/kaggle_title_map.csv 里归并到最接近的官方职业）。
+#       注意映射是刻意挑选的，例如 Financial Analyst -> Financial Quantitative
+#       Analysts（金融量化分析师），而不是泛泛的 Financial Analysts。
+# -----------------------------------------------------------------------------
+jobs:
+  Data Scientist: Data Scientists
+  Software Developer: Software Developers
+  Computer Research Scientist: Computer and Information Research Scientists
+  Computer Systems Analyst: Computer Systems Analysts
+  Operations Research Analyst: Operations Research Analysts
+  Database Architect: Database Architects
+  Database Administrator: Database Administrators
+  Data Warehousing Specialist: Data Warehousing Specialists
+  Statistician: Statisticians
+  Marketing Manager: Marketing Managers
+  Management Analyst: Management Analysts
+  Computer Programmer: Computer Programmers
+  Web Developer: Web Developers
+  Business Intelligence Analyst: Business Intelligence Analysts
+  Financial Analyst: Financial Quantitative Analysts
+  Financial Manager: Financial Managers
+  HR Specialist: Human Resources Specialists
+  HR Manager: Human Resources Managers
+  Project Manager: Project Management Specialists
+  Market Research Analyst: Market Research Analysts and Marketing Specialists
+  Operations Manager: General and Operations Managers
+  Info Security Analyst: Information Security Analysts
+  Network Architect: Computer Network Architects
+  QA Analyst: Software Quality Assurance Analysts and Testers
+  Industrial Engineer: Industrial Engineers
+  Logistics Analyst: Logistics Analysts
+  Budget Analyst: Budget Analysts
+  Compensation Specialist: Compensation, Benefits, and Job Analysis Specialists
+  Training Specialist: Training and Development Specialists
+
+# -----------------------------------------------------------------------------
+# 路径代价权重（path_search.py 使用）
+#   cost = path_length * (L / max_hops) + skill_gap * gap + semantic * (1 - sem)
+#         ^ 路径长度项（已除以 max_hops 归一到 0~1）
+#                        ^ 技能缺口项（0~1，见 _compute_skill_gap）
+#                                             ^ 语义距离项（1 - 余弦相似度）
+#
+#   三项都已归一化到 0~1 量级后加权。skill_gap 给 3.0 说明最看重"补齐技能差"；
+#   旧版 3/1/10 是给 gap∈[17,23] 的旧数据尺度设计的，数据尺度变了必须重标定，
+#   直接套用旧权重排序会失真（若仍想复现旧权重，改回 3.0/1.0/10.0 即可）。
+# -----------------------------------------------------------------------------
+weights:
+  path_length: 1.0   # 路径长度权重：惩罚绕路
+  skill_gap: 3.0     # 技能缺口权重：最看重路径能覆盖多少目标岗位技能
+  semantic: 1.0      # 语义距离权重：专业名与岗位名的向量余弦（同一对专业/岗位对所有路径相同，用于跨岗位比较）
+
+# -----------------------------------------------------------------------------
+# 图与代价（path_search.py 建图使用）
+#   建图规则：
+#     专业 --(自身技能)--> 技能 --(岗位要求)--> 岗位
+#     专业 --(技能重合 Top-K)--> 岗位
+#     岗位 <--(相似度 >= 分位阈值)--> 岗位（跳板边）
+#     技能 <--> 技能（共现）
+# -----------------------------------------------------------------------------
+graph:
+  major_to_job_top_k: 2          # 每个专业连到技能重叠数最多的前 K 个岗位
+  major_to_job_min_overlap: 3    # 专业与岗位的技能重叠数下限，低于它不建"专业->岗位"直连边
+  # 相似度阈值按分位数自动确定（数据驱动，避免手拍 0.5）
+  sim_quantile: 0.90            # 岗位对相似度取该分位数为阈值，超过才允许"岗位->岗位"跳板边
+  max_hops: 4                   # 路径最大跳数（同时用于 path_length 归一化：L / max_hops）
+  # 经过中间岗位时，其技能只按该比例折算（否则 26/30 岗位技能名相同，
+  # 任何中转都会让缺口恒为 0）
+  transit_credit: 0.5           # 中转岗位的技能折算系数：途经岗位最多贡献其技能权重的 50%
+  # 专业自有技能不计入路径覆盖（与旧 v1 静态口径区分开）
+  count_major_skills: false     # 是否把专业自身技能计入"已掌握"；false = 只认路径上的技能/岗位
+
+# -----------------------------------------------------------------------------
+# XGBoost 训练与 SHAP 解释（供训练脚本使用，如 train_xgb_shap.py）
+#   输入：paths.path_features（路径特征 CSV），目标一般是 cost 或 gap_reduction 等
+#   输出：paths.shap_dir（SHAP 归因图与 summary 报告）
+# -----------------------------------------------------------------------------
+model:
+  test_size: 0.2        # 训练/测试集划分比例（测试集占 20%）
+  n_splits: 5           # K 折交叉验证折数
+  random_seed: 42       # 固定随机种子，保证划分与训练结果可复现
+  xgb_params:           # XGBoost 超参
+    n_estimators: 300   # 树的数量（迭代轮数）
+    learning_rate: 0.1  # 学习率（每棵树的贡献缩放）
+    max_depth: 6        # 单棵树最大深度
